@@ -1,0 +1,28 @@
+name: Update Fork
+
+on:
+  schedule:
+    - cron: '0 0 * * 4' # Every Thursday at 00:00 UTC
+
+jobs:
+  update-fork:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "apatinoc4"
+          git config --global user.email "apatinoc4@gmail.com"
+
+      - name: Fetch upstream repository
+        run: git remote add upstream https://github.com/shalzuth/wotv-ffbe-dump.git
+
+      - name: Update fork
+        run: |
+          git fetch upstream
+          git checkout main
+          git merge upstream/main --no-edit
+          git push origin main
