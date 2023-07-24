@@ -353,6 +353,10 @@
       "value": ""
     },
     {
+      "key": "SE_EV_DARD_01",
+      "value": ""
+    },
+    {
       "key": "SE_EV_GL_TU_IREZ",
       "value": ""
     },
@@ -489,6 +493,30 @@
       "value": ""
     },
     {
+      "key": "SE_EV_GL_TU_ADSN",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GL_TU_MRND_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GL_TU_HWLT_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GL_TU_DARD",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GL_TU_BATZ",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GL_TU_LENA",
+      "value": ""
+    },
+    {
       "key": "SE_CHAL_04",
       "value": ""
     },
@@ -553,6 +581,10 @@
       "value": ""
     },
     {
+      "key": "SE_EV_AST_020501",
+      "value": ""
+    },
+    {
       "key": "SE_EV_AEX_010101",
       "value": ""
     },
@@ -593,6 +625,10 @@
       "value": ""
     },
     {
+      "key": "SE_EV_AEX_020501",
+      "value": ""
+    },
+    {
       "key": "SE_EV_AEX_SP",
       "value": ""
     },
@@ -629,15 +665,15 @@
       "value": ""
     },
     {
-      "key": "SE_EV_VC_MV2_01",
-      "value": ""
-    },
-    {
       "key": "SE_EV_VC_ADLD_01",
       "value": ""
     },
     {
       "key": "SE_EV_VC_ZZAN_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_VC_MV2_01",
       "value": ""
     },
     {
@@ -897,6 +933,22 @@
       "value": ""
     },
     {
+      "key": "SE_EV_DIAA",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_DIAA_EX",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GLZK",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GLZK_EX",
+      "value": ""
+    },
+    {
       "key": "SE_EV_GL_3M_DL",
       "value": ""
     },
@@ -1026,6 +1078,10 @@
     },
     {
       "key": "SE_EV_ART_CRF_28",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_ART_CRF_29",
       "value": ""
     },
     {
@@ -1242,6 +1298,14 @@
     },
     {
       "key": "SE_EV_FF4_02_EX",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_FF5_01_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_FF5_01_EX",
       "value": ""
     },
     {
@@ -1714,6 +1778,10 @@
     },
     {
       "key": "SE_EV_GL_FFEXU_02_EX",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GL_ADSN",
       "value": ""
     }
   ]

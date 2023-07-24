@@ -1981,6 +1981,16 @@
       "material_item_id": "JBEX_FIRE_UR"
     },
     {
+      "iname": "JB_LW_GLZK_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_SOIL_SSR"
+    },
+    {
       "iname": "JB_FMAM_EDWD_M",
       "lv": {
         "unit": 99,
@@ -2059,6 +2069,76 @@
         "s2": 15
       },
       "material_item_id": "JBEX_THUN_UR"
+    },
+    {
+      "iname": "JB_ADSN_ADSN_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_SHINE_UR"
+    },
+    {
+      "iname": "JB_LW_MRND_01_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_SHINE_UR"
+    },
+    {
+      "iname": "JB_LW_HWLT_01_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_ICE_UR"
+    },
+    {
+      "iname": "JB_LW_DIAA_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_WATER_SSR"
+    },
+    {
+      "iname": "JB_LW_DARD_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_SOIL_UR"
+    },
+    {
+      "iname": "JB_FF5_BATZ_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_SHINE_UR"
+    },
+    {
+      "iname": "JB_FF5_LENA_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_WIND_UR"
     }
   ]
 }

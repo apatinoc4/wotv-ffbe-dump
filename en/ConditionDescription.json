@@ -477,6 +477,18 @@
       "value": "Unit [Viga] is at least Lv. 1"
     },
     {
+      "key": "COND_HA_GL_LW_MRND_01",
+      "value": "Unit [Miranda (Sweetheart)] is at least Lv. 1"
+    },
+    {
+      "key": "COND_HA_LW_HW_01",
+      "value": "Unit [Howlet the Heavensblade] is at least Lv. 1"
+    },
+    {
+      "key": "COND_HA_LW_DARD",
+      "value": "Unit [Dialdo] is at least Lv. 1"
+    },
+    {
       "key": "COND_CH_LW_MONT",
       "value": "Unit [Mont Leonis] is at least Lv. 40"
     },
@@ -1073,6 +1085,10 @@
       "value": "Unit [Ahlim] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_ALIM2",
+      "value": "Unit [Ahlim] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_RARD",
       "value": "Unit [Rhaldor] is at least Lv. 40"
     },
@@ -1379,6 +1395,10 @@
     {
       "key": "COND_CH_FALM",
       "value": "Unit [Pharm] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_FALM2",
+      "value": "Unit [Pharm] is at least Lv. 80"
     },
     {
       "key": "COND_CH_FF15_NCT",
@@ -2009,6 +2029,34 @@
       "value": "Vision card [Sharpening the Dragon's Talons] is at least Lv. 1"
     },
     {
+      "key": "COND_VC_LW_FMAM",
+      "value": "Vision card [Ties of the Bonds of Brotherhood] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_BAHM1",
+      "value": "Vision card [Stygian Conqueror, Dark Bahamut] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_REGN",
+      "value": "Vision card [United Across Worlds] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_MCOR",
+      "value": "Vision card [Whiskered Thunderfangs, Master Coeurl] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_GL_LW_MRND_01",
+      "value": "Vision card [Secret Party] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_HWLT",
+      "value": "Vision card [Journey of the Groms] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_GLEM1",
+      "value": "Vision card [Corrupted Megalith, Dark Golem] is at least Lv. 1"
+    },
+    {
       "key": "COND_CH_LW_MONT2",
       "value": "Unit [Mont Leonis] is at least Lv. 80"
     },
@@ -2397,6 +2445,38 @@
       "value": "Unit [Cadia] is at least Lv. 80"
     },
     {
+      "key": "COND_CH_IR_01_2",
+      "value": "Unit [Ildyra (Sweetheart)] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_LYCS2",
+      "value": "Unit [Rayches] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_RSNC2",
+      "value": "Unit [Resnick] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_RY_02_2",
+      "value": "Unit [Little Leela the Bold] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_SERL2",
+      "value": "Unit [Cyrelle] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_SDLE_2",
+      "value": "Unit [Sadali Crysthea] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_IREZ_2",
+      "value": "Unit [Eliza] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_RNEL_2",
+      "value": "Unit [Ranell] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_FM_EDWD",
       "value": "Unit [Edward Elric] is at least Lv. 40"
     },
@@ -2429,16 +2509,36 @@
       "value": "Unit [Viga] is at least Lv. 40"
     },
     {
-      "key": "COND_VC_LW_FMAM",
-      "value": "Vision card [Ties of the Bonds of Brotherhood] is at least Lv. 1"
+      "key": "COND_CH_ADSN",
+      "value": "Unit [Addison Rae] is at least Lv. 40"
     },
     {
-      "key": "COND_VC_LW_BAHM1",
-      "value": "Vision card [Stygian Conqueror, Dark Bahamut] is at least Lv. 1"
+      "key": "COND_CH_MRND_01",
+      "value": "Unit [Miranda (Sweetheart)] is at least Lv. 40"
     },
     {
-      "key": "COND_VC_LW_REGN",
-      "value": "Vision card [United Across Worlds] is at least Lv. 1"
+      "key": "COND_CH_HWLT_01",
+      "value": "Unit [Howlet the Heavensblade] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_DIAA",
+      "value": "Unit [Deah] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_DARD",
+      "value": "Unit [Dialdo] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_GLZK",
+      "value": "Unit [Galzahk] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_FF5_BATZ",
+      "value": "Unit [Bartz] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_FF5_LENA",
+      "value": "Unit [Lenna] is at least Lv. 40"
     },
     {
       "key": "COND_EV_LW_LCIO",

@@ -7349,6 +7349,10 @@
       "value": ""
     },
     {
+      "key": "SK_LW_SCR_SOIL_S_2_INIT",
+      "value": ""
+    },
+    {
       "key": "SK_LW_SCR_DARK_S_2_INIT",
       "value": ""
     },
@@ -7466,6 +7470,26 @@
     },
     {
       "key": "SK_LW_EC_SCR_C_04B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SCR_A_03",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SCR_C_05",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SCR_C_05B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SCR_C_06",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SCR_C_06B",
       "value": ""
     },
     {
@@ -9657,6 +9681,18 @@
       "value": ""
     },
     {
+      "key": "SK_LW_MHA_S_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_MHA_M_1_SUB",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_MHA_S_2",
+      "value": ""
+    },
+    {
       "key": "SK_LW_MHA_S_1_INIT",
       "value": ""
     },
@@ -10557,6 +10593,22 @@
       "value": ""
     },
     {
+      "key": "SK_LB_LW_STRN_02",
+      "value": ""
+    },
+    {
+      "key": "SK_MA_LW_STRN_02",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_STRN_02",
+      "value": ""
+    },
+    {
+      "key": "SK_ARM_LW_STRN_02_1",
+      "value": ""
+    },
+    {
       "key": "SK_LW_REGN_ATK",
       "value": ""
     },
@@ -10626,22 +10678,6 @@
     },
     {
       "key": "SK_LW_EC_REGN_C_02_C_EN",
-      "value": ""
-    },
-    {
-      "key": "SK_LB_LW_STRN_02",
-      "value": ""
-    },
-    {
-      "key": "SK_MA_LW_STRN_02",
-      "value": ""
-    },
-    {
-      "key": "SK_UES_LW_STRN_02",
-      "value": ""
-    },
-    {
-      "key": "SK_ARM_LW_STRN_02_1",
       "value": ""
     },
     {
@@ -10786,6 +10822,478 @@
     },
     {
       "key": "SK_LW_EC_BIGA_C_02B",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ADSN_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ADSN_M_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ADSN_M_2",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ADSN_M_3",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ADSN_S_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ADSN_S_2",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ADSN_S_3",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ADSN_S_4",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ADSN_R_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ADSN_P_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ADSN_P_2",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ADSN_EN_A_01",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ADSN_EN_A_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ADSN_EN_A_01_B",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_EC_ADSN_C_01",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_EC_ADSN_C_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_EC_ADSN_C_02",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_EC_ADSN_C_02B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_M_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_M_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_M_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_S_1_INIT",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_S_2_INIT",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_S_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_S_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_R_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_P_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_P_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_P_FIRE_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_P_SOIL_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_M_1_SUB",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_M_2_SUB",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_M_3_SUB",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_S_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_S_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_EN_A_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SSA_C_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SSA_C_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SSA_C_02",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SSA_C_02B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_EN_A_02",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SSA_C_03",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SSA_C_03B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SSA_C_04",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SSA_C_04B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_HWLT_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_HWLT_M_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_HWLT_M_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_HWLT_M_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_HWLT_S_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_HWLT_S_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_HWLT_S_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_HWLT_S_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_HWLT_R_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_HWLT_R_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_HWLT_P_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_HWLT_P_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_HWLT_A_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_HWLT_A_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_HWLT_C_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_HWLT_C_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_HWLT_C_02",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_HWLT_C_02B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_DARD_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_DARD_M_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_DARD_M_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_DARD_M_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_DARD_S_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_DARD_S_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_DARD_S_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_DARD_S_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_DARD_R_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_DARD_R_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_DARD_P_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_DARD_P_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_DARD_EN_A_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_DARD_EN_A_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_DARD_C_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_DARD_C_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_DARD_C_02",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_DARD_C_02B",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_BATZ_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_BATZ_M_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_BATZ_M_1B",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_BATZ_M_2",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_BATZ_S_5",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_BATZ_M_3",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_BATZ_S_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_BATZ_S_2",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_BATZ_S_3",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_BATZ_S_4",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_BATZ_R_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_BATZ_P_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_BATZ_P_2",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_EC_BATZ_A_01",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_EC_BATZ_A_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_EC_BATZ_C_01",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_EC_BATZ_C_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_EC_BATZ_C_02",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_EC_BATZ_C_02B",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_LENA_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_LENA_M_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_LENA_M_2",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_LENA_M_3",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_LENA_S_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_LENA_S_2",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_LENA_S_3",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_LENA_S_4",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_LENA_R_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_LENA_P_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_LENA_P_2",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_EC_LENA_A_01",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_EC_LENA_A_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_EC_LENA_C_01",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_EC_LENA_C_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_EC_LENA_C_02",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_EC_LENA_C_02B",
       "value": ""
     },
     {
@@ -11070,6 +11578,10 @@
     },
     {
       "key": "SK_ZUUU_M_01",
+      "value": ""
+    },
+    {
+      "key": "SK_ZUUU_M_01_RA",
       "value": ""
     },
     {
@@ -11830,6 +12342,26 @@
     },
     {
       "key": "SK_GLEM_M_04_R",
+      "value": ""
+    },
+    {
+      "key": "SK_GLEM_01_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_GLEM_01_M_01",
+      "value": ""
+    },
+    {
+      "key": "SK_GLEM_01_M_02",
+      "value": ""
+    },
+    {
+      "key": "SK_GLEM_01_M_03",
+      "value": ""
+    },
+    {
+      "key": "SK_GLEM_01_M_04",
       "value": ""
     },
     {
@@ -12602,6 +13134,30 @@
     },
     {
       "key": "SK_CORL_M_03",
+      "value": ""
+    },
+    {
+      "key": "SK_MCOR_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_MCOR_M_01",
+      "value": ""
+    },
+    {
+      "key": "SK_MCOR_M_02",
+      "value": ""
+    },
+    {
+      "key": "SK_MCOR_M_03",
+      "value": ""
+    },
+    {
+      "key": "SK_MCOR_M_04",
+      "value": ""
+    },
+    {
+      "key": "SK_MCOR_M_05",
       "value": ""
     },
     {
@@ -13413,6 +13969,38 @@
       "value": ""
     },
     {
+      "key": "SK_DARE_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_DARE_M_01",
+      "value": ""
+    },
+    {
+      "key": "SK_DARE_M_02",
+      "value": ""
+    },
+    {
+      "key": "SK_DARE_M_02_B",
+      "value": ""
+    },
+    {
+      "key": "SK_DARE_M_03",
+      "value": ""
+    },
+    {
+      "key": "SK_DARE_M_04",
+      "value": ""
+    },
+    {
+      "key": "SK_DARE_M_05",
+      "value": ""
+    },
+    {
+      "key": "SK_DARE_M_06",
+      "value": ""
+    },
+    {
       "key": "SK_CSLI_02_ATK",
       "value": ""
     },
@@ -13754,6 +14342,86 @@
     },
     {
       "key": "SK_CRWL_M_03",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_GLMS_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_GLMS_M_01",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_GLMS_M_02",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_GLMS_M_03",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_GLMS_M_04",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_GLMS_M_05",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_GLMS_M_06",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_GLMS_M_07",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_GLMS_M_08",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ICRW_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5__ICRW_M_01",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5__ICRW_M_02",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5__ICRW_M_03",
+      "value": ""
+    },
+    {
+      "key": "SK_GBLN_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_GBLN_M_01",
+      "value": ""
+    },
+    {
+      "key": "SK_GBLN_M_02",
+      "value": ""
+    },
+    {
+      "key": "SK_GBLN_M_03",
+      "value": ""
+    },
+    {
+      "key": "SK_GBLN_M_04",
+      "value": ""
+    },
+    {
+      "key": "SK_GBLN_M_05",
+      "value": ""
+    },
+    {
+      "key": "SK_GBLN_R_01",
       "value": ""
     },
     {
@@ -14397,6 +15065,30 @@
       "value": ""
     },
     {
+      "key": "SK_LB_ADSN_ADSN",
+      "value": ""
+    },
+    {
+      "key": "SK_LB_LW_MRND_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LB_LW_HWLT_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LB_LW_DARD",
+      "value": ""
+    },
+    {
+      "key": "SK_LB_FF5_BATZ",
+      "value": ""
+    },
+    {
+      "key": "SK_LB_FF5_LENA",
+      "value": ""
+    },
+    {
       "key": "SK_SMN_IFRT",
       "value": "<span=0.03>Beast of Volcanic Conflagration! <wait=0.35><br><span=0.03>Let Forth Thy Raging Hellflame<wait=0.7><span=0.02>Ifrit!<wait=0.5>"
     },
@@ -14631,6 +15323,14 @@
     {
       "key": "SK_SMN_BAHM_01",
       "value": "<span=0.03>Wings of Woe, Subjugate the Seas and Scorch the World with Thy Darkened Flame!<wait=0.35><br><span=0.03>Usher the End of Days<wait=0.7><span=0.02>Dark Bahamut!<wait=0.5>"
+    },
+    {
+      "key": "SK_SMN_MCOR",
+      "value": "<span=0.03>Fluttering Whiskers, Strike with Clawed Lightning!<wait=0.35><br><span=0.03>Unleash Thy Howling Roar<wait=0.7><span=0.02>Master Coeurl!<wait=0.5>"
+    },
+    {
+      "key": "SK_SMN_GLEM_01",
+      "value": "<span=0.03>Steadfast Cliff, Unshakeable by even Forces Divine!<wait=0.35><br><span=0.03>Tower Over<wait=0.7><span=0.02>Dark Golem!<wait=0.5>"
     },
     {
       "key": "SK_UN_BD_EC_HP_200",
@@ -17281,6 +17981,10 @@
       "value": ""
     },
     {
+      "key": "SK_MA_LW_ALIM_2",
+      "value": ""
+    },
+    {
       "key": "SK_MA_LW_RARD",
       "value": ""
     },
@@ -17625,6 +18329,10 @@
       "value": ""
     },
     {
+      "key": "SK_MA_LW_FALM_2",
+      "value": ""
+    },
+    {
       "key": "SK_MA_FF15_NCTS",
       "value": ""
     },
@@ -17674,6 +18382,10 @@
     },
     {
       "key": "SK_MA_LW_LYCS",
+      "value": ""
+    },
+    {
+      "key": "SK_MA_LW_LYCS_2",
       "value": ""
     },
     {
@@ -17773,7 +18485,15 @@
       "value": ""
     },
     {
+      "key": "SK_MA_LW_RSNC_2",
+      "value": ""
+    },
+    {
       "key": "SK_MA_LW_RYER_02",
+      "value": ""
+    },
+    {
+      "key": "SK_MA_LW_RYER_02_2",
       "value": ""
     },
     {
@@ -17781,7 +18501,15 @@
       "value": ""
     },
     {
+      "key": "SK_MA_LW_SERL_2",
+      "value": ""
+    },
+    {
       "key": "SK_MA_LW_IRDL_01",
+      "value": ""
+    },
+    {
+      "key": "SK_MA_LW_IRDL_01_2",
       "value": ""
     },
     {
@@ -17789,11 +18517,23 @@
       "value": ""
     },
     {
+      "key": "SK_MA_LW_SDLE_2",
+      "value": ""
+    },
+    {
       "key": "SK_MA_LW_IREZ",
       "value": ""
     },
     {
+      "key": "SK_MA_LW_IREZ_2",
+      "value": ""
+    },
+    {
       "key": "SK_MA_LW_RNEL",
+      "value": ""
+    },
+    {
+      "key": "SK_MA_LW_RNEL_2",
       "value": ""
     },
     {
@@ -17909,6 +18649,10 @@
       "value": ""
     },
     {
+      "key": "SK_MA_LW_GLZK",
+      "value": ""
+    },
+    {
       "key": "SK_MA_FMAM_EDWD",
       "value": ""
     },
@@ -17926,6 +18670,34 @@
     },
     {
       "key": "SK_MA_LW_BIGA",
+      "value": ""
+    },
+    {
+      "key": "SK_MA_ADSN_ADSN",
+      "value": ""
+    },
+    {
+      "key": "SK_MA_LW_MRND_01",
+      "value": ""
+    },
+    {
+      "key": "SK_MA_LW_HWLT_01",
+      "value": ""
+    },
+    {
+      "key": "SK_MA_LW_DIAA",
+      "value": ""
+    },
+    {
+      "key": "SK_MA_LW_DARD",
+      "value": ""
+    },
+    {
+      "key": "SK_MA_FF5_BATZ",
+      "value": ""
+    },
+    {
+      "key": "SK_MA_FF5_LENA",
       "value": ""
     },
     {
@@ -18130,6 +18902,14 @@
     },
     {
       "key": "SK_UES_LW_HYOO",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_GLZK",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SCR_A_03_B",
       "value": ""
     },
     {
@@ -18642,6 +19422,294 @@
     },
     {
       "key": "SK_LW_EC_PSI_A_03_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_ADSN_ADSN",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_STRN_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_STRN_A_01_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_QILF",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_MST_A_01_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_CRIS",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GUN_C_05C",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_LILS",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_KNT_A_04_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_SCIA",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_08C",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_SEVR",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_BLM_A_03_B",
+      "value": "<span=0.03>Free Thy Flesh of the Bonds of Time! <wait=0.35><br><span=0.03>Chronal Liberation<wait=0.7><span=0.02>Haste!<wait=0.5>"
+    },
+    {
+      "key": "SK_UES_LW_RART",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_HUN_A_01_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_MRND_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SSA_C_01C",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_THLA_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_PSI_A_01_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_IRDL_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_BNI_A_01_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_HWLT_01",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_DIAA",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SSA_EN_A_02_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_HWLT",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_MKN_A_02_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_TITU",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_PLD_C_07C",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_LMIG",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_BEA_C_03C",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_MURG",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_MURG_M_3_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_CHEL",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GRM_C_03C",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_RAIN",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_RAIN_C_02C",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_LSWL",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_LSWL_C_01C",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_DARD",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_MORE",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_MMC_A_01_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_NIVL",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_ARC_A_03_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_SRJS",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_LAN_A_04_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_MIIA",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_THI_A_03_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_HLNA_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_WIZ_C_02C",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_FALM",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_NIN_A_03_B_WATER",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_ELSR",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_MSW_A_02_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_MCRD",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_LLN_A_02_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_SZRT",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SWN_C_06C",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_SZRT_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_LSTE",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_BEA_A_04_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_HLNA",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GRM_C_01C",
+      "value": "<span=0.03>Be Stayed, Piercing Gales! <wait=0.35><br><span=0.03>Wall of Wind<wait=0.7><span=0.02>Baraerora!<wait=0.5>"
+    },
+    {
+      "key": "SK_UES_LW_MGRT",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_TIM_A_03_B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_FF5_BATZ",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_FF5_LENA",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_FINA",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_FINA_A_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_KADI",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_CLR_A_02B",
+      "value": ""
+    },
+    {
+      "key": "SK_UES_LW_PRAY",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_WHM_A_03B",
       "value": ""
     },
     {
@@ -19297,6 +20365,10 @@
       "value": ""
     },
     {
+      "key": "SK_LW_ACC_003_6",
+      "value": ""
+    },
+    {
       "key": "SK_FF7_CLT_004_1",
       "value": ""
     },
@@ -19606,6 +20678,10 @@
     },
     {
       "key": "SK_LW_RNG_010_5",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_RNG_010_1_5",
       "value": ""
     },
     {
@@ -20621,6 +21697,30 @@
       "value": ""
     },
     {
+      "key": "SK_ARM_LW_OBRN_1_ARENA",
+      "value": ""
+    },
+    {
+      "key": "SK_CLT_LW_LATH_01_1_ARENA",
+      "value": ""
+    },
+    {
+      "key": "SK_CLT_LW_MACR_02_1_ARENA",
+      "value": ""
+    },
+    {
+      "key": "SK_ACC_LW_LLGA_1_ARENA",
+      "value": ""
+    },
+    {
+      "key": "SK_ACC_LW_GABL_ARENA",
+      "value": ""
+    },
+    {
+      "key": "SK_CLT_LW_RSNC_1_ARENA",
+      "value": ""
+    },
+    {
       "key": "SK_SWO_LW_ADLD_1_1",
       "value": ""
     },
@@ -20814,6 +21914,34 @@
     },
     {
       "key": "SK_ACC_LW_BIGA_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ACC_ADSN_ADSN_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ACC_LW_MRND_01_1",
+      "value": ""
+    },
+    {
+      "key": "SK_CLT_LW_HWLT_01_1",
+      "value": ""
+    },
+    {
+      "key": "SK_KAT_LW_DIAA_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ACC_LW_DARD_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ARM_FF5_BATZ_1",
+      "value": ""
+    },
+    {
+      "key": "SK_CLT_FF5_LENA_1",
       "value": ""
     },
     {
@@ -22794,6 +23922,322 @@
     },
     {
       "key": "SK_GL_VC_FF6_MV2_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_P_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_PAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_PMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_P_3",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_PAW_3",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_PMAX_3",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_P_4",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_PAW_4",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_PMAX_4",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_ADSN_MV3_PVA",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MCOR_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MCOR_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MCOR_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MCOR_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MCOR_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MCOR_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MCOR_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MCOR_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MCOR_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_MCOR_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_MCOR_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_MCOR_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MRND_01_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MRND_01_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MRND_01_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MRND_01_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MRND_01_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MRND_01_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MRND_01_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MRND_01_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MRND_01_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MRND_01_P_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MRND_01_PAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MRND_01_PMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HWLT_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HWLT_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HWLT_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HWLT_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HWLT_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HWLT_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HWLT_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HWLT_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HWLT_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_HWLT_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_HWLT_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_HWLT_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GLEM_01_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GLEM_01_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GLEM_01_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GLEM_01_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GLEM_01_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GLEM_01_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GLEM_01_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GLEM_01_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GLEM_01_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GLEM_01_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GLEM_01_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GLEM_01_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_MV1_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_MV1_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_MV1_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_MV1_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_MV1_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_MV1_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_MV1_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_MV1_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_MV1_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF5_MV1_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF5_MV1_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF5_MV1_PMAX2",
       "value": ""
     },
     {
@@ -30085,7 +31529,15 @@
       "value": ""
     },
     {
+      "key": "SK_BTL_KILLER_MYB_1-100_U",
+      "value": ""
+    },
+    {
       "key": "SK_BTL_PARALYZE_1-100_U",
+      "value": ""
+    },
+    {
+      "key": "SK_BTL_PARALYZE_1-100_D",
       "value": ""
     },
     {
@@ -30098,6 +31550,10 @@
     },
     {
       "key": "SK_BTL_CONFU_1-100_U",
+      "value": ""
+    },
+    {
+      "key": "SK_BTL_CONFU_1-100_D",
       "value": ""
     },
     {
@@ -30157,6 +31613,10 @@
       "value": ""
     },
     {
+      "key": "SK_BTL_STOP_1-100_D",
+      "value": ""
+    },
+    {
       "key": "SK_BTL_DONAC_1-100_U",
       "value": ""
     },
@@ -30170,6 +31630,14 @@
     },
     {
       "key": "SK_BTL_FROST_1-100_D",
+      "value": ""
+    },
+    {
+      "key": "SK_BTL_BSK_1-100_U",
+      "value": ""
+    },
+    {
+      "key": "SK_BTL_BSK_1-100_D",
       "value": ""
     },
     {
@@ -30433,14 +31901,6 @@
       "value": ""
     },
     {
-      "key": "SK_BTL_BSK_1-100_U",
-      "value": ""
-    },
-    {
-      "key": "SK_BTL_BSK_1-100_D",
-      "value": ""
-    },
-    {
       "key": "SK_BTL_CHARM_U_PA",
       "value": ""
     },
@@ -30562,6 +32022,34 @@
     },
     {
       "key": "SK_GMK_ATK_ARAIN",
+      "value": ""
+    },
+    {
+      "key": "SK_GMK_RI08_1",
+      "value": ""
+    },
+    {
+      "key": "SK_GMK_RI08_2",
+      "value": ""
+    },
+    {
+      "key": "SK_GMK_RI08_3",
+      "value": ""
+    },
+    {
+      "key": "SK_GMK_HY06_1",
+      "value": ""
+    },
+    {
+      "key": "SK_GMK_ATK_CAPT",
+      "value": ""
+    },
+    {
+      "key": "SK_GMK_ATK_CAPT_01",
+      "value": ""
+    },
+    {
+      "key": "SK_GMK_ATK_POISON",
       "value": ""
     },
     {
@@ -32209,30 +33697,6 @@
       "value": ""
     },
     {
-      "key": "SK_GMK_RI08_1",
-      "value": ""
-    },
-    {
-      "key": "SK_GMK_RI08_2",
-      "value": ""
-    },
-    {
-      "key": "SK_GMK_RI08_3",
-      "value": ""
-    },
-    {
-      "key": "SK_GMK_ATK_CAPT",
-      "value": ""
-    },
-    {
-      "key": "SK_GMK_ATK_CAPT_01",
-      "value": ""
-    },
-    {
-      "key": "SK_GMK_ATK_POISON",
-      "value": ""
-    },
-    {
       "key": "SK_LW_ACC_042_1",
       "value": ""
     },
@@ -32541,6 +34005,26 @@
       "value": ""
     },
     {
+      "key": "SK_LW_KAT_015_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_KAT_015_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_KAT_015_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_KAT_015_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_KAT_015_5",
+      "value": ""
+    },
+    {
       "key": "SK_LW_FF6_ACC_003_1",
       "value": ""
     },
@@ -32770,6 +34254,46 @@
     },
     {
       "key": "SK_LW_SPE_022_5",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SPE_027_1_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SPE_027_1_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SPE_027_1_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SPE_027_1_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SPE_027_1_5",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SPE_027_2_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SPE_027_2_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SPE_027_2_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SPE_027_2_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SPE_027_2_5",
       "value": ""
     },
     {
@@ -33009,6 +34533,30 @@
       "value": ""
     },
     {
+      "key": "SK_LW_PLUS6_SP_APC_30",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_PLUS6_2T_JUMP_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_PLUS6_RES_MAGIC_7",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_PLUS6_DEMONKR_50",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_PLUS6_RES_SINGLE_15",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_PLUS6_RES_MAGIC_15",
+      "value": ""
+    },
+    {
       "key": "SK_FF4_ROD_000_1",
       "value": ""
     },
@@ -33026,6 +34574,46 @@
     },
     {
       "key": "SK_FF4_ROD_000_1_5",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ROD_000_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ROD_000_2",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ROD_000_3",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ROD_000_4",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ROD_000_5",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_SWO_000_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_SWO_000_2",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_SWO_000_3",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_SWO_000_4",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_SWO_000_5",
       "value": ""
     },
     {
@@ -34193,6 +35781,82 @@
       "value": ""
     },
     {
+      "key": "SK_LW_SWO_040_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SWO_040_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SWO_040_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SWO_040_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SWO_040_5",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ROD_035_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ROD_035_2_1_B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ROD_035_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ROD_035_3_1_B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ROD_035_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ROD_035_4_1_B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ROD_035_5",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ROD_035_5_1_B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_BOK_011_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_BOK_011_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_BOK_011_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_BOK_011_5",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ACC_002_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ADSN_ACC_002_2",
+      "value": ""
+    },
+    {
       "key": "SK_FF6_GLO_000_1",
       "value": ""
     },
@@ -34210,6 +35874,26 @@
     },
     {
       "key": "SK_FF6_GLO_000_5",
+      "value": ""
+    },
+    {
+      "key": "SK_FF6_CLT_003_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF6_CLT_003_2",
+      "value": ""
+    },
+    {
+      "key": "SK_FF6_CLT_003_3",
+      "value": ""
+    },
+    {
+      "key": "SK_FF6_CLT_003_4",
+      "value": ""
+    },
+    {
+      "key": "SK_FF6_CLT_003_5",
       "value": ""
     },
     {

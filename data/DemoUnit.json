@@ -1790,6 +1790,28 @@
       "charaId": "LAPSelem",
       "anm_type": 2,
       "body_type": "MO"
+    },
+    {
+      "iname": "DU_ADSN_ADSN",
+      "sex": 2,
+      "collabo": 3,
+      "charaId": "ADSNadsn",
+      "anm_type": 1,
+      "body_type": "W"
+    },
+    {
+      "iname": "DU_LW_DARE",
+      "sex": 3,
+      "charaId": "LAPSdare",
+      "anm_type": 2,
+      "body_type": "MO"
+    },
+    {
+      "iname": "DU_LW_CHRZ",
+      "sex": 2,
+      "charaId": "LAPSchrz",
+      "anm_type": 1,
+      "body_type": "W"
     }
   ]
 }

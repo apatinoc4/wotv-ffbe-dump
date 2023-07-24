@@ -185,6 +185,10 @@
       "value": "June Login Bonus"
     },
     {
+      "key": "LB_202307",
+      "value": "July Login Bonus"
+    },
+    {
       "key": "LB_LIMIT_GL_0001",
       "value": "Release Commemoration"
     },
@@ -230,6 +234,18 @@
     },
     {
       "key": "LB_COMEBACK_006",
+      "value": "Comeback Login Bonus"
+    },
+    {
+      "key": "LB_COMEBACK_008",
+      "value": "Comeback Login Bonus"
+    },
+    {
+      "key": "LB_COMEBACK_009",
+      "value": "Comeback Login Bonus"
+    },
+    {
+      "key": "LB_COMEBACK_010",
       "value": "Comeback Login Bonus"
     },
     {
@@ -1055,6 +1071,38 @@
     {
       "key": "LB_LIMIT_GL0206",
       "value": "14 Million Downloads Part II Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0207",
+      "value": "14 Million Downloads Part III Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0208",
+      "value": "Addison Rae Meets WOTV FFBE Part III Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0209",
+      "value": "Version Upgrade Celebration Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0210",
+      "value": "FFBE Series Global 7th Anniversary Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0211",
+      "value": "Darkness Festival Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0212",
+      "value": "Story Part 3, Chapter 3, Scene 1 Release Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0213",
+      "value": "FINAL FANTASY V Collaboration Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0214",
+      "value": "Version Upgrade Celebration Login Bonus"
     }
   ]
 }

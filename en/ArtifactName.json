@@ -449,6 +449,30 @@
       "value": "Dawnlight +5"
     },
     {
+      "key": "AF_LW_SWO_040",
+      "value": "Flowering"
+    },
+    {
+      "key": "AF_LW_SWO_040_1",
+      "value": "Flowering +1"
+    },
+    {
+      "key": "AF_LW_SWO_040_2",
+      "value": "Flowering +2"
+    },
+    {
+      "key": "AF_LW_SWO_040_3",
+      "value": "Flowering +3"
+    },
+    {
+      "key": "AF_LW_SWO_040_4",
+      "value": "Flowering +4"
+    },
+    {
+      "key": "AF_LW_SWO_040_5",
+      "value": "Flowering +5"
+    },
+    {
       "key": "AF_LW_SWO_041",
       "value": "Blood Sword"
     },
@@ -523,6 +547,30 @@
     {
       "key": "AF_FF4_SWO_000_5",
       "value": "Mythgraven Blade +5"
+    },
+    {
+      "key": "AF_FF5_SWO_000",
+      "value": "Liberty's Edge"
+    },
+    {
+      "key": "AF_FF5_SWO_000_1",
+      "value": "Liberty's Edge +1"
+    },
+    {
+      "key": "AF_FF5_SWO_000_2",
+      "value": "Liberty's Edge +2"
+    },
+    {
+      "key": "AF_FF5_SWO_000_3",
+      "value": "Liberty's Edge +3"
+    },
+    {
+      "key": "AF_FF5_SWO_000_4",
+      "value": "Liberty's Edge +4"
+    },
+    {
+      "key": "AF_FF5_SWO_000_5",
+      "value": "Liberty's Edge +5"
     },
     {
       "key": "AF_FF6_SWO_000",
@@ -1007,6 +1055,34 @@
     {
       "key": "AF_LW_KAT_014_5",
       "value": "Glimmering Edge: Quelsaad +5"
+    },
+    {
+      "key": "AF_LW_KAT_014_6",
+      "value": "Glimmering Edge: Quelsaad +6"
+    },
+    {
+      "key": "AF_LW_KAT_015",
+      "value": "Candyblade"
+    },
+    {
+      "key": "AF_LW_KAT_015_1",
+      "value": "Candyblade +1"
+    },
+    {
+      "key": "AF_LW_KAT_015_2",
+      "value": "Candyblade +2"
+    },
+    {
+      "key": "AF_LW_KAT_015_3",
+      "value": "Candyblade +3"
+    },
+    {
+      "key": "AF_LW_KAT_015_4",
+      "value": "Candyblade +4"
+    },
+    {
+      "key": "AF_LW_KAT_015_5",
+      "value": "Candyblade +5"
     },
     {
       "key": "AF_LW_KAT_013",
@@ -1527,6 +1603,30 @@
     {
       "key": "AF_LW_SPE_022_5",
       "value": "Platinum Lance +5"
+    },
+    {
+      "key": "AF_LW_SPE_027",
+      "value": "Glaive of Emptiness"
+    },
+    {
+      "key": "AF_LW_SPE_027_1",
+      "value": "Glaive of Emptiness +1"
+    },
+    {
+      "key": "AF_LW_SPE_027_2",
+      "value": "Glaive of Emptiness +2"
+    },
+    {
+      "key": "AF_LW_SPE_027_3",
+      "value": "Glaive of Emptiness +3"
+    },
+    {
+      "key": "AF_LW_SPE_027_4",
+      "value": "Glaive of Emptiness +4"
+    },
+    {
+      "key": "AF_LW_SPE_027_5",
+      "value": "Glaive of Emptiness +5"
     },
     {
       "key": "AF_GL_LW_SPE_026",
@@ -2461,6 +2561,30 @@
       "value": "Shadow Dragon Staff +5"
     },
     {
+      "key": "AF_FF5_ROD_000",
+      "value": "Majesty of Tycoon"
+    },
+    {
+      "key": "AF_FF5_ROD_000_1",
+      "value": "Majesty of Tycoon +1"
+    },
+    {
+      "key": "AF_FF5_ROD_000_2",
+      "value": "Majesty of Tycoon +2"
+    },
+    {
+      "key": "AF_FF5_ROD_000_3",
+      "value": "Majesty of Tycoon +3"
+    },
+    {
+      "key": "AF_FF5_ROD_000_4",
+      "value": "Majesty of Tycoon +4"
+    },
+    {
+      "key": "AF_FF5_ROD_000_5",
+      "value": "Majesty of Tycoon +5"
+    },
+    {
       "key": "AF_LW_ROD_025",
       "value": "Rune Staff"
     },
@@ -2483,6 +2607,10 @@
     {
       "key": "AF_LW_ROD_025_5",
       "value": "Rune Staff +5"
+    },
+    {
+      "key": "AF_LW_ROD_025_6",
+      "value": "Rune Staff +6"
     },
     {
       "key": "AF_LW_ROD_027",
@@ -2567,6 +2695,10 @@
     {
       "key": "AF_LW_ROD_032_5",
       "value": "Whale Whisker +5"
+    },
+    {
+      "key": "AF_LW_ROD_035",
+      "value": "Wizard Rod"
     },
     {
       "key": "AF_LW_ROD_013",
@@ -3085,6 +3217,10 @@
       "value": "Knight Armor +5"
     },
     {
+      "key": "AF_LW_ARM_032_6",
+      "value": "Knight Armor +6"
+    },
+    {
       "key": "AF_LW_ARM_031",
       "value": "Azure Dragon Armor"
     },
@@ -3589,6 +3725,10 @@
       "value": "Survival Vest +5"
     },
     {
+      "key": "AF_LW_CLT_022_6",
+      "value": "Survival Vest +6"
+    },
+    {
       "key": "AF_LW_ACC_030",
       "value": "Power Sash"
     },
@@ -3635,6 +3775,30 @@
     {
       "key": "AF_FF7_CLT_004_5",
       "value": "Moogle Cloak +5"
+    },
+    {
+      "key": "AF_FF6_CLT_003",
+      "value": "Harlequin's Clothes"
+    },
+    {
+      "key": "AF_FF6_CLT_003_1",
+      "value": "Harlequin's Clothes +1"
+    },
+    {
+      "key": "AF_FF6_CLT_003_2",
+      "value": "Harlequin's Clothes +2"
+    },
+    {
+      "key": "AF_FF6_CLT_003_3",
+      "value": "Harlequin's Clothes +3"
+    },
+    {
+      "key": "AF_FF6_CLT_003_4",
+      "value": "Harlequin's Clothes +4"
+    },
+    {
+      "key": "AF_FF6_CLT_003_5",
+      "value": "Harlequin's Clothes +5"
     },
     {
       "key": "AF_LW_RNG_001",
@@ -4857,6 +5021,10 @@
       "value": "Thunder Ring"
     },
     {
+      "key": "AF_LW_RNG_010_1",
+      "value": "Thunder Ring +1"
+    },
+    {
       "key": "AF_LW_RNG_011",
       "value": "Frost Ring"
     },
@@ -5341,6 +5509,10 @@
       "value": "Chocolate Flan Earrings +5"
     },
     {
+      "key": "AF_LW_ACC_036_6",
+      "value": "Chocolate Flan Earrings +6"
+    },
+    {
       "key": "AF_LW_ACC_039",
       "value": "Silver-Rimmed Spectacles"
     },
@@ -5745,6 +5917,10 @@
       "value": "Forbidden Tome: Gelumortis +5"
     },
     {
+      "key": "AF_LW_BOK_008_6",
+      "value": "Forbidden Tome: Gelumortis +6"
+    },
+    {
       "key": "AF_LW_BOK_010",
       "value": "Diaries of a Mischievous Witch"
     },
@@ -5767,6 +5943,10 @@
     {
       "key": "AF_LW_BOK_010_5",
       "value": "Diaries of a Mischievous Witch +5"
+    },
+    {
+      "key": "AF_LW_BOK_011",
+      "value": "Necronomicon"
     },
     {
       "key": "AF_LW_SWO_005",
@@ -6009,6 +6189,10 @@
       "value": "Tourmaline Ring +5"
     },
     {
+      "key": "AF_LW_ACC_048_6",
+      "value": "Tourmaline Ring +6"
+    },
+    {
       "key": "AF_FF15_ACC_001",
       "value": "Prompto's Wristband"
     },
@@ -6081,6 +6265,10 @@
       "value": "Evilbane Pendant +5"
     },
     {
+      "key": "AF_LW_ACC_054_6",
+      "value": "Evilbane Pendant +6"
+    },
+    {
       "key": "AF_LW_ACC_037",
       "value": "White Cape"
     },
@@ -6105,6 +6293,10 @@
       "value": "White Cape +5"
     },
     {
+      "key": "AF_LW_ACC_037_6",
+      "value": "White Cape +6"
+    },
+    {
       "key": "AF_FF6_ACC_003",
       "value": "Terra's Ribbon"
     },
@@ -6127,6 +6319,10 @@
     {
       "key": "AF_FF6_ACC_003_5",
       "value": "Terra's Ribbon +5"
+    },
+    {
+      "key": "AF_FF6_ACC_003_6",
+      "value": "Terra's Ribbon +6"
     },
     {
       "key": "AF_PRS5_ACC_002",
@@ -6417,6 +6613,10 @@
       "value": "Lucio's Gift"
     },
     {
+      "key": "AF_ADSN_ACC_002",
+      "value": "Smartphone: Addison Model"
+    },
+    {
       "key": "AF_LW_CLT_027",
       "value": "Producer's Jacket"
     },
@@ -6613,6 +6813,10 @@
       "value": "Panther Helm"
     },
     {
+      "key": "AF_ROD_LW_GLZK_1",
+      "value": "Merchant's Staff"
+    },
+    {
       "key": "AF_CLT_FMAM_EDWD_1",
       "value": "Ed's Coat"
     },
@@ -6643,6 +6847,34 @@
     {
       "key": "AF_ACC_LW_BIGA_1",
       "value": "Ravenous Earring"
+    },
+    {
+      "key": "AF_ACC_ADSN_ADSN_1",
+      "value": "Smiling Goddess"
+    },
+    {
+      "key": "AF_ACC_LW_MRND_01_1",
+      "value": "Brilliant Berry Pumps"
+    },
+    {
+      "key": "AF_CLT_LW_HWLT_01_1",
+      "value": "Princely Vest"
+    },
+    {
+      "key": "AF_KAT_LW_DIAA_1",
+      "value": "Katana of Conviction"
+    },
+    {
+      "key": "AF_ACC_LW_DARD_1",
+      "value": "Diamond Caligae"
+    },
+    {
+      "key": "AF_ARM_FF5_BATZ_1",
+      "value": "Wind Drake Spaulder"
+    },
+    {
+      "key": "AF_CLT_FF5_LENA_1",
+      "value": "Sunset Garb"
     },
     {
       "key": "AF_SWO_LW_SLEN_2",
@@ -6843,6 +7075,26 @@
     {
       "key": "AF_AXE_LW_BIGA_2",
       "value": "Viga Specific Weapon"
+    },
+    {
+      "key": "AF_KAT_LW_MRND_01_2",
+      "value": "Miranda (Sweetheart) Specific Weapon"
+    },
+    {
+      "key": "AF_SWO_LW_HWLT_01_2",
+      "value": "Howlet the Heavensblade Specific Weapon_Sword"
+    },
+    {
+      "key": "AF_SPE_LW_DARD_2",
+      "value": "Dialdo Specific Weapon"
+    },
+    {
+      "key": "AF_SWO_FF5_BATZ_01_2",
+      "value": "Bartz (FF5) Specific Weapon"
+    },
+    {
+      "key": "AF_ROD_FF5_LENA_01_2",
+      "value": "Lenna (FF5) Specific Weapon"
     }
   ]
 }

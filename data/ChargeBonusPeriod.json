@@ -1505,6 +1505,78 @@
       "begin_at": "2023/06/07",
       "end_at": "2023/06/13 23:59:59",
       "charge_bonus_id": "CHARGE_BONUS_GL_0259"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0260",
+      "begin_at": "2023/06/14",
+      "end_at": "2023/06/20 17:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0260"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0261",
+      "begin_at": "2023/06/14",
+      "end_at": "2023/06/20 17:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0261"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0262",
+      "begin_at": "2023/06/20 18:30:00",
+      "end_at": "2023/06/27 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0262"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0263",
+      "begin_at": "2023/06/20 18:30:00",
+      "end_at": "2023/06/27 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0263"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0264",
+      "begin_at": "2023/06/28",
+      "end_at": "2023/07/04 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0264"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0265",
+      "begin_at": "2023/06/28",
+      "end_at": "2023/07/04 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0265"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0266",
+      "begin_at": "2023/07/05",
+      "end_at": "2023/07/11 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0266"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0267",
+      "begin_at": "2023/07/05",
+      "end_at": "2023/07/11 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0267"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0268",
+      "begin_at": "2023/07/12",
+      "end_at": "2023/07/18 17:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0268"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0269",
+      "begin_at": "2023/07/12",
+      "end_at": "2023/07/18 17:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0269"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0270",
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/07/25 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0270"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0271",
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/07/25 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0271"
     }
   ]
 }

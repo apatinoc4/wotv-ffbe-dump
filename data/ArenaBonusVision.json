@@ -5145,6 +5145,14 @@
       "visioncards": [
         {
           "rate": 100,
+          "iname": "VC_ADSN_MV3"
+        },
+        {
+          "rate": 100,
+          "iname": "VC_LW_MCOR"
+        },
+        {
+          "rate": 75,
           "iname": "VC_FF6_MV2"
         },
         {
@@ -5153,15 +5161,48 @@
         },
         {
           "rate": 75,
+          "iname": "VC_LW_THLA"
+        },
+        {
+          "rate": 50,
           "iname": "VC_FF6_MV1"
         },
         {
-          "rate": 75,
+          "rate": 50,
           "iname": "VC_LW_BAHM_01"
         },
         {
+          "rate": 50,
+          "iname": "VC_LW_LSWL"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_AGON"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_BAHM"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BV_00126",
+      "visioncards": [
+        {
+          "rate": 100,
+          "iname": "VC_ADSN_MV3"
+        },
+        {
+          "rate": 100,
+          "iname": "VC_LW_MCOR"
+        },
+        {
+          "rate": 100,
+          "iname": "VC_LW_MRND_01"
+        },
+        {
           "rate": 75,
-          "iname": "VC_LW_MRND"
+          "iname": "VC_FF6_MV2"
         },
         {
           "rate": 75,
@@ -5169,11 +5210,179 @@
         },
         {
           "rate": 50,
-          "iname": "VC_LW_ODIN_01"
+          "iname": "VC_FF6_MV1"
         },
         {
           "rate": 50,
-          "iname": "VC_LW_RAIN"
+          "iname": "VC_LW_BAHM_01"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_AGON"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_BAHM"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_REGN"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BV_00127",
+      "visioncards": [
+        {
+          "rate": 100,
+          "iname": "VC_ADSN_MV3"
+        },
+        {
+          "rate": 100,
+          "iname": "VC_LW_MRND_01"
+        },
+        {
+          "rate": 100,
+          "iname": "VC_LW_HWLT"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_MCOR"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_FF6_MV2"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_FF6_MV1"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_AGON"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_BAHM"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_ICDG"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BV_00128",
+      "visioncards": [
+        {
+          "rate": 100,
+          "iname": "VC_LW_HWLT"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_ADSN_MV3"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_MRND_01"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_MCOR"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_CMLO"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_BAHM"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_ICDG"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_SRTN"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BV_00129",
+      "visioncards": [
+        {
+          "rate": 100,
+          "iname": "VC_LW_GLEM_01"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_ADSN_MV3"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_MRND_01"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_HWLT"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_MCOR"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_BAHM"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_ICDG"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_CMLO"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BV_00130",
+      "visioncards": [
+        {
+          "rate": 100,
+          "iname": "VC_FF5_MV1"
+        },
+        {
+          "rate": 100,
+          "iname": "VC_LW_GLEM_01"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_HWLT"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_RAMU_01"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_ADSN_MV3"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_MRND_01"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_MCOR"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_ICDG"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_CMLO"
         },
         {
           "rate": 50,
@@ -5181,7 +5390,56 @@
         },
         {
           "rate": 50,
-          "iname": "VC_LW_AGON"
+          "iname": "VC_LW_GLMS"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BV_00131",
+      "visioncards": [
+        {
+          "rate": 100,
+          "iname": "VC_FF5_MV1"
+        },
+        {
+          "rate": 100,
+          "iname": "VC_LW_GLEM_01"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_HWLT"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_RAMU_01"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_ADSN_MV3"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_MRND_01"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_MCOR"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_ICDG"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_CMLO"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_ROBB"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_GLMS"
         }
       ]
     }

@@ -3797,6 +3797,22 @@
       "value": "Warrior Seething in Resentment"
     },
     {
+      "key": "LW_PA_CH_197_1",
+      "value": "Miranda (Sweetheart) Fan"
+    },
+    {
+      "key": "LW_PA_CH_197_2",
+      "value": "Miranda (Sweetheart) Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_197_3",
+      "value": "Miranda (Sweetheart) Devotee"
+    },
+    {
+      "key": "LW_PA_CH_197_4",
+      "value": "Smiling Sweetness"
+    },
+    {
       "key": "LW_PA_CH_198_1",
       "value": "Kefka Fan"
     },
@@ -3813,6 +3829,54 @@
       "value": "Cruelhearted Harlequin"
     },
     {
+      "key": "LW_PA_CH_199_1",
+      "value": "Dialdo Fan"
+    },
+    {
+      "key": "LW_PA_CH_199_2",
+      "value": "Dialdo Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_199_3",
+      "value": "Dialdo Devotee"
+    },
+    {
+      "key": "LW_PA_CH_199_4",
+      "value": "Destroyer Seeking Eternal Silence"
+    },
+    {
+      "key": "LW_PA_CH_200_1",
+      "value": "Howlet the Heavensblade Fan"
+    },
+    {
+      "key": "LW_PA_CH_200_2",
+      "value": "Howlet the Heavensblade Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_200_3",
+      "value": "Howlet the Heavensblade Devotee"
+    },
+    {
+      "key": "LW_PA_CH_200_4",
+      "value": "Elegant God of the Sword"
+    },
+    {
+      "key": "LW_PA_CH_201_1",
+      "value": "Deah Fan"
+    },
+    {
+      "key": "LW_PA_CH_201_2",
+      "value": "Deah Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_201_3",
+      "value": "Deah Devotee"
+    },
+    {
+      "key": "LW_PA_CH_201_4",
+      "value": "Devoted Valkyrie"
+    },
+    {
       "key": "LW_PA_CH_203_1",
       "value": "Hyoh Fan"
     },
@@ -3827,6 +3891,70 @@
     {
       "key": "LW_PA_CH_203_4",
       "value": "Merciless Blade"
+    },
+    {
+      "key": "LW_PA_CH_204_1",
+      "value": "Galzahk Fan"
+    },
+    {
+      "key": "LW_PA_CH_204_2",
+      "value": "Galzahk Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_204_3",
+      "value": "Galzahk Devotee"
+    },
+    {
+      "key": "LW_PA_CH_204_4",
+      "value": "Arms Dealer of the Shadows"
+    },
+    {
+      "key": "LW_PA_CH_205_1",
+      "value": "Bartz Fan"
+    },
+    {
+      "key": "LW_PA_CH_205_2",
+      "value": "Bartz Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_205_3",
+      "value": "Bartz Devotee"
+    },
+    {
+      "key": "LW_PA_CH_205_4",
+      "value": "Inquisitive Soul"
+    },
+    {
+      "key": "LW_PA_CH_206_1",
+      "value": "Lenna Fan"
+    },
+    {
+      "key": "LW_PA_CH_206_2",
+      "value": "Lenna Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_206_3",
+      "value": "Lenna Devotee"
+    },
+    {
+      "key": "LW_PA_CH_206_4",
+      "value": "Compassionate Princess"
+    },
+    {
+      "key": "LW_PA_CH_999_1",
+      "value": "Addison Fan"
+    },
+    {
+      "key": "LW_PA_CH_999_2",
+      "value": "Addison Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_999_3",
+      "value": "Addison Devotee"
+    },
+    {
+      "key": "LW_PA_CH_999_4",
+      "value": "Radiant Smile"
     },
     {
       "key": "LW_GL_PA_CH_FRVA_1",
@@ -4279,6 +4407,74 @@
     {
       "key": "AWD_GL_CHAMP_6",
       "value": "Achiever of Glory 2023"
+    },
+    {
+      "key": "AWD_GL_CHAMP_7",
+      "value": "Throneseeker 2023"
+    },
+    {
+      "key": "AWD_GL_CHAMP_8",
+      "value": "Those Who Strive for Glory 2023"
+    },
+    {
+      "key": "AWD_GL_CHAMP_9",
+      "value": "Achiever of Glory 2023"
+    },
+    {
+      "key": "AWD_GL_FANMEETING_202306",
+      "value": "WOTV LA FAN EVENT 2023 Attendee"
+    },
+    {
+      "key": "AWD_P_Tow_Thu_1",
+      "value": "Lightning Perfectionist"
+    },
+    {
+      "key": "AWD_P_Tow_Thu_2",
+      "value": "Lightning Virtuoso"
+    },
+    {
+      "key": "AWD_P_Tow_Thu_3",
+      "value": "In the Blink of a Bolt"
+    },
+    {
+      "key": "AWD_P_Tow_Thu_4",
+      "value": "Speed of Lightning"
+    },
+    {
+      "key": "AWD_P_Tow_Thu_5",
+      "value": "Lightning Master: Top 10"
+    },
+    {
+      "key": "AWD_P_Tow_Thu_6",
+      "value": "Lightning Master: Top 20"
+    },
+    {
+      "key": "AWD_P_Tow_Thu_7",
+      "value": "Lightning Master: Top 30"
+    },
+    {
+      "key": "AWD_P_FF06_7",
+      "value": "I just can't believe it!"
+    },
+    {
+      "key": "AWD_P_FF06_8",
+      "value": "Hundreds of Voices Screaming in Unison"
+    },
+    {
+      "key": "AWD_P_FF06_9",
+      "value": "Uwee-hee-hee!"
+    },
+    {
+      "key": "AWD_P_FF06_10",
+      "value": "The Greatest Power in Existence"
+    },
+    {
+      "key": "AWD_P_FF06_11",
+      "value": "I'm a god!"
+    },
+    {
+      "key": "AWD_P_FF06_12",
+      "value": "What a lovely treasure!"
     }
   ]
 }

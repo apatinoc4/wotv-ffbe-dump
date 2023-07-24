@@ -416,6 +416,11 @@
       "value": -90
     },
     {
+      "iname": "debuf_red_rate_max",
+      "type": 0,
+      "value": 80
+    },
+    {
       "iname": "dmg_hatedown",
       "type": 0,
       "value": 2
@@ -783,7 +788,7 @@
     {
       "iname": "adventure_default_daily_rapid_item_num",
       "type": 0,
-      "value": 5
+      "value": 30
     },
     {
       "iname": "adventure_default_daily_rapid_coin_num",
@@ -1103,12 +1108,12 @@
     {
       "iname": "raid_follow_bonus_item_iname",
       "type": 2,
-      "value": "IT_EC_FMAM_2"
+      "value": "IT_EC_GL_RAID_02"
     },
     {
       "iname": "raid_coin_item_iname",
       "type": 2,
-      "value": "IT_EC_FMAM_2"
+      "value": "IT_EC_GL_RAID_02"
     },
     {
       "iname": "raid_agent_max",
@@ -2108,7 +2113,7 @@
     {
       "iname": "monthly_guild_battle_proxy_count",
       "type": 0,
-      "value": 10
+      "value": 15
     },
     {
       "iname": "guild_battle_proxy_open",
@@ -2151,6 +2156,11 @@
       "value": 3600
     },
     {
+      "iname": "npc_guild_battle_open",
+      "type": 0,
+      "value": 0
+    },
+    {
       "iname": "chat_collab_group_id",
       "type": 1,
       "value": "1,2"
@@ -2184,6 +2194,36 @@
       "iname": "wavequest_bg_prefab",
       "type": 2,
       "value": "WaveQuestBG_0001"
+    },
+    {
+      "iname": "gacha_count_max",
+      "type": 0,
+      "value": 100
+    },
+    {
+      "iname": "is_allowed_rapid_coin",
+      "type": 0,
+      "value": 0
+    },
+    {
+      "iname": "is_allowed_guildbattle_sub",
+      "type": 0,
+      "value": 0
+    },
+    {
+      "iname": "is_allowed_limited_gb_sub",
+      "type": 0,
+      "value": 0
+    },
+    {
+      "iname": "is_allowed_top_gb_sub",
+      "type": 0,
+      "value": 0
+    },
+    {
+      "iname": "bulk_exercise_open",
+      "type": 0,
+      "value": 1
     },
     {
       "iname": "video_nrg_maxuse",

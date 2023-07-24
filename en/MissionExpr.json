@@ -7993,6 +7993,42 @@
       "value": "Log in for 3 Days"
     },
     {
+      "key": "CM_PRO_GL_V_ADSN_MV1_19",
+      "value": "Clear Addison Rae Meets WOTV FFBE Part III Quest #1"
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV1_20",
+      "value": "Clear the Wayfarer's Chamber 3 times"
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV1_21",
+      "value": "Defeat 10 Wolves"
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV1_22",
+      "value": "Clear Addison Rae Meets WOTV FFBE Part III Quest #2"
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV1_23",
+      "value": "Clear the Truststone/Refinement Chamber 3 times"
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV1_24",
+      "value": "Defeat 3 Kaiser Wolves"
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV1_25",
+      "value": "Make an exchange at the Guild Medal Exchange Shop"
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV1_26",
+      "value": "Defeat 3 Ochus"
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV1_27",
+      "value": "Clear Addison Rae Meets WOTV FFBE Part III Quest #3"
+    },
+    {
       "key": "CM_PRO_GL_SLVE_01",
       "value": "Reach Lv. 30 with Sylvie"
     },
@@ -9865,6 +9901,510 @@
       "value": "Reach Lv. 75 with Viga"
     },
     {
+      "key": "CM_PRO_GL_V_MCOR_01",
+      "value": "Reach Lv. 5 with \"Whiskered Thunderfangs, Master Coeurl\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MCOR_02",
+      "value": "Reach Lv. 10 with \"Whiskered Thunderfangs, Master Coeurl\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MCOR_03",
+      "value": "Reach Lv. 15 with \"Whiskered Thunderfangs, Master Coeurl\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MCOR_04",
+      "value": "Reach Lv. 20 with \"Whiskered Thunderfangs, Master Coeurl\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MCOR_05",
+      "value": "Awaken \"Whiskered Thunderfangs, Master Coeurl\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MCOR_06",
+      "value": "Reach Lv. 30 with \"Whiskered Thunderfangs, Master Coeurl\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MCOR_07",
+      "value": "Reach Lv. 40 with \"Whiskered Thunderfangs, Master Coeurl\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MCOR_08",
+      "value": "Reach Lv. 50 with \"Whiskered Thunderfangs, Master Coeurl\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MCOR_09",
+      "value": "Reach Lv. 65 with \"Whiskered Thunderfangs, Master Coeurl\""
+    },
+    {
+      "key": "CM_PRO_GL_ADSN_01",
+      "value": "Reach Lv. 30 with Addison Rae"
+    },
+    {
+      "key": "CM_PRO_GL_ADSN_02",
+      "value": "Limit Break Addison Rae"
+    },
+    {
+      "key": "CM_PRO_GL_ADSN_03",
+      "value": "Reach Lv. 40 with Addison Rae"
+    },
+    {
+      "key": "CM_PRO_GL_ADSN_04",
+      "value": "Reach Main Job Lv. 6 with Addison Rae"
+    },
+    {
+      "key": "CM_PRO_GL_ADSN_05",
+      "value": "Reach Lv. 50 with Addison Rae"
+    },
+    {
+      "key": "CM_PRO_GL_ADSN_06",
+      "value": "Reach Main Job Lv. 9 with Addison Rae"
+    },
+    {
+      "key": "CM_PRO_GL_ADSN_07",
+      "value": "Reach Lv. 60 with Addison Rae"
+    },
+    {
+      "key": "CM_PRO_GL_ADSN_08",
+      "value": "Reach Lv. 70 with Addison Rae"
+    },
+    {
+      "key": "CM_PRO_GL_ADSN_09",
+      "value": "Reach Lv. 75 with Addison Rae"
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV3_01",
+      "value": "Reach Lv. 5 with \"A Dance That's Out of This World\""
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV3_02",
+      "value": "Reach Lv. 10 with \"A Dance That's Out of This World\""
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV3_03",
+      "value": "Reach Lv. 15 with \"A Dance That's Out of This World\""
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV3_04",
+      "value": "Reach Lv. 20 with \"A Dance That's Out of This World\""
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV3_05",
+      "value": "Awaken \"A Dance That's Out of This World\""
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV3_06",
+      "value": "Reach Lv. 30 with \"A Dance That's Out of This World\""
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV3_07",
+      "value": "Reach Lv. 40 with \"A Dance That's Out of This World\""
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV3_08",
+      "value": "Reach Lv. 50 with \"A Dance That's Out of This World\""
+    },
+    {
+      "key": "CM_PRO_GL_V_ADSN_MV3_09",
+      "value": "Reach Lv. 65 with \"A Dance That's Out of This World\""
+    },
+    {
+      "key": "CM_PRO_GL_ASTORY_01_01",
+      "value": "Clear Another Story Chapter 1, Scene 1 [First of Many I]"
+    },
+    {
+      "key": "CM_PRO_GL_ASTORY_01_02",
+      "value": "Clear a JP Reward Quest"
+    },
+    {
+      "key": "CM_PRO_GL_ASTORY_01_03",
+      "value": "Reach Lv. 30 with Lucio"
+    },
+    {
+      "key": "CM_PRO_GL_ASTORY_01_04",
+      "value": "Reach Sub Job (Monk) Lv. 9 with Lucio"
+    },
+    {
+      "key": "CM_PRO_GL_ASTORY_01_05",
+      "value": "Clear Another Story Chapter 1, Scene 1 [First of Many I] 3 times"
+    },
+    {
+      "key": "CM_PRO_GL_ASTORY_01_06",
+      "value": "Reach Main Job Lv. 12 with Lucio"
+    },
+    {
+      "key": "CM_PRO_GL_ASTORY_01_07",
+      "value": "Clear the Wayfarer's Chamber 20 times"
+    },
+    {
+      "key": "CM_PRO_GL_ASTORY_01_08",
+      "value": "Awaken the vision card \"Howl of Ferocious Blaze, Ifrit\" 2 times"
+    },
+    {
+      "key": "CM_PRO_GL_ASTORY_01_09",
+      "value": "Complete all Quest Missions for Another Story Chapter 1, Scene 1 [The Weakpoint]"
+    },
+    {
+      "key": "CM_PRO_1324",
+      "value": "Reach Lv. 30 with Miranda (Sweetheart)"
+    },
+    {
+      "key": "CM_PRO_1325",
+      "value": "Limit Break Miranda (Sweetheart)"
+    },
+    {
+      "key": "CM_PRO_1326",
+      "value": "Reach Lv. 40 with Miranda (Sweetheart)"
+    },
+    {
+      "key": "CM_PRO_1327",
+      "value": "Reach Main Job Lv. 6 with Miranda (Sweetheart)"
+    },
+    {
+      "key": "CM_PRO_1328",
+      "value": "Reach Lv. 50 with Miranda (Sweetheart)"
+    },
+    {
+      "key": "CM_PRO_1329",
+      "value": "Reach Main Job Lv. 9 with Miranda (Sweetheart)"
+    },
+    {
+      "key": "CM_PRO_1330",
+      "value": "Reach Lv. 60 with Miranda (Sweetheart)"
+    },
+    {
+      "key": "CM_PRO_1331",
+      "value": "Reach Lv. 70 with Miranda (Sweetheart)"
+    },
+    {
+      "key": "CM_PRO_1332",
+      "value": "Reach Lv. 75 with Miranda (Sweetheart)"
+    },
+    {
+      "key": "CM_PRO_GL_V_MRND_01_01",
+      "value": "Reach Lv. 5 with \"Secret Party\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MRND_01_02",
+      "value": "Reach Lv. 10 with \"Secret Party\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MRND_01_03",
+      "value": "Reach Lv. 15 with \"Secret Party\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MRND_01_04",
+      "value": "Reach Lv. 20 with \"Secret Party\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MRND_01_05",
+      "value": "Awaken \"Secret Party\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MRND_01_06",
+      "value": "Reach Lv. 30 with \"Secret Party\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MRND_01_07",
+      "value": "Reach Lv. 40 with \"Secret Party\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MRND_01_08",
+      "value": "Reach Lv. 50 with \"Secret Party\""
+    },
+    {
+      "key": "CM_PRO_GL_V_MRND_01_09",
+      "value": "Reach Lv. 65 with \"Secret Party\""
+    },
+    {
+      "key": "CM_PRO_1369",
+      "value": "Reach Lv. 30 with Howlet the Heavensblade"
+    },
+    {
+      "key": "CM_PRO_1370",
+      "value": "Limit Break Howlet the Heavensblade"
+    },
+    {
+      "key": "CM_PRO_1371",
+      "value": "Reach Lv. 40 with Howlet the Heavensblade"
+    },
+    {
+      "key": "CM_PRO_1372",
+      "value": "Reach Main Job Lv. 6 with Howlet the Heavensblade"
+    },
+    {
+      "key": "CM_PRO_1373",
+      "value": "Reach Lv. 50 with Howlet the Heavensblade"
+    },
+    {
+      "key": "CM_PRO_1374",
+      "value": "Reach Main Job Lv. 9 with Howlet the Heavensblade"
+    },
+    {
+      "key": "CM_PRO_1375",
+      "value": "Reach Lv. 60 with Howlet the Heavensblade"
+    },
+    {
+      "key": "CM_PRO_1376",
+      "value": "Reach Lv. 70 with Howlet the Heavensblade"
+    },
+    {
+      "key": "CM_PRO_1377",
+      "value": "Reach Lv. 75 with Howlet the Heavensblade"
+    },
+    {
+      "key": "CM_PRO_GL_V_HWLT_01",
+      "value": "Reach Lv. 5 with \"Journey of the Groms\""
+    },
+    {
+      "key": "CM_PRO_GL_V_HWLT_02",
+      "value": "Reach Lv. 10 with \"Journey of the Groms\""
+    },
+    {
+      "key": "CM_PRO_GL_V_HWLT_03",
+      "value": "Reach Lv. 15 with \"Journey of the Groms\""
+    },
+    {
+      "key": "CM_PRO_GL_V_HWLT_04",
+      "value": "Reach Lv. 20 with \"Journey of the Groms\""
+    },
+    {
+      "key": "CM_PRO_GL_V_HWLT_05",
+      "value": "Awaken \"Journey of the Groms\""
+    },
+    {
+      "key": "CM_PRO_GL_V_HWLT_06",
+      "value": "Reach Lv. 30 with \"Journey of the Groms\""
+    },
+    {
+      "key": "CM_PRO_GL_V_HWLT_07",
+      "value": "Reach Lv. 40 with \"Journey of the Groms\""
+    },
+    {
+      "key": "CM_PRO_GL_V_HWLT_08",
+      "value": "Reach Lv. 50 with \"Journey of the Groms\""
+    },
+    {
+      "key": "CM_PRO_GL_V_HWLT_09",
+      "value": "Reach Lv. 65 with \"Journey of the Groms\""
+    },
+    {
+      "key": "CM_PRO_1351",
+      "value": "Reach Lv. 30 with Dialdo"
+    },
+    {
+      "key": "CM_PRO_1352",
+      "value": "Limit Break Dialdo"
+    },
+    {
+      "key": "CM_PRO_1353",
+      "value": "Reach Lv. 40 with Dialdo"
+    },
+    {
+      "key": "CM_PRO_1354",
+      "value": "Reach Main Job Lv. 6 with Dialdo"
+    },
+    {
+      "key": "CM_PRO_1355",
+      "value": "Reach Lv. 50 with Dialdo"
+    },
+    {
+      "key": "CM_PRO_1356",
+      "value": "Reach Main Job Lv. 9 with Dialdo"
+    },
+    {
+      "key": "CM_PRO_1357",
+      "value": "Reach Lv. 60 with Dialdo"
+    },
+    {
+      "key": "CM_PRO_1358",
+      "value": "Reach Lv. 70 with Dialdo"
+    },
+    {
+      "key": "CM_PRO_1359",
+      "value": "Reach Lv. 75 with Dialdo"
+    },
+    {
+      "key": "CM_PRO_GL_V_GLEM_01_01",
+      "value": "Reach Lv. 5 with \"Corrupted Megalith, Dark Golem\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLEM_01_02",
+      "value": "Reach Lv. 10 with \"Corrupted Megalith, Dark Golem\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLEM_01_03",
+      "value": "Reach Lv. 15 with \"Corrupted Megalith, Dark Golem\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLEM_01_04",
+      "value": "Reach Lv. 20 with \"Corrupted Megalith, Dark Golem\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLEM_01_05",
+      "value": "Awaken \"Corrupted Megalith, Dark Golem\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLEM_01_06",
+      "value": "Reach Lv. 30 with \"Corrupted Megalith, Dark Golem\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLEM_01_07",
+      "value": "Reach Lv. 40 with \"Corrupted Megalith, Dark Golem\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLEM_01_08",
+      "value": "Reach Lv. 50 with \"Corrupted Megalith, Dark Golem\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLEM_01_09",
+      "value": "Reach Lv. 65 with \"Corrupted Megalith, Dark Golem\""
+    },
+    {
+      "key": "CM_PRO_1414",
+      "value": "Clear FINAL FANTASY V Battle #1"
+    },
+    {
+      "key": "CM_PRO_1415",
+      "value": "Clear a Hard Quest from the World Quests List 10 times"
+    },
+    {
+      "key": "CM_PRO_1416",
+      "value": "Clear FINAL FANTASY V Battle #3"
+    },
+    {
+      "key": "CM_PRO_1417",
+      "value": "Compete in the Duel Arena 10 times"
+    },
+    {
+      "key": "CM_PRO_1418",
+      "value": "Clear Big Bridge"
+    },
+    {
+      "key": "CM_PRO_1419",
+      "value": "Log in 3 days during the event period"
+    },
+    {
+      "key": "CM_PRO_1420",
+      "value": "Clear Event Quests 50 times"
+    },
+    {
+      "key": "CM_PRO_1421",
+      "value": "Join or create a Guild"
+    },
+    {
+      "key": "CM_PRO_1422",
+      "value": "Log in 7 days during the event period"
+    },
+    {
+      "key": "CM_PRO_1423",
+      "value": "Reach Lv. 30 with Bartz"
+    },
+    {
+      "key": "CM_PRO_1424",
+      "value": "Limit Break Bartz"
+    },
+    {
+      "key": "CM_PRO_1425",
+      "value": "Reach Lv. 40 with Bartz"
+    },
+    {
+      "key": "CM_PRO_1426",
+      "value": "Reach Main Job Lv. 6 with Bartz"
+    },
+    {
+      "key": "CM_PRO_1427",
+      "value": "Reach Lv. 50 with Bartz"
+    },
+    {
+      "key": "CM_PRO_1428",
+      "value": "Reach Main Job Lv. 9 with Bartz"
+    },
+    {
+      "key": "CM_PRO_1429",
+      "value": "Reach Lv. 60 with Bartz"
+    },
+    {
+      "key": "CM_PRO_1430",
+      "value": "Reach Lv. 70 with Bartz"
+    },
+    {
+      "key": "CM_PRO_1431",
+      "value": "Reach Lv. 75 with Bartz"
+    },
+    {
+      "key": "CM_PRO_1432",
+      "value": "Reach Lv. 30 with Lenna"
+    },
+    {
+      "key": "CM_PRO_1433",
+      "value": "Limit Break Lenna"
+    },
+    {
+      "key": "CM_PRO_1434",
+      "value": "Reach Lv. 40 with Lenna"
+    },
+    {
+      "key": "CM_PRO_1435",
+      "value": "Reach Main Job Lv. 6 with Lenna"
+    },
+    {
+      "key": "CM_PRO_1436",
+      "value": "Reach Lv. 50 with Lenna"
+    },
+    {
+      "key": "CM_PRO_1437",
+      "value": "Reach Main Job Lv. 9 with Lenna"
+    },
+    {
+      "key": "CM_PRO_1438",
+      "value": "Reach Lv. 60 with Lenna"
+    },
+    {
+      "key": "CM_PRO_1439",
+      "value": "Reach Lv. 70 with Lenna"
+    },
+    {
+      "key": "CM_PRO_1440",
+      "value": "Reach Lv. 75 with Lenna"
+    },
+    {
+      "key": "CM_PRO_GL_V_FF5_MV1_01",
+      "value": "Reach Lv. 5 with \"Love for Hiryu\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FF5_MV1_02",
+      "value": "Reach Lv. 10 with \"Love for Hiryu\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FF5_MV1_03",
+      "value": "Reach Lv. 15 with \"Love for Hiryu\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FF5_MV1_04",
+      "value": "Reach Lv. 20 with \"Love for Hiryu\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FF5_MV1_05",
+      "value": "Awaken \"Love for Hiryu\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FF5_MV1_06",
+      "value": "Reach Lv. 30 with \"Love for Hiryu\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FF5_MV1_07",
+      "value": "Reach Lv. 40 with \"Love for Hiryu\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FF5_MV1_08",
+      "value": "Reach Lv. 50 with \"Love for Hiryu\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FF5_MV1_09",
+      "value": "Reach Lv. 65 with \"Love for Hiryu\""
+    },
+    {
       "key": "GM_0001",
       "value": "Have 10 Guild Members in your Guild"
     },
@@ -10247,6 +10787,30 @@
     {
       "key": "GM_FF06_6",
       "value": "Title given to the Guilds that ranked within the top 50 in the Guild High Score Ranking of the FFVI Collaboration  Trials of Reckoning"
+    },
+    {
+      "key": "GM_FF06_7",
+      "value": "Title given to the Guild that ranked 1st in the Guild Total Score Ranking of the FFVI Collaboration Reissue  Trials of Reckoning II"
+    },
+    {
+      "key": "GM_FF06_8",
+      "value": "Title given to the Guilds that ranked within the top 10 in the Guild Total Score Ranking of the FFVI Collaboration Reissue  Trials of Reckoning II"
+    },
+    {
+      "key": "GM_FF06_9",
+      "value": "Title given to the Guilds that ranked within the top 50 in the Guild Total Score Ranking of the FFVI Collaboration Reissue  Trials of Reckoning II"
+    },
+    {
+      "key": "GM_FF06_10",
+      "value": "Title given to the Guild that ranked 1st in the Guild High Score Ranking of the FFVI Collaboration Reissue  Trials of Reckoning II"
+    },
+    {
+      "key": "GM_FF06_11",
+      "value": "Title given to the Guilds that ranked within the top 10 in the Guild High Score Ranking of the FFVI Collaboration Reissue  Trials of Reckoning II"
+    },
+    {
+      "key": "GM_FF06_12",
+      "value": "Title given to the Guilds that ranked within the top 50 in the Guild High Score Ranking of the FFVI Collaboration Reissue  Trials of Reckoning II"
     },
     {
       "key": "GM_FF13_1",
@@ -11135,6 +11699,30 @@
     {
       "key": "M_ST_0302_01_02",
       "value": "Clear Chapter 2, Scene 1 [Laughter]"
+    },
+    {
+      "key": "M_ST_0302_02",
+      "value": "Clear Chapter 2, Scene 2 [Yezagh and Lykeros II]"
+    },
+    {
+      "key": "M_ST_0302_02_02",
+      "value": "Clear Chapter 2, Scene 2 [Fool II]"
+    },
+    {
+      "key": "M_ST_0302_03",
+      "value": "Clear Chapter 2, Scene 3 [Unless He Hears It From Me II]"
+    },
+    {
+      "key": "M_ST_0302_03_02",
+      "value": "Clear Chapter 2, Scene 3 [The Three Lines of Defense]"
+    },
+    {
+      "key": "M_ST_0303_01",
+      "value": "Clear Chapter 3, Scene 1 [Memories of Lucielle III]"
+    },
+    {
+      "key": "M_ST_0303_01_02",
+      "value": "Clear Chapter 3, Scene 1 [The Second Line of Defense]"
     },
     {
       "key": "M_VIP_LOGB_001",
@@ -13309,6 +13897,66 @@
       "value": "Clear Any Another Story Chapter 2, Scene 4 Quest (20/20)"
     },
     {
+      "key": "M_EV_AST_0205_01",
+      "value": "Clear Another Story Chapter 2, Scene 5 [Wavering Hatred I]"
+    },
+    {
+      "key": "M_EV_AST_0205_02",
+      "value": "Clear Another Story Chapter 2, Scene 5 [Wavering Hatred II]"
+    },
+    {
+      "key": "M_EV_AST_0205_03",
+      "value": "Clear Another Story Chapter 2, Scene 5 [\"Vardia\"]"
+    },
+    {
+      "key": "M_EV_AST_0205_04",
+      "value": "Clear Another Story Chapter 2, Scene 5 [Serpentine Gathering]"
+    },
+    {
+      "key": "M_EV_AST_0205_05",
+      "value": "Clear Another Story Chapter 2, Scene 5 [The Circle of Uroboros]"
+    },
+    {
+      "key": "M_EV_AST_0205_06",
+      "value": "Clear Another Story Chapter 2, Scene 5 [His Last One]"
+    },
+    {
+      "key": "M_EV_AST_0205_07",
+      "value": "Clear Another Story Chapter 2, Scene 5 [\"Fun\"]"
+    },
+    {
+      "key": "M_EV_AST_0205_08",
+      "value": "Clear Another Story Chapter 2, Scene 5 [Salvation of Sorts]"
+    },
+    {
+      "key": "M_EV_AST_0205_09",
+      "value": "Clear Another Story Chapter 2, Scene 5 [The Servant of Resignation and Despair]"
+    },
+    {
+      "key": "M_EV_AST_0205_10",
+      "value": "Clear Another Story Chapter 2, Scene 5 [The Beast that Consumes the Eternal Abyss]"
+    },
+    {
+      "key": "M_EV_AST_0205_11",
+      "value": "Clear Any Another Story Chapter 2, Scene 5 Quest (3/20)"
+    },
+    {
+      "key": "M_EV_AST_0205_12",
+      "value": "Clear Any Another Story Chapter 2, Scene 5 Quest (5/20)"
+    },
+    {
+      "key": "M_EV_AST_0205_13",
+      "value": "Clear Any Another Story Chapter 2, Scene 5 Quest (10/20)"
+    },
+    {
+      "key": "M_EV_AST_0205_14",
+      "value": "Clear Any Another Story Chapter 2, Scene 5 Quest (15/20)"
+    },
+    {
+      "key": "M_EV_AST_0205_15",
+      "value": "Clear Any Another Story Chapter 2, Scene 5 Quest (20/20)"
+    },
+    {
       "key": "M_EV_AEX_0101_01",
       "value": "Clear Another Story Chapter 1, Scene 1 [EX]"
     },
@@ -13787,6 +14435,54 @@
     {
       "key": "M_EV_AEX_0204_12",
       "value": "[Multi] Clear Brutal Difficulty Another Story Chapter 2, Scene 4 [EX] 3 times"
+    },
+    {
+      "key": "M_EV_AEX_0205_01",
+      "value": "Clear Another Story Chapter 2, Scene 5 [EX]"
+    },
+    {
+      "key": "M_EV_AEX_0205_02",
+      "value": "Clear Another Story Chapter 2, Scene 5 [EX] 3 times"
+    },
+    {
+      "key": "M_EV_AEX_0205_03",
+      "value": "Clear Another Story Chapter 2, Scene 5 [EX] 5 times"
+    },
+    {
+      "key": "M_EV_AEX_0205_04",
+      "value": "Clear Brutal Difficulty Another Story Chapter 2, Scene 5 [EX]"
+    },
+    {
+      "key": "M_EV_AEX_0205_05",
+      "value": "Clear Brutal Difficulty Another Story Chapter 2, Scene 5 [EX] 3 times"
+    },
+    {
+      "key": "M_EV_AEX_0205_06",
+      "value": "Clear Brutal Difficulty Another Story Chapter 2, Scene 5 [EX] 5 times"
+    },
+    {
+      "key": "M_EV_AEX_0205_07",
+      "value": "Clear Brutal Difficulty Another Story Chapter 2, Scene 5 [EX] 10 times"
+    },
+    {
+      "key": "M_EV_AEX_0205_08",
+      "value": "[Multi] Clear Another Story Chapter 2, Scene 5 [EX]"
+    },
+    {
+      "key": "M_EV_AEX_0205_09",
+      "value": "[Multi] Clear Another Story Chapter 2, Scene 5 [EX] 3 times"
+    },
+    {
+      "key": "M_EV_AEX_0205_10",
+      "value": "[Multi] Clear Another Story Chapter 2, Scene 5 [EX] 5 times"
+    },
+    {
+      "key": "M_EV_AEX_0205_11",
+      "value": "[Multi] Clear Brutal Difficulty Another Story Chapter 2, Scene 5 [EX]"
+    },
+    {
+      "key": "M_EV_AEX_0205_12",
+      "value": "[Multi] Clear Brutal Difficulty Another Story Chapter 2, Scene 5 [EX] 3 times"
     },
     {
       "key": "M_EV_AEX_SP_1",
@@ -15225,10 +15921,6 @@
       "value": "Collect items found during Chocobo Expedition 5 times"
     },
     {
-      "key": "M_GL_DAILY_FF14",
-      "value": "Clear any FFXIV Event Quest"
-    },
-    {
       "key": "M_FF14_1_1_01",
       "value": "Clear FINAL FANTASY XIV Battle #1"
     },
@@ -16549,6 +17241,42 @@
       "value": "[Multi] Clear Brutal Difficulty Tomb Raider [EX1] 5 times"
     },
     {
+      "key": "M_GL_ADSN_1_01",
+      "value": "Clear Addison Rae Meets WOTV FFBE Part III Quest #1"
+    },
+    {
+      "key": "M_GL_ADSN_1_02",
+      "value": "Clear Addison Rae Meets WOTV FFBE Part III Quest #2"
+    },
+    {
+      "key": "M_GL_ADSN_1_03",
+      "value": "Clear Addison Rae Meets WOTV FFBE Part III Quest #3"
+    },
+    {
+      "key": "M_GL_ADSN_1_04",
+      "value": "Clear Addison Rae Meets WOTV FFBE Part III Quest #4"
+    },
+    {
+      "key": "M_GL_ADSN_1_05",
+      "value": "Clear Addison Rae Meets WOTV FFBE Part III Quest #5"
+    },
+    {
+      "key": "M_GL_ADSN_1_06",
+      "value": "Clear Addison Rae Meets WOTV FFBE Part III Quest #6"
+    },
+    {
+      "key": "M_GL_ADSN_1_07",
+      "value": "Clear Addison Rae Meets WOTV FFBE Part III Quest #7"
+    },
+    {
+      "key": "M_GL_ADSN_1_08",
+      "value": "Clear Addison Rae Meets WOTV FFBE Part III Quest #8"
+    },
+    {
+      "key": "M_GL_ADSN_1_09",
+      "value": "Clear Addison Rae Meets WOTV FFBE Part III Quest #9"
+    },
+    {
       "key": "M_GL_FFEXU_02_EX_01",
       "value": "Clear Creeping Malice EX"
     },
@@ -16707,6 +17435,18 @@
     {
       "key": "M_GL_FMAM_CH_BRDL_01",
       "value": "Clear All Quest Missions for King Bradley's Character Quest"
+    },
+    {
+      "key": "M_GL_ADSN_CH_ADSN_01",
+      "value": "Clear All Quest Missions for Addison Rae's Character Quest"
+    },
+    {
+      "key": "M_GL_FF5_CH_LENA_01",
+      "value": "Clear All Quest Missions for Lenna's Character Quest"
+    },
+    {
+      "key": "M_GL_FF5_CH_BATZ_01",
+      "value": "Clear All Quest Missions for Bartz's Character Quest"
     },
     {
       "key": "M_GL_FF7_SNS_1",
@@ -18721,6 +19461,162 @@
       "value": "[Multi] Clear Brutal Difficulty FMA [EX4] 3 times"
     },
     {
+      "key": "M_FF5_1_01",
+      "value": "Clear FINAL FANTASY V Battle #1"
+    },
+    {
+      "key": "M_FF5_1_02",
+      "value": "Clear FINAL FANTASY V Battle #2"
+    },
+    {
+      "key": "M_FF5_1_03",
+      "value": "Clear FINAL FANTASY V Battle #3"
+    },
+    {
+      "key": "M_FF5_1_04",
+      "value": "Clear Karnak Castle"
+    },
+    {
+      "key": "M_FF5_1_05",
+      "value": "Clear Big Bridge"
+    },
+    {
+      "key": "M_FF5_1_06",
+      "value": "Clear FINAL FANTASY V Battle #1 [Intermediate]"
+    },
+    {
+      "key": "M_FF5_1_07",
+      "value": "Clear FINAL FANTASY V Battle #2 [Intermediate]"
+    },
+    {
+      "key": "M_FF5_1_08",
+      "value": "Clear FINAL FANTASY V Battle #3 [Intermediate]"
+    },
+    {
+      "key": "M_FF5_1_09",
+      "value": "Clear Karnak Castle [Intermediate]"
+    },
+    {
+      "key": "M_FF5_1_10",
+      "value": "Clear Big Bridge [Intermediate]"
+    },
+    {
+      "key": "M_FF5_1_11",
+      "value": "Clear any FINAL FANTASY V Event Quest (3/20)"
+    },
+    {
+      "key": "M_FF5_1_12",
+      "value": "Clear any FINAL FANTASY V Event Quest (5/20)"
+    },
+    {
+      "key": "M_FF5_1_13",
+      "value": "Clear any FINAL FANTASY V Event Quest (10/20)"
+    },
+    {
+      "key": "M_FF5_1_14",
+      "value": "Clear any FINAL FANTASY V Event Quest (15/20)"
+    },
+    {
+      "key": "M_FF5_1_15",
+      "value": "Clear any FINAL FANTASY V Event Quest (20/20)"
+    },
+    {
+      "key": "M_FF5_EX_01",
+      "value": "Clear FINAL FANTASY V [EX1]"
+    },
+    {
+      "key": "M_FF5_EX_02",
+      "value": "Clear FINAL FANTASY V [EX1] 3 times"
+    },
+    {
+      "key": "M_FF5_EX_03",
+      "value": "Clear FINAL FANTASY V [EX1] 5 times"
+    },
+    {
+      "key": "M_FF5_EX1_01",
+      "value": "Clear Brutal Difficulty FINAL FANTASY V [EX1]"
+    },
+    {
+      "key": "M_FF5_EX1_02",
+      "value": "Clear Brutal Difficulty FINAL FANTASY V [EX1] 3 times"
+    },
+    {
+      "key": "M_FF5_EX1_03",
+      "value": "Clear Brutal Difficulty FINAL FANTASY V [EX1] 5 times"
+    },
+    {
+      "key": "M_FF5_EX1_04",
+      "value": "Clear Brutal Difficulty FINAL FANTASY V [EX1] 10 times"
+    },
+    {
+      "key": "M_MU_FF5_EX_01",
+      "value": "[Multi] Clear FINAL FANTASY V [EX1]"
+    },
+    {
+      "key": "M_MU_FF5_EX_02",
+      "value": "[Multi] Clear FINAL FANTASY V [EX1] 3 times"
+    },
+    {
+      "key": "M_MU_FF5_EX_03",
+      "value": "[Multi] Clear FINAL FANTASY V [EX1] 5 times"
+    },
+    {
+      "key": "M_MU_FF5_EX1_01",
+      "value": "[Multi] Clear Brutal Difficulty FINAL FANTASY V [EX1]"
+    },
+    {
+      "key": "M_MU_FF5_EX1_02",
+      "value": "[Multi] Clear Brutal Difficulty FINAL FANTASY V [EX1] 3 times"
+    },
+    {
+      "key": "M_FF5_EX_04",
+      "value": "Clear FINAL FANTASY V [EX2]"
+    },
+    {
+      "key": "M_FF5_EX_05",
+      "value": "Clear FINAL FANTASY V [EX2] 3 times"
+    },
+    {
+      "key": "M_FF5_EX_6",
+      "value": "Clear FINAL FANTASY V [EX2] 5 times"
+    },
+    {
+      "key": "M_FF5_EX2_01",
+      "value": "Clear Brutal Difficulty FINAL FANTASY V [EX2]"
+    },
+    {
+      "key": "M_FF5_EX2_02",
+      "value": "Clear Brutal Difficulty FINAL FANTASY V [EX2] 3 times"
+    },
+    {
+      "key": "M_FF5_EX2_03",
+      "value": "Clear Brutal Difficulty FINAL FANTASY V [EX2] 5 times"
+    },
+    {
+      "key": "M_FF5_EX2_04",
+      "value": "Clear Brutal Difficulty FINAL FANTASY V [EX2] 10 times"
+    },
+    {
+      "key": "M_MU_FF5_EX_04",
+      "value": "[Multi] Clear FINAL FANTASY V [EX2]"
+    },
+    {
+      "key": "M_MU_FF5_EX_05",
+      "value": "[Multi] Clear FINAL FANTASY V [EX2] 3 times"
+    },
+    {
+      "key": "M_MU_FF5_EX_06",
+      "value": "[Multi] Clear FINAL FANTASY V [EX2] 5 times"
+    },
+    {
+      "key": "M_MU_FF5_EX2_01",
+      "value": "[Multi] Clear Brutal Difficulty FINAL FANTASY V [EX2]"
+    },
+    {
+      "key": "M_MU_FF5_EX2_02",
+      "value": "[Multi] Clear Brutal Difficulty FINAL FANTASY V [EX2] 3 times"
+    },
+    {
       "key": "M_GL_HALL_CH_RYER_01",
       "value": "Clear All Quest Missions for Little Leela (Halloween)'s Character Quest"
     },
@@ -19071,6 +19967,26 @@
     {
       "key": "M_GL_LW_SNS_76",
       "value": "Check Out the PvP Tournament"
+    },
+    {
+      "key": "M_GL_LW_SNS_77",
+      "value": "Watch the YouTube Video"
+    },
+    {
+      "key": "M_GL_LW_SNS_78",
+      "value": "Watch the WOTV FFBE CHAMPIONSHIP 2023 Rundall Cup live on 7/15!"
+    },
+    {
+      "key": "M_GL_LW_SNS_79",
+      "value": "Join the official WOTV FFBE CHAMPIONSHIP Discord Server!"
+    },
+    {
+      "key": "M_GL_LW_SNS_80",
+      "value": "Check Out the Video"
+    },
+    {
+      "key": "M_GL_LW_SNS_81",
+      "value": "Check Out the PV"
     },
     {
       "key": "M_ART_CRF_01_01",
@@ -20835,6 +21751,54 @@
     {
       "key": "M_MU_ARTCRF_63_2",
       "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Azure Glacier) 3 times"
+    },
+    {
+      "key": "M_ART_CRF_64_01",
+      "value": "Clear Equipment Training Quest (Candyblade)"
+    },
+    {
+      "key": "M_ART_CRF_64_02",
+      "value": "Clear Equipment Training Quest (Candyblade) 3 times"
+    },
+    {
+      "key": "M_ART_CRF_64_03",
+      "value": "Clear Equipment Training Quest (Candyblade) 5 times"
+    },
+    {
+      "key": "M_MU_ARTCRF_64_1",
+      "value": "[Multi] Clear Equipment Training Quest (Candyblade)"
+    },
+    {
+      "key": "M_MU_ARTCRF_64_2",
+      "value": "[Multi] Clear Equipment Training Quest (Candyblade) 3 times"
+    },
+    {
+      "key": "M_MU_ARTCRF_64_3",
+      "value": "[Multi] Clear Equipment Training Quest (Candyblade) 5 times"
+    },
+    {
+      "key": "M_ART_CRF_65_01",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Candyblade)"
+    },
+    {
+      "key": "M_ART_CRF_65_02",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Candyblade) 3 times"
+    },
+    {
+      "key": "M_ART_CRF_65_03",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Candyblade) 5 times"
+    },
+    {
+      "key": "M_ART_CRF_65_04",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Candyblade) 10 times"
+    },
+    {
+      "key": "M_MU_ARTCRF_65_1",
+      "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Candyblade)"
+    },
+    {
+      "key": "M_MU_ARTCRF_65_2",
+      "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Candyblade) 3 times"
     },
     {
       "key": "M_GL_ART_CRF_01_01",
@@ -23871,6 +24835,30 @@
     {
       "key": "M_RAID_GL_RV_01_06",
       "value": "Defeat Omega 20 times"
+    },
+    {
+      "key": "M_RAID_RV_08_01",
+      "value": "Clear Any Raid Boss Revival"
+    },
+    {
+      "key": "M_RAID_RV_08_02",
+      "value": "Clear Any Raid Boss Revival 3 times"
+    },
+    {
+      "key": "M_RAID_RV_08_03",
+      "value": "Clear Any Raid Boss Revival 5 times"
+    },
+    {
+      "key": "M_RAID_RV_08_04",
+      "value": "Clear Any Raid Boss Revival 10 times"
+    },
+    {
+      "key": "M_RAID_RV_08_05",
+      "value": "Clear Any Raid Boss Revival 15 times"
+    },
+    {
+      "key": "M_RAID_RV_08_06",
+      "value": "Clear Any Raid Boss Revival 20 times"
     },
     {
       "key": "MG_SM_2022_1_1_1",
@@ -28973,6 +29961,222 @@
       "value": "[Multi] Clear Brutal Difficulty Lissette Acquisition Ex-Quest 5 times"
     },
     {
+      "key": "M_DIAA01_1_01",
+      "value": "Clear Deah Acquisition Quest I"
+    },
+    {
+      "key": "M_DIAA01_1_02",
+      "value": "Clear Deah Acquisition Quest II"
+    },
+    {
+      "key": "M_DIAA01_1_03",
+      "value": "Clear Deah Acquisition Quest III"
+    },
+    {
+      "key": "M_DIAA01_1_04",
+      "value": "Clear Deah Acquisition Quest IV"
+    },
+    {
+      "key": "M_DIAA01_1_05",
+      "value": "Clear Deah Acquisition Quest V"
+    },
+    {
+      "key": "M_DIAA01_1_06",
+      "value": "Clear any Deah Acquisition Quest 3 times"
+    },
+    {
+      "key": "M_DIAA01_1_07",
+      "value": "Clear any Deah Acquisition Quest 5 times"
+    },
+    {
+      "key": "M_DIAA01_1_08",
+      "value": "Clear any Deah Acquisition Quest 10 times"
+    },
+    {
+      "key": "M_DIAA01_1_09",
+      "value": "Clear any Deah Acquisition Quest 15 times"
+    },
+    {
+      "key": "M_DIAA01_1_10",
+      "value": "Clear any Deah Acquisition Quest 20 times"
+    },
+    {
+      "key": "M_DIAA01_1_11",
+      "value": "Reach Lv. 40 with Deah"
+    },
+    {
+      "key": "M_DIAA01_1_12",
+      "value": "Reach Main Job Lv. 6 with Deah"
+    },
+    {
+      "key": "M_DIAA01_1_13",
+      "value": "Awaken Deah 2 times"
+    },
+    {
+      "key": "M_DIAA01_1_14",
+      "value": "Limit Break Deah 2 times"
+    },
+    {
+      "key": "M_DIAA01_EX1_01",
+      "value": "Clear High Difficulty Deah Acquisition Ex-Quest"
+    },
+    {
+      "key": "M_DIAA01_EX1_02",
+      "value": "Clear High Difficulty Deah Acquisition Ex-Quest 3 times"
+    },
+    {
+      "key": "M_DIAA01_EX1_03",
+      "value": "Clear High Difficulty Deah Acquisition Ex-Quest 5 times"
+    },
+    {
+      "key": "M_DIAA01_EX1_04",
+      "value": "Clear High Difficulty Deah Acquisition Ex-Quest 10 times"
+    },
+    {
+      "key": "M_DIAA01_EX2_01",
+      "value": "Clear Brutal Difficulty Deah Acquisition Ex-Quest I"
+    },
+    {
+      "key": "M_DIAA01_EX2_02",
+      "value": "Clear Brutal Difficulty Deah Acquisition Ex-Quest I 3 times"
+    },
+    {
+      "key": "M_DIAA01_EX2_03",
+      "value": "Clear Brutal Difficulty Deah Acquisition Ex-Quest I 5 times"
+    },
+    {
+      "key": "M_MU_DI01_EX1_01",
+      "value": "[Multi] Clear High Difficulty Deah Acquisition Ex-Quest"
+    },
+    {
+      "key": "M_MU_DI01_EX1_02",
+      "value": "[Multi] Clear High Difficulty Deah Acquisition Ex-Quest 3 times"
+    },
+    {
+      "key": "M_MU_DI01_EX1_03",
+      "value": "[Multi] Clear High Difficulty Deah Acquisition Ex-Quest 5 times"
+    },
+    {
+      "key": "M_MU_DI01_EX2_01",
+      "value": "[Multi] Clear Brutal Difficulty Deah Acquisition Ex-Quest I"
+    },
+    {
+      "key": "M_MU_DI01_EX2_02",
+      "value": "[Multi] Clear Brutal Difficulty Deah Acquisition Ex-Quest I 3 times"
+    },
+    {
+      "key": "M_MU_DI01_EX2_03",
+      "value": "[Multi] Clear Brutal Difficulty Deah Acquisition Ex-Quest I 5 times"
+    },
+    {
+      "key": "M_GLZK01_1_01",
+      "value": "Clear Galzahk Acquisition Quest I"
+    },
+    {
+      "key": "M_GLZK01_1_02",
+      "value": "Clear Galzahk Acquisition Quest II"
+    },
+    {
+      "key": "M_GLZK01_1_03",
+      "value": "Clear Galzahk Acquisition Quest III"
+    },
+    {
+      "key": "M_GLZK01_1_04",
+      "value": "Clear Galzahk Acquisition Quest IV"
+    },
+    {
+      "key": "M_GLZK01_1_05",
+      "value": "Clear Galzahk Acquisition Quest V"
+    },
+    {
+      "key": "M_GLZK01_1_06",
+      "value": "Clear any Galzahk Acquisition Quest 3 times"
+    },
+    {
+      "key": "M_GLZK01_1_07",
+      "value": "Clear any Galzahk Acquisition Quest 5 times"
+    },
+    {
+      "key": "M_GLZK01_1_08",
+      "value": "Clear any Galzahk Acquisition Quest 10 times"
+    },
+    {
+      "key": "M_GLZK01_1_09",
+      "value": "Clear any Galzahk Acquisition Quest 15 times"
+    },
+    {
+      "key": "M_GLZK01_1_10",
+      "value": "Clear any Galzahk Acquisition Quest 20 times"
+    },
+    {
+      "key": "M_GLZK01_1_11",
+      "value": "Reach Lv. 40 with Galzahk"
+    },
+    {
+      "key": "M_GLZK01_1_12",
+      "value": "Reach Main Job Lv. 6 with Galzahk"
+    },
+    {
+      "key": "M_GLZK01_1_13",
+      "value": "Awaken Galzahk 2 times"
+    },
+    {
+      "key": "M_GLZK01_1_14",
+      "value": "Limit Break Galzahk 2 times"
+    },
+    {
+      "key": "M_GLZK01_EX1_01",
+      "value": "Clear High Difficulty Galzahk Acquisition Ex-Quest"
+    },
+    {
+      "key": "M_GLZK01_EX1_02",
+      "value": "Clear High Difficulty Galzahk Acquisition Ex-Quest 3 times"
+    },
+    {
+      "key": "M_GLZK01_EX1_03",
+      "value": "Clear High Difficulty Galzahk Acquisition Ex-Quest 5 times"
+    },
+    {
+      "key": "M_GLZK01_EX1_04",
+      "value": "Clear High Difficulty Galzahk Acquisition Ex-Quest 10 times"
+    },
+    {
+      "key": "M_GLZK01_EX2_01",
+      "value": "Clear Brutal Difficulty Galzahk Acquisition Ex-Quest"
+    },
+    {
+      "key": "M_GLZK01_EX2_02",
+      "value": "Clear Brutal Difficulty Galzahk Acquisition Ex-Quest 3 times"
+    },
+    {
+      "key": "M_GLZK01_EX2_03",
+      "value": "Clear Brutal Difficulty Galzahk Acquisition Ex-Quest 5 times"
+    },
+    {
+      "key": "M_MU_GL01_EX1_01",
+      "value": "[Multi] Clear High Difficulty Galzahk Acquisition Ex-Quest"
+    },
+    {
+      "key": "M_MU_GL01_EX1_02",
+      "value": "[Multi] Clear High Difficulty Galzahk Acquisition Ex-Quest 3 times"
+    },
+    {
+      "key": "M_MU_GL01_EX1_03",
+      "value": "[Multi] Clear High Difficulty Galzahk Acquisition Ex-Quest 5 times"
+    },
+    {
+      "key": "M_MU_GL01_EX2_01",
+      "value": "[Multi] Clear Brutal Difficulty Galzahk Acquisition Ex-Quest"
+    },
+    {
+      "key": "M_MU_GL01_EX2_02",
+      "value": "[Multi] Clear Brutal Difficulty Galzahk Acquisition Ex-Quest 3 times"
+    },
+    {
+      "key": "M_MU_GL01_EX2_03",
+      "value": "[Multi] Clear Brutal Difficulty Galzahk Acquisition Ex-Quest 5 times"
+    },
+    {
       "key": "M_WW_MB_EX1_01",
       "value": "Clear Sprouts of Devouring  EXVIUS UNIVERSE EX1"
     },
@@ -30647,6 +31851,66 @@
     {
       "key": "M_PT_FF7_02_3_5",
       "value": "Clear any FFVIIR INTERGRADE Collaboration  Trials of Reckoning Quest (20/20)"
+    },
+    {
+      "key": "M_PT_FF6_02_1_1",
+      "value": "Clear Trials of Reckoning Quest  Normal #1"
+    },
+    {
+      "key": "M_PT_FF6_02_1_2",
+      "value": "Clear Trials of Reckoning Quest  Normal #2"
+    },
+    {
+      "key": "M_PT_FF6_02_1_3",
+      "value": "Clear Trials of Reckoning Quest  Normal #3"
+    },
+    {
+      "key": "M_PT_FF6_02_1_4",
+      "value": "Clear Trials of Reckoning Quest  Normal #4"
+    },
+    {
+      "key": "M_PT_FF6_02_1_5",
+      "value": "Clear Trials of Reckoning Quest  Normal #5"
+    },
+    {
+      "key": "M_PT_FF6_02_2_1",
+      "value": "Clear Trials of Reckoning Quest  Hard #1"
+    },
+    {
+      "key": "M_PT_FF6_02_2_2",
+      "value": "Clear Trials of Reckoning Quest  Hard #2"
+    },
+    {
+      "key": "M_PT_FF6_02_2_3",
+      "value": "Clear Trials of Reckoning Quest  Hard #3"
+    },
+    {
+      "key": "M_PT_FF6_02_2_4",
+      "value": "Clear Trials of Reckoning Quest  Hard #4"
+    },
+    {
+      "key": "M_PT_FF6_02_2_5",
+      "value": "Clear Trials of Reckoning Quest  Hard #5"
+    },
+    {
+      "key": "M_PT_FF6_02_3_1",
+      "value": "Clear any FFVI Collaboration Reissue  Trials of Reckoning II Quest (3/20)"
+    },
+    {
+      "key": "M_PT_FF6_02_3_2",
+      "value": "Clear any FFVI Collaboration Reissue  Trials of Reckoning II Quest (5/20)"
+    },
+    {
+      "key": "M_PT_FF6_02_3_3",
+      "value": "Clear any FFVI Collaboration Reissue  Trials of Reckoning II Quest (10/20)"
+    },
+    {
+      "key": "M_PT_FF6_02_3_4",
+      "value": "Clear any FFVI Collaboration Reissue  Trials of Reckoning II Quest (15/20)"
+    },
+    {
+      "key": "M_PT_FF6_02_3_5",
+      "value": "Clear any FFVI Collaboration Reissue  Trials of Reckoning II Quest (20/20)"
     },
     {
       "key": "M_WAVE_001_01",
@@ -53277,6 +54541,550 @@
       "value": "Enhance Guild Statues 70 times"
     },
     {
+      "key": "M_MONTHLY_5312",
+      "value": "Clear Story Quests 10 times"
+    },
+    {
+      "key": "M_MONTHLY_5313",
+      "value": "Clear Story Quests 20 times"
+    },
+    {
+      "key": "M_MONTHLY_5314",
+      "value": "Clear Story Quests 30 times"
+    },
+    {
+      "key": "M_MONTHLY_5315",
+      "value": "Clear Story Quests 40 times"
+    },
+    {
+      "key": "M_MONTHLY_5316",
+      "value": "Clear Story Quests 50 times"
+    },
+    {
+      "key": "M_MONTHLY_5317",
+      "value": "Clear Story Quests 60 times"
+    },
+    {
+      "key": "M_MONTHLY_5318",
+      "value": "Clear Story Quests 70 times"
+    },
+    {
+      "key": "M_MONTHLY_5319",
+      "value": "Clear Story Quests 80 times"
+    },
+    {
+      "key": "M_MONTHLY_5320",
+      "value": "Clear Story Quests 90 times"
+    },
+    {
+      "key": "M_MONTHLY_5321",
+      "value": "Clear Story Quests 100 times"
+    },
+    {
+      "key": "M_MONTHLY_5322",
+      "value": "Clear Story Quests 110 times"
+    },
+    {
+      "key": "M_MONTHLY_5323",
+      "value": "Clear Story Quests 120 times"
+    },
+    {
+      "key": "M_MONTHLY_5324",
+      "value": "Clear Story Quests 130 times"
+    },
+    {
+      "key": "M_MONTHLY_5325",
+      "value": "Clear Story Quests 140 times"
+    },
+    {
+      "key": "M_MONTHLY_5326",
+      "value": "Clear Story Quests 150 times"
+    },
+    {
+      "key": "M_MONTHLY_5327",
+      "value": "Clear Story Quests 160 times"
+    },
+    {
+      "key": "M_MONTHLY_5328",
+      "value": "Clear Story Quests 170 times"
+    },
+    {
+      "key": "M_MONTHLY_5329",
+      "value": "Clear Story Quests 180 times"
+    },
+    {
+      "key": "M_MONTHLY_5330",
+      "value": "Clear Story Quests 190 times"
+    },
+    {
+      "key": "M_MONTHLY_5331",
+      "value": "Clear Story Quests 200 times"
+    },
+    {
+      "key": "M_MONTHLY_5332",
+      "value": "Clear Hard Quests 5 times"
+    },
+    {
+      "key": "M_MONTHLY_5333",
+      "value": "Clear Hard Quests 10 times"
+    },
+    {
+      "key": "M_MONTHLY_5334",
+      "value": "Clear Hard Quests 15 times"
+    },
+    {
+      "key": "M_MONTHLY_5335",
+      "value": "Clear Hard Quests 20 times"
+    },
+    {
+      "key": "M_MONTHLY_5336",
+      "value": "Clear Hard Quests 25 times"
+    },
+    {
+      "key": "M_MONTHLY_5337",
+      "value": "Clear Hard Quests 30 times"
+    },
+    {
+      "key": "M_MONTHLY_5338",
+      "value": "Clear Hard Quests 35 times"
+    },
+    {
+      "key": "M_MONTHLY_5339",
+      "value": "Clear Hard Quests 40 times"
+    },
+    {
+      "key": "M_MONTHLY_5340",
+      "value": "Clear Hard Quests 45 times"
+    },
+    {
+      "key": "M_MONTHLY_5341",
+      "value": "Clear Hard Quests 50 times"
+    },
+    {
+      "key": "M_MONTHLY_5342",
+      "value": "Clear Hard Quests 55 times"
+    },
+    {
+      "key": "M_MONTHLY_5343",
+      "value": "Clear Hard Quests 60 times"
+    },
+    {
+      "key": "M_MONTHLY_5344",
+      "value": "Clear Hard Quests 65 times"
+    },
+    {
+      "key": "M_MONTHLY_5345",
+      "value": "Clear Hard Quests 70 times"
+    },
+    {
+      "key": "M_MONTHLY_5346",
+      "value": "Clear Hard Quests 75 times"
+    },
+    {
+      "key": "M_MONTHLY_5347",
+      "value": "Clear Hard Quests 85 times"
+    },
+    {
+      "key": "M_MONTHLY_5348",
+      "value": "Clear Hard Quests 95 times"
+    },
+    {
+      "key": "M_MONTHLY_5349",
+      "value": "Clear Hard Quests 105 times"
+    },
+    {
+      "key": "M_MONTHLY_5350",
+      "value": "Clear Hard Quests 120 times"
+    },
+    {
+      "key": "M_MONTHLY_5351",
+      "value": "Clear Multi Quests 5 times"
+    },
+    {
+      "key": "M_MONTHLY_5352",
+      "value": "Clear Multi Quests 10 times"
+    },
+    {
+      "key": "M_MONTHLY_5353",
+      "value": "Clear Multi Quests 15 times"
+    },
+    {
+      "key": "M_MONTHLY_5354",
+      "value": "Clear Multi Quests 20 times"
+    },
+    {
+      "key": "M_MONTHLY_5355",
+      "value": "Clear Multi Quests 25 times"
+    },
+    {
+      "key": "M_MONTHLY_5356",
+      "value": "Clear Multi Quests 30 times"
+    },
+    {
+      "key": "M_MONTHLY_5357",
+      "value": "Clear Multi Quests 35 times"
+    },
+    {
+      "key": "M_MONTHLY_5358",
+      "value": "Clear Multi Quests 40 times"
+    },
+    {
+      "key": "M_MONTHLY_5359",
+      "value": "Clear Multi Quests 45 times"
+    },
+    {
+      "key": "M_MONTHLY_5360",
+      "value": "Clear Multi Quests 50 times"
+    },
+    {
+      "key": "M_MONTHLY_5361",
+      "value": "Clear Multi Quests 55 times"
+    },
+    {
+      "key": "M_MONTHLY_5362",
+      "value": "Clear Multi Quests 60 times"
+    },
+    {
+      "key": "M_MONTHLY_5363",
+      "value": "Clear Multi Quests 65 times"
+    },
+    {
+      "key": "M_MONTHLY_5364",
+      "value": "Clear Multi Quests 70 times"
+    },
+    {
+      "key": "M_MONTHLY_5365",
+      "value": "Clear Multi Quests 75 times"
+    },
+    {
+      "key": "M_MONTHLY_5366",
+      "value": "Clear Multi Quests 80 times"
+    },
+    {
+      "key": "M_MONTHLY_5367",
+      "value": "Clear Multi Quests 85 times"
+    },
+    {
+      "key": "M_MONTHLY_5368",
+      "value": "Clear Multi Quests 90 times"
+    },
+    {
+      "key": "M_MONTHLY_5369",
+      "value": "Clear Multi Quests 95 times"
+    },
+    {
+      "key": "M_MONTHLY_5370",
+      "value": "Clear Multi Quests 100 times"
+    },
+    {
+      "key": "M_MONTHLY_5371",
+      "value": "Clear the Wayfarer's Chamber 3 times"
+    },
+    {
+      "key": "M_MONTHLY_5372",
+      "value": "Clear the Wayfarer's Chamber 6 times"
+    },
+    {
+      "key": "M_MONTHLY_5373",
+      "value": "Clear the Wayfarer's Chamber 9 times"
+    },
+    {
+      "key": "M_MONTHLY_5374",
+      "value": "Clear the Wayfarer's Chamber 12 times"
+    },
+    {
+      "key": "M_MONTHLY_5375",
+      "value": "Clear the Wayfarer's Chamber 15 times"
+    },
+    {
+      "key": "M_MONTHLY_5376",
+      "value": "Clear the Wayfarer's Chamber 18 times"
+    },
+    {
+      "key": "M_MONTHLY_5377",
+      "value": "Clear the Wayfarer's Chamber 21 times"
+    },
+    {
+      "key": "M_MONTHLY_5378",
+      "value": "Clear the Wayfarer's Chamber 24 times"
+    },
+    {
+      "key": "M_MONTHLY_5379",
+      "value": "Clear the Wayfarer's Chamber 27 times"
+    },
+    {
+      "key": "M_MONTHLY_5380",
+      "value": "Clear the Wayfarer's Chamber 30 times"
+    },
+    {
+      "key": "M_MONTHLY_5381",
+      "value": "Clear the Wayfarer's Chamber 33 times"
+    },
+    {
+      "key": "M_MONTHLY_5382",
+      "value": "Clear the Wayfarer's Chamber 36 times"
+    },
+    {
+      "key": "M_MONTHLY_5383",
+      "value": "Clear the Wayfarer's Chamber 39 times"
+    },
+    {
+      "key": "M_MONTHLY_5384",
+      "value": "Clear the Wayfarer's Chamber 42 times"
+    },
+    {
+      "key": "M_MONTHLY_5385",
+      "value": "Clear the Wayfarer's Chamber 45 times"
+    },
+    {
+      "key": "M_MONTHLY_5386",
+      "value": "Clear the Wayfarer's Chamber 50 times"
+    },
+    {
+      "key": "M_MONTHLY_5387",
+      "value": "Clear the Wayfarer's Chamber 55 times"
+    },
+    {
+      "key": "M_MONTHLY_5388",
+      "value": "Clear the Wayfarer's Chamber 60 times"
+    },
+    {
+      "key": "M_MONTHLY_5389",
+      "value": "Clear the Wayfarer's Chamber 65 times"
+    },
+    {
+      "key": "M_MONTHLY_5390",
+      "value": "Clear the Wayfarer's Chamber 70 times"
+    },
+    {
+      "key": "M_MONTHLY_5391",
+      "value": "Compete in the Duel Arena 5 times"
+    },
+    {
+      "key": "M_MONTHLY_5392",
+      "value": "Compete in the Duel Arena 10 times"
+    },
+    {
+      "key": "M_MONTHLY_5393",
+      "value": "Compete in the Duel Arena 15 times"
+    },
+    {
+      "key": "M_MONTHLY_5394",
+      "value": "Compete in the Duel Arena 20 times"
+    },
+    {
+      "key": "M_MONTHLY_5395",
+      "value": "Compete in the Duel Arena 25 times"
+    },
+    {
+      "key": "M_MONTHLY_5396",
+      "value": "Compete in the Duel Arena 30 times"
+    },
+    {
+      "key": "M_MONTHLY_5397",
+      "value": "Compete in the Duel Arena 35 times"
+    },
+    {
+      "key": "M_MONTHLY_5398",
+      "value": "Compete in the Duel Arena 40 times"
+    },
+    {
+      "key": "M_MONTHLY_5399",
+      "value": "Compete in the Duel Arena 45 times"
+    },
+    {
+      "key": "M_MONTHLY_5400",
+      "value": "Compete in the Duel Arena 50 times"
+    },
+    {
+      "key": "M_MONTHLY_5401",
+      "value": "Compete in the Duel Arena 55 times"
+    },
+    {
+      "key": "M_MONTHLY_5402",
+      "value": "Compete in the Duel Arena 60 times"
+    },
+    {
+      "key": "M_MONTHLY_5403",
+      "value": "Compete in the Duel Arena 65 times"
+    },
+    {
+      "key": "M_MONTHLY_5404",
+      "value": "Compete in the Duel Arena 70 times"
+    },
+    {
+      "key": "M_MONTHLY_5405",
+      "value": "Compete in the Duel Arena 80 times"
+    },
+    {
+      "key": "M_MONTHLY_5406",
+      "value": "Compete in the Duel Arena 90 times"
+    },
+    {
+      "key": "M_MONTHLY_5407",
+      "value": "Compete in the Duel Arena 100 times"
+    },
+    {
+      "key": "M_MONTHLY_5408",
+      "value": "Compete in the Duel Arena 110 times"
+    },
+    {
+      "key": "M_MONTHLY_5409",
+      "value": "Compete in the Duel Arena 120 times"
+    },
+    {
+      "key": "M_MONTHLY_5410",
+      "value": "Compete in the Duel Arena 130 times"
+    },
+    {
+      "key": "M_MONTHLY_5411",
+      "value": "Collect items found during Chocobo Expedition 10 times"
+    },
+    {
+      "key": "M_MONTHLY_5412",
+      "value": "Collect items found during Chocobo Expedition 15 times"
+    },
+    {
+      "key": "M_MONTHLY_5413",
+      "value": "Collect items found during Chocobo Expedition 20 times"
+    },
+    {
+      "key": "M_MONTHLY_5414",
+      "value": "Collect items found during Chocobo Expedition 25 times"
+    },
+    {
+      "key": "M_MONTHLY_5415",
+      "value": "Collect items found during Chocobo Expedition 30 times"
+    },
+    {
+      "key": "M_MONTHLY_5416",
+      "value": "Collect items found during Chocobo Expedition 35 times"
+    },
+    {
+      "key": "M_MONTHLY_5417",
+      "value": "Collect items found during Chocobo Expedition 40 times"
+    },
+    {
+      "key": "M_MONTHLY_5418",
+      "value": "Collect items found during Chocobo Expedition 45 times"
+    },
+    {
+      "key": "M_MONTHLY_5419",
+      "value": "Collect items found during Chocobo Expedition 50 times"
+    },
+    {
+      "key": "M_MONTHLY_5420",
+      "value": "Collect items found during Chocobo Expedition 55 times"
+    },
+    {
+      "key": "M_MONTHLY_5421",
+      "value": "Collect items found during Chocobo Expedition 60 times"
+    },
+    {
+      "key": "M_MONTHLY_5422",
+      "value": "Collect items found during Chocobo Expedition 65 times"
+    },
+    {
+      "key": "M_MONTHLY_5423",
+      "value": "Collect items found during Chocobo Expedition 70 times"
+    },
+    {
+      "key": "M_MONTHLY_5424",
+      "value": "Collect items found during Chocobo Expedition 75 times"
+    },
+    {
+      "key": "M_MONTHLY_5425",
+      "value": "Collect items found during Chocobo Expedition 80 times"
+    },
+    {
+      "key": "M_MONTHLY_5426",
+      "value": "Collect items found during Chocobo Expedition 85 times"
+    },
+    {
+      "key": "M_MONTHLY_5427",
+      "value": "Collect items found during Chocobo Expedition 90 times"
+    },
+    {
+      "key": "M_MONTHLY_5428",
+      "value": "Enhance Guild Statues 3 times"
+    },
+    {
+      "key": "M_MONTHLY_5429",
+      "value": "Enhance Guild Statues 6 times"
+    },
+    {
+      "key": "M_MONTHLY_5430",
+      "value": "Enhance Guild Statues 9 times"
+    },
+    {
+      "key": "M_MONTHLY_5431",
+      "value": "Enhance Guild Statues 12 times"
+    },
+    {
+      "key": "M_MONTHLY_5432",
+      "value": "Enhance Guild Statues 15 times"
+    },
+    {
+      "key": "M_MONTHLY_5433",
+      "value": "Enhance Guild Statues 18 times"
+    },
+    {
+      "key": "M_MONTHLY_5434",
+      "value": "Enhance Guild Statues 21 times"
+    },
+    {
+      "key": "M_MONTHLY_5435",
+      "value": "Enhance Guild Statues 24 times"
+    },
+    {
+      "key": "M_MONTHLY_5436",
+      "value": "Enhance Guild Statues 27 times"
+    },
+    {
+      "key": "M_MONTHLY_5437",
+      "value": "Enhance Guild Statues 30 times"
+    },
+    {
+      "key": "M_MONTHLY_5438",
+      "value": "Enhance Guild Statues 33 times"
+    },
+    {
+      "key": "M_MONTHLY_5439",
+      "value": "Enhance Guild Statues 36 times"
+    },
+    {
+      "key": "M_MONTHLY_5440",
+      "value": "Enhance Guild Statues 39 times"
+    },
+    {
+      "key": "M_MONTHLY_5441",
+      "value": "Enhance Guild Statues 42 times"
+    },
+    {
+      "key": "M_MONTHLY_5442",
+      "value": "Enhance Guild Statues 45 times"
+    },
+    {
+      "key": "M_MONTHLY_5443",
+      "value": "Enhance Guild Statues 50 times"
+    },
+    {
+      "key": "M_MONTHLY_5444",
+      "value": "Enhance Guild Statues 55 times"
+    },
+    {
+      "key": "M_MONTHLY_5445",
+      "value": "Enhance Guild Statues 60 times"
+    },
+    {
+      "key": "M_MONTHLY_5446",
+      "value": "Enhance Guild Statues 65 times"
+    },
+    {
+      "key": "M_MONTHLY_5447",
+      "value": "Enhance Guild Statues 70 times"
+    },
+    {
       "key": "M_LAPS_P_LUCA_01",
       "value": "Consume 500 Visiore"
     },
@@ -60565,6 +62373,222 @@
       "value": "Enhance Guild Statues 70 times"
     },
     {
+      "key": "M_ST_2303_0001",
+      "value": "Receive all Rewards up to Tier 5 Progression Rewards for Daily Missions"
+    },
+    {
+      "key": "M_ST_2303_0002",
+      "value": "Enhance an Equipment Item to Lv. 50 and maximize a stat"
+    },
+    {
+      "key": "M_ST_2303_0003",
+      "value": "Enhance an Equipment Item to Lv. 50 and maximize a stat 2 times"
+    },
+    {
+      "key": "M_ST_2303_0004",
+      "value": "Enhance an Equipment Item to Lv. 50 and maximize a stat 3 times"
+    },
+    {
+      "key": "M_ST_2303_0005",
+      "value": "Enhance an Equipment Item to Lv. 50 and maximize a stat 5 times"
+    },
+    {
+      "key": "M_ST_2303_0006",
+      "value": "Enhance an Equipment Item to Lv. 50 and maximize a stat 10 times"
+    },
+    {
+      "key": "M_ST_2303_0007",
+      "value": "Acquire 100 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2303_0008",
+      "value": "Acquire 250 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2303_0009",
+      "value": "Acquire 500 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2303_0010",
+      "value": "Acquire 750 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2303_0011",
+      "value": "Acquire 1,000 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2303_0012",
+      "value": "Acquire 1,500 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2303_0013",
+      "value": "Acquire 2,000 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2303_0021",
+      "value": "Craft 10 Equipment Items"
+    },
+    {
+      "key": "M_ST_2303_0022",
+      "value": "Craft 25 Equipment Items"
+    },
+    {
+      "key": "M_ST_2303_0023",
+      "value": "Craft 50 Equipment Items"
+    },
+    {
+      "key": "M_ST_2303_0024",
+      "value": "Craft 75 Equipment Items"
+    },
+    {
+      "key": "M_ST_2303_0025",
+      "value": "Craft 100 Equipment Items"
+    },
+    {
+      "key": "M_ST_2303_0026",
+      "value": "Craft 125 Equipment Items"
+    },
+    {
+      "key": "M_ST_2303_0027",
+      "value": "Clear Story Quests 10 times"
+    },
+    {
+      "key": "M_ST_2303_0028",
+      "value": "Clear Story Quests 50 times"
+    },
+    {
+      "key": "M_ST_2303_0029",
+      "value": "Clear Story Quests 100 times"
+    },
+    {
+      "key": "M_ST_2303_0030",
+      "value": "Clear Story Quests 150 times"
+    },
+    {
+      "key": "M_ST_2303_0031",
+      "value": "Clear Story Quests 200 times"
+    },
+    {
+      "key": "M_ST_2303_0032",
+      "value": "Clear Hard Quests 5 times"
+    },
+    {
+      "key": "M_ST_2303_0033",
+      "value": "Clear Hard Quests 25 times"
+    },
+    {
+      "key": "M_ST_2303_0034",
+      "value": "Clear Hard Quests 50 times"
+    },
+    {
+      "key": "M_ST_2303_0035",
+      "value": "Clear Hard Quests 75 times"
+    },
+    {
+      "key": "M_ST_2303_0036",
+      "value": "Clear Hard Quests 120 times"
+    },
+    {
+      "key": "M_ST_2303_0037",
+      "value": "Clear Multi Quests 5 times"
+    },
+    {
+      "key": "M_ST_2303_0038",
+      "value": "Clear Multi Quests 25 times"
+    },
+    {
+      "key": "M_ST_2303_0039",
+      "value": "Clear Multi Quests 50 times"
+    },
+    {
+      "key": "M_ST_2303_0040",
+      "value": "Clear Multi Quests 75 times"
+    },
+    {
+      "key": "M_ST_2303_0041",
+      "value": "Clear Multi Quests 100 times"
+    },
+    {
+      "key": "M_ST_2303_0042",
+      "value": "Clear the Wayfarer's Chamber 3 times"
+    },
+    {
+      "key": "M_ST_2303_0043",
+      "value": "Clear the Wayfarer's Chamber 15 times"
+    },
+    {
+      "key": "M_ST_2303_0044",
+      "value": "Clear the Wayfarer's Chamber 30 times"
+    },
+    {
+      "key": "M_ST_2303_0045",
+      "value": "Clear the Wayfarer's Chamber 50 times"
+    },
+    {
+      "key": "M_ST_2303_0046",
+      "value": "Clear the Wayfarer's Chamber 70 times"
+    },
+    {
+      "key": "M_ST_2303_0047",
+      "value": "Compete in the Duel Arena 5 times"
+    },
+    {
+      "key": "M_ST_2303_0048",
+      "value": "Compete in the Duel Arena 25 times"
+    },
+    {
+      "key": "M_ST_2303_0049",
+      "value": "Compete in the Duel Arena 50 times"
+    },
+    {
+      "key": "M_ST_2303_0050",
+      "value": "Compete in the Duel Arena 100 times"
+    },
+    {
+      "key": "M_ST_2303_0051",
+      "value": "Compete in the Duel Arena 130 times"
+    },
+    {
+      "key": "M_ST_2303_0052",
+      "value": "Collect items found during Chocobo Expedition 10 times"
+    },
+    {
+      "key": "M_ST_2303_0053",
+      "value": "Collect items found during Chocobo Expedition 25 times"
+    },
+    {
+      "key": "M_ST_2303_0054",
+      "value": "Collect items found during Chocobo Expedition 50 times"
+    },
+    {
+      "key": "M_ST_2303_0055",
+      "value": "Collect items found during Chocobo Expedition 75 times"
+    },
+    {
+      "key": "M_ST_2303_0056",
+      "value": "Collect items found during Chocobo Expedition 90 times"
+    },
+    {
+      "key": "M_ST_2303_0057",
+      "value": "Enhance Guild Statues 3 times"
+    },
+    {
+      "key": "M_ST_2303_0058",
+      "value": "Enhance Guild Statues 15 times"
+    },
+    {
+      "key": "M_ST_2303_0059",
+      "value": "Enhance Guild Statues 30 times"
+    },
+    {
+      "key": "M_ST_2303_0060",
+      "value": "Enhance Guild Statues 50 times"
+    },
+    {
+      "key": "M_ST_2303_0061",
+      "value": "Enhance Guild Statues 70 times"
+    },
+    {
       "key": "M_AF_MAT_6",
       "value": "Clear Story Part 1, Chapter 1, Scene 2 [All the Happiness in the World]"
     },
@@ -61131,6 +63155,30 @@
     {
       "key": "M_AWD_P_FF06_6",
       "value": "Title given to the players that ranked within the top 100 in the Individual High Score Ranking of the FFVI Collaboration  Trials of Reckoning"
+    },
+    {
+      "key": "M_AWD_P_FF06_7",
+      "value": "Title given to the player that ranked 1st in the Individual Total Score Ranking of the FFVI Collaboration Reissue  Trials of Reckoning II"
+    },
+    {
+      "key": "M_AWD_P_FF06_8",
+      "value": "Title given to the players that ranked within the top 10 in the Individual Total Score Ranking of the FFVI Collaboration Reissue  Trials of Reckoning II"
+    },
+    {
+      "key": "M_AWD_P_FF06_9",
+      "value": "Title given to the players that ranked within the top 100 in the Individual Total Score Ranking of the FFVI Collaboration Reissue  Trials of Reckoning II"
+    },
+    {
+      "key": "M_AWD_P_FF06_10",
+      "value": "Title given to the player that ranked 1st in the Individual High Score Ranking of the FFVI Collaboration Reissue  Trials of Reckoning II"
+    },
+    {
+      "key": "M_AWD_P_FF06_11",
+      "value": "Title given to the players that ranked within the top 10 in the Individual High Score Ranking of the FFVI Collaboration Reissue  Trials of Reckoning II"
+    },
+    {
+      "key": "M_AWD_P_FF06_12",
+      "value": "Title given to the players that ranked within the top 100 in the Individual High Score Ranking of the FFVI Collaboration Reissue  Trials of Reckoning II"
     },
     {
       "key": "M_AWD_P_P5R_1",
@@ -64477,6 +66525,22 @@
       "value": "Title given to players who have taken Viga on 10,000 Quests"
     },
     {
+      "key": "M_LW_PA_CH_197_1",
+      "value": "Title given to players who have taken Miranda (Sweetheart) on 100 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_197_2",
+      "value": "Title given to players who have taken Miranda (Sweetheart) on 500 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_197_3",
+      "value": "Title given to players who have taken Miranda (Sweetheart) on 3,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_197_4",
+      "value": "Title given to players who have taken Miranda (Sweetheart) on 10,000 Quests"
+    },
+    {
       "key": "M_LW_PA_CH_198_1",
       "value": "Title given to players who have taken Kefka on 100 Quests"
     },
@@ -64493,6 +66557,54 @@
       "value": "Title given to players who have taken Kefka on 10,000 Quests"
     },
     {
+      "key": "M_LW_PA_CH_199_1",
+      "value": "Title given to players who have taken Dialdo on 100 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_199_2",
+      "value": "Title given to players who have taken Dialdo on 500 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_199_3",
+      "value": "Title given to players who have taken Dialdo on 3,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_199_4",
+      "value": "Title given to players who have taken Dialdo on 10,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_200_1",
+      "value": "Title given to players who have taken Howlet the Heavensblade on 100 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_200_2",
+      "value": "Title given to players who have taken Howlet the Heavensblade on 500 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_200_3",
+      "value": "Title given to players who have taken Howlet the Heavensblade on 3,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_200_4",
+      "value": "Title given to players who have taken Howlet the Heavensblade on 10,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_201_1",
+      "value": "Title given to players who have taken Deah on 100 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_201_2",
+      "value": "Title given to players who have taken Deah on 500 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_201_3",
+      "value": "Title given to players who have taken Deah on 3,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_201_4",
+      "value": "Title given to players who have taken Deah on 10,000 Quests"
+    },
+    {
       "key": "M_LW_PA_CH_203_1",
       "value": "Title given to players who have taken Hyoh on 100 Quests"
     },
@@ -64507,6 +66619,70 @@
     {
       "key": "M_LW_PA_CH_203_4",
       "value": "Title given to players who have taken Hyoh on 10,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_204_1",
+      "value": "Title given to players who have taken Galzahk on 100 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_204_2",
+      "value": "Title given to players who have taken Galzahk on 500 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_204_3",
+      "value": "Title given to players who have taken Galzahk on 3,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_204_4",
+      "value": "Title given to players who have taken Galzahk on 10,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_205_1",
+      "value": "Title given to players who have taken Bartz on 100 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_205_2",
+      "value": "Title given to players who have taken Bartz on 500 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_205_3",
+      "value": "Title given to players who have taken Bartz on 3,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_205_4",
+      "value": "Title given to players who have taken Bartz on 10,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_206_1",
+      "value": "Title given to players who have taken Lenna on 100 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_206_2",
+      "value": "Title given to players who have taken Lenna on 500 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_206_3",
+      "value": "Title given to players who have taken Lenna on 3,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_206_4",
+      "value": "Title given to players who have taken Lenna on 10,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_999_1",
+      "value": "Title given to players who have taken Addison Rae on 100 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_999_2",
+      "value": "Title given to players who have taken Addison Rae on 500 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_999_3",
+      "value": "Title given to players who have taken Addison Rae on 3,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_999_4",
+      "value": "Title given to players who have taken Addison Rae on 10,000 Quests"
     },
     {
       "key": "M_WW_PA_CH_001_1",
@@ -64695,6 +66871,14 @@
     {
       "key": "M_GL_DAILY_VID",
       "value": "Perform a Video Summon"
+    },
+    {
+      "key": "M_GL_DAILY_FF14",
+      "value": "Clear any FFXIV Event Quest"
+    },
+    {
+      "key": "M_GL_DAILY_GUILD",
+      "value": "Enhance a Guild Statue once"
     }
   ]
 }

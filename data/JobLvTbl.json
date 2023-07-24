@@ -10009,6 +10009,17 @@
       }
     },
     {
+      "iname": "JBLV_LW_GLZK_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_GLZK_M",
+        "m3": "JM_EX_STAFF_M",
+        "m4": "JM_EXEM_SOIL_M",
+        "m5": "JM_EX_STAFF_AN_M"
+      }
+    },
+    {
       "iname": "JBLV_FMAM_EDWD_M",
       "gil": "JBMAT_JB_GIL_M",
       "items": {
@@ -10174,6 +10185,293 @@
         "m3": "JM_EX_AXE_M",
         "m4": "JM_EXEM_THUNDER_M",
         "m5": "JM_EX_AXE_DR_M"
+      }
+    },
+    {
+      "iname": "JBLV_ADSN_ADSN_M",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_SHINE",
+        "m4": "JBMAT_JB_GLOVE"
+      }
+    },
+    {
+      "iname": "JBLV_ADSN_ADSN_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_ADSN_M",
+        "m3": "JM_EX_GLOVE_M",
+        "m4": "JM_EXEM_SHINE_M",
+        "m5": "JM_EX_GLOVE_AN_M"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_M_FIRE",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_FIRE",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_S_FIRE",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_FIRE",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_M_ICE",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_ICE",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_S_ICE",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_ICE",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_M_WIND",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_WIND",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_S_WIND",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_WIND",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_M_SOIL",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_SOIL",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_S_SOIL",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_SOIL",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_M_THUN",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_THUNDER",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_S_THUN",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_THUNDER",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_M_WATER",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_WATER",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_S_WATER",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_WATER",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_M_SHINE",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_SHINE",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_S_SHINE",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_SHINE",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_M_DARK",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_DARK",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SSA_S_DARK",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_DARK",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MRND_01_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_MRND_01_M",
+        "m3": "JM_EX_JSWORD_M",
+        "m4": "JM_EXEM_SHINE_M",
+        "m5": "JM_EX_JSWORD_AN_M"
+      }
+    },
+    {
+      "iname": "JBLV_LW_HWLT_M",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_ICE",
+        "m4": "JBMAT_JB_SWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_HWLT_01_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_HWLT_01_M",
+        "m3": "JM_EX_SWORD_M",
+        "m4": "JM_EXEM_ICE_M",
+        "m5": "JM_EX_SWORD_AN_M"
+      }
+    },
+    {
+      "iname": "JBLV_LW_DIAA_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_DIAA_M",
+        "m3": "JM_EX_JSWORD_M",
+        "m4": "JM_EXEM_WATER_M",
+        "m5": "JM_EX_JSWORD_AN_M"
+      }
+    },
+    {
+      "iname": "JBLV_LW_DARD_M",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_SOIL",
+        "m4": "JBMAT_JB_SPEAR"
+      }
+    },
+    {
+      "iname": "JBLV_LW_DARD_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_DARD_M",
+        "m3": "JM_EX_SPEAR_M",
+        "m4": "JM_EXEM_SOIL_M",
+        "m5": "JM_EX_SPEAR_AN_M"
+      }
+    },
+    {
+      "iname": "JBLV_FF5_BATZ_M",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_SHINE",
+        "m4": "JBMAT_JB_SWORD"
+      }
+    },
+    {
+      "iname": "JBLV_FF5_BATZ_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_FF5UR_M",
+        "m3": "JM_EX_SWORD_M",
+        "m4": "JM_EXEM_SHINE_M",
+        "m5": "JM_EX_SWORD_AN_M"
+      }
+    },
+    {
+      "iname": "JBLV_FF5_LENA_M",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_WIND",
+        "m4": "JBMAT_JB_STAFF"
+      }
+    },
+    {
+      "iname": "JBLV_FF5_LENA_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_FF5UR_M",
+        "m3": "JM_EX_STAFF_M",
+        "m4": "JM_EXEM_WIND_M",
+        "m5": "JM_EX_STAFF_AN_M"
       }
     }
   ]

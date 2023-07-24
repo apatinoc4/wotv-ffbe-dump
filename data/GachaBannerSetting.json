@@ -1704,6 +1704,96 @@
       "id": 341,
       "banner_id": "GachaBanner_Global_1357",
       "gname": "1only_10units-gacha_gl20230607_10"
+    },
+    {
+      "id": 342,
+      "banner_id": "GachaBanner_Global_1362",
+      "gname": "1only_gacha_MCOR_gl20230614_05"
+    },
+    {
+      "id": 343,
+      "banner_id": "GachaBanner_Global_1363",
+      "gname": "1only_10vc-gacha_gl20230614_10"
+    },
+    {
+      "id": 345,
+      "banner_id": "GachaBanner_Global_1368",
+      "gname": "3only_5step_gacha_MRND_01_gl20230621_a_10"
+    },
+    {
+      "id": 346,
+      "banner_id": "GachaBanner_Global_1371",
+      "gname": "1only_gacha_MRND_01_gl20230621_b_05"
+    },
+    {
+      "id": 347,
+      "banner_id": "GachaBanner_Global_1376",
+      "gname": "3only_5step_gacha_HWLT_01_gl20230628_10"
+    },
+    {
+      "id": 348,
+      "banner_id": "GachaBanner_Global_1377",
+      "gname": "1only_gacha_HWLT_01_gl20230628_05"
+    },
+    {
+      "id": 349,
+      "banner_id": "GachaBanner_Global_1380",
+      "gname": "1only_gacha_HWLT_gl20230628_05"
+    },
+    {
+      "id": 350,
+      "banner_id": "GachaBanner_Global_1383",
+      "gname": "1only_gacha_unit_gl20230628_10"
+    },
+    {
+      "id": 351,
+      "banner_id": "GachaBanner_Global_1834",
+      "gname": "1only_gacha_vc_gl20230628_10"
+    },
+    {
+      "id": 352,
+      "banner_id": "GachaBanner_Global_1389",
+      "gname": "3only_5step_gacha_DARD_gl20230705_10"
+    },
+    {
+      "id": 353,
+      "banner_id": "GachaBanner_Global_1390",
+      "gname": "1only_gacha_DARD_gl20230705_05"
+    },
+    {
+      "id": 354,
+      "banner_id": "GachaBanner_Global_1393",
+      "gname": "1only_gacha_GLEM_01_gl20230712_05"
+    },
+    {
+      "id": 355,
+      "banner_id": "GachaBanner_FF5_0006",
+      "gname": "3only_5step_p_gacha_FF5_BATZ_gl20230719_10"
+    },
+    {
+      "id": 356,
+      "banner_id": "GachaBanner_FF5_0007",
+      "gname": "3only_5step_p_gacha_FF5_LENA_gl20230719_10"
+    },
+    {
+      "id": 357,
+      "banner_id": "GachaBanner_FF5_0008",
+      "gname": "1only_p_gacha_FF5_BATZ_gl20230719_05"
+    },
+    {
+      "id": 358,
+      "banner_id": "GachaBanner_FF5_0009",
+      "gname": "1only_p_gacha_FF5_LENA_gl20230719_05"
+    },
+    {
+      "id": 359,
+      "banner_id": "GachaBanner_FF5_0010",
+      "gname": "2only_80unit_p_gacha_FF5_gl20230719_10"
+    },
+    {
+      "id": 360,
+      "banner_id": "GachaBanner_FF5_0014",
+      "gname": "1only_p_gacha_FF5_MV1_gl20230719_05"
     }
   ]
 }

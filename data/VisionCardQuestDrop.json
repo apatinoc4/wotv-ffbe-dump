@@ -859,6 +859,30 @@
       ]
     },
     {
+      "iname": "IT_VPI_LW_MCOR",
+      "questlist": [
+        "QE_VC_LW_MCOR"
+      ]
+    },
+    {
+      "iname": "IT_VPI_LW_MRND_01",
+      "questlist": [
+        "QE_VC_GL_LW_MRND_01"
+      ]
+    },
+    {
+      "iname": "IT_VPI_LW_HWLT",
+      "questlist": [
+        "QE_VC_LW_HWLT"
+      ]
+    },
+    {
+      "iname": "IT_VPI_LW_GLEM_01",
+      "questlist": [
+        "QE_VC_LW_GLEM_01"
+      ]
+    },
+    {
       "iname": "IT_VC_EXP_01",
       "questlist": [
         "QE_EV_VCEXP_01",
@@ -930,6 +954,22 @@
         "QE_VC_GL_LW_NEWYEAR",
         "QE_VC_GL_LW_WHITEDAY1",
         "QE_VC_GL_LW_VALE2",
+        "QE_VC_LW_LSWL",
+        "QE_VC_LW_LUCA2",
+        "QE_VC_LW_EFKS",
+        "QE_VC_LW_CHEL",
+        "QE_VC_LW_MINU",
+        "QE_VC_LW_LATH",
+        "QE_VC_LW_LYCS",
+        "QE_VC_LW_IFRT01",
+        "QE_VC_LW_HYOO",
+        "QE_VC_LW_GNBC",
+        "QE_VC_LW_BAHM_01",
+        "QE_VC_LW_REGN",
+        "QE_VC_LW_MCOR",
+        "QE_VC_GL_LW_MRND_01",
+        "QE_VC_LW_HWLT",
+        "QE_VC_LW_GLEM_01",
         "QE_VC_LW_IGNT",
         "QE_VC_LW_BHMT",
         "QE_VC_LW_MABR",
@@ -979,19 +1019,7 @@
         "QE_VC_LW_HOURN2",
         "QE_VC_LW_FENICE2",
         "QE_VC_LW_WEZETT2",
-        "QE_VC_LW_DYNVERK",
-        "QE_VC_LW_LSWL",
-        "QE_VC_LW_LUCA2",
-        "QE_VC_LW_EFKS",
-        "QE_VC_LW_CHEL",
-        "QE_VC_LW_MINU",
-        "QE_VC_LW_LATH",
-        "QE_VC_LW_LYCS",
-        "QE_VC_LW_IFRT01",
-        "QE_VC_LW_HYOO",
-        "QE_VC_LW_GNBC",
-        "QE_VC_LW_BAHM_01",
-        "QE_VC_LW_REGN"
+        "QE_VC_LW_DYNVERK"
       ]
     },
     {
@@ -1109,6 +1137,22 @@
         "QE_VC_GL_LW_NEWYEAR",
         "QE_VC_GL_LW_WHITEDAY1",
         "QE_VC_GL_LW_VALE2",
+        "QE_VC_LW_LSWL",
+        "QE_VC_LW_LUCA2",
+        "QE_VC_LW_EFKS",
+        "QE_VC_LW_CHEL",
+        "QE_VC_LW_MINU",
+        "QE_VC_LW_LATH",
+        "QE_VC_LW_LYCS",
+        "QE_VC_LW_IFRT01",
+        "QE_VC_LW_HYOO",
+        "QE_VC_LW_GNBC",
+        "QE_VC_LW_BAHM_01",
+        "QE_VC_LW_REGN",
+        "QE_VC_LW_MCOR",
+        "QE_VC_GL_LW_MRND_01",
+        "QE_VC_LW_HWLT",
+        "QE_VC_LW_GLEM_01",
         "QE_VC_LW_IGNT",
         "QE_VC_LW_BHMT",
         "QE_VC_LW_MABR",
@@ -1158,19 +1202,7 @@
         "QE_VC_LW_HOURN2",
         "QE_VC_LW_FENICE2",
         "QE_VC_LW_WEZETT2",
-        "QE_VC_LW_DYNVERK",
-        "QE_VC_LW_LSWL",
-        "QE_VC_LW_LUCA2",
-        "QE_VC_LW_EFKS",
-        "QE_VC_LW_CHEL",
-        "QE_VC_LW_MINU",
-        "QE_VC_LW_LATH",
-        "QE_VC_LW_LYCS",
-        "QE_VC_LW_IFRT01",
-        "QE_VC_LW_HYOO",
-        "QE_VC_LW_GNBC",
-        "QE_VC_LW_BAHM_01",
-        "QE_VC_LW_REGN"
+        "QE_VC_LW_DYNVERK"
       ]
     },
     {
@@ -1286,6 +1318,22 @@
         "QE_VC_GL_LW_NEWYEAR",
         "QE_VC_GL_LW_WHITEDAY1",
         "QE_VC_GL_LW_VALE2",
+        "QE_VC_LW_LSWL",
+        "QE_VC_LW_LUCA2",
+        "QE_VC_LW_EFKS",
+        "QE_VC_LW_CHEL",
+        "QE_VC_LW_MINU",
+        "QE_VC_LW_LATH",
+        "QE_VC_LW_LYCS",
+        "QE_VC_LW_IFRT01",
+        "QE_VC_LW_HYOO",
+        "QE_VC_LW_GNBC",
+        "QE_VC_LW_BAHM_01",
+        "QE_VC_LW_REGN",
+        "QE_VC_LW_MCOR",
+        "QE_VC_GL_LW_MRND_01",
+        "QE_VC_LW_HWLT",
+        "QE_VC_LW_GLEM_01",
         "QE_VC_LW_IGNT",
         "QE_VC_LW_BHMT",
         "QE_VC_LW_MABR",
@@ -1335,19 +1383,7 @@
         "QE_VC_LW_HOURN2",
         "QE_VC_LW_FENICE2",
         "QE_VC_LW_WEZETT2",
-        "QE_VC_LW_DYNVERK",
-        "QE_VC_LW_LSWL",
-        "QE_VC_LW_LUCA2",
-        "QE_VC_LW_EFKS",
-        "QE_VC_LW_CHEL",
-        "QE_VC_LW_MINU",
-        "QE_VC_LW_LATH",
-        "QE_VC_LW_LYCS",
-        "QE_VC_LW_IFRT01",
-        "QE_VC_LW_HYOO",
-        "QE_VC_LW_GNBC",
-        "QE_VC_LW_BAHM_01",
-        "QE_VC_LW_REGN"
+        "QE_VC_LW_DYNVERK"
       ]
     },
     {
@@ -1425,6 +1461,22 @@
         "QE_VC_GL_LW_NEWYEAR",
         "QE_VC_GL_LW_WHITEDAY1",
         "QE_VC_GL_LW_VALE2",
+        "QE_VC_LW_LSWL",
+        "QE_VC_LW_LUCA2",
+        "QE_VC_LW_EFKS",
+        "QE_VC_LW_CHEL",
+        "QE_VC_LW_MINU",
+        "QE_VC_LW_LATH",
+        "QE_VC_LW_LYCS",
+        "QE_VC_LW_IFRT01",
+        "QE_VC_LW_HYOO",
+        "QE_VC_LW_GNBC",
+        "QE_VC_LW_BAHM_01",
+        "QE_VC_LW_REGN",
+        "QE_VC_LW_MCOR",
+        "QE_VC_GL_LW_MRND_01",
+        "QE_VC_LW_HWLT",
+        "QE_VC_LW_GLEM_01",
         "QE_VC_LW_IGNT",
         "QE_VC_LW_BHMT",
         "QE_VC_LW_MABR",
@@ -1474,19 +1526,7 @@
         "QE_VC_LW_HOURN2",
         "QE_VC_LW_FENICE2",
         "QE_VC_LW_WEZETT2",
-        "QE_VC_LW_DYNVERK",
-        "QE_VC_LW_LSWL",
-        "QE_VC_LW_LUCA2",
-        "QE_VC_LW_EFKS",
-        "QE_VC_LW_CHEL",
-        "QE_VC_LW_MINU",
-        "QE_VC_LW_LATH",
-        "QE_VC_LW_LYCS",
-        "QE_VC_LW_IFRT01",
-        "QE_VC_LW_HYOO",
-        "QE_VC_LW_GNBC",
-        "QE_VC_LW_BAHM_01",
-        "QE_VC_LW_REGN"
+        "QE_VC_LW_DYNVERK"
       ]
     }
   ]

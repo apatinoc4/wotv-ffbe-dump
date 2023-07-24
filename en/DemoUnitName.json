@@ -690,7 +690,7 @@
     },
     {
       "key": "DU_LW_WOLF",
-      "value": "Wolf"
+      "value": "Wolf, Monster"
     },
     {
       "key": "DU_LW_OGRE",
@@ -762,7 +762,7 @@
     },
     {
       "key": "DU_LW_SNAK",
-      "value": "Arcane Serpent"
+      "value": "Arcane Serpent, Serpent, Pack of Serpents"
     },
     {
       "key": "DU_LW_LSNK",
@@ -842,7 +842,7 @@
     },
     {
       "key": "DU_LW_OCHU",
-      "value": "Ochu"
+      "value": "Ochu, Monster"
     },
     {
       "key": "DU_LW_WM_00",
@@ -862,7 +862,7 @@
     },
     {
       "key": "DU_LW_BHMT_01",
-      "value": "Behemoth King, Monster"
+      "value": "Behemoth King, Monster, Monster Chief"
     },
     {
       "key": "DU_LW_ELEM",
@@ -954,7 +954,7 @@
     },
     {
       "key": "DU_LW_DARD",
-      "value": "Dialdo"
+      "value": "Dialdo, Man's Voice"
     },
     {
       "key": "DU_LW_RUFF",
@@ -970,11 +970,11 @@
     },
     {
       "key": "DU_LW_BIGA",
-      "value": "Viga"
+      "value": "Viga, Boy's Voice"
     },
     {
       "key": "DU_LW_RESL",
-      "value": "Rysol"
+      "value": "Rysol, Woman's Voice"
     },
     {
       "key": "DU_LW_PBMF",
@@ -1014,11 +1014,23 @@
     },
     {
       "key": "DU_LW_MOGD",
-      "value": "Moogle"
+      "value": "Moogle, Pained Voice, Moogles"
     },
     {
       "key": "DU_LW_ELEM_07",
       "value": "Dark Elemental, Monster"
+    },
+    {
+      "key": "DU_ADSN_ADSN",
+      "value": "Addison Rae, Addison"
+    },
+    {
+      "key": "DU_LW_DARE",
+      "value": "Dialdo (Final Form), Dialdo"
+    },
+    {
+      "key": "DU_LW_CHRZ",
+      "value": "Shalze"
     }
   ]
 }

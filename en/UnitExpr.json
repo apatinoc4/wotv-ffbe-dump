@@ -805,6 +805,10 @@
       "value": "A member of the Orders, a group of elite warriors directly under the command of the Emperor of Aldore. A swordsman of remarkable ability, he surpasses all of the other Ordersyet his identity is a total mystery. Not a soul knows of the firm resolution or tragic sentiments that lie hidden beneath the black beast's mask."
     },
     {
+      "key": "UN_LW_P_GLZK",
+      "value": "The man who directs the Arms Dealers of Ardra. He now stands opposed to the Sanctum after rejecting Sadali's demand for his subservience. Always seeking impartiality, Galzahk believes he and his people are what ensures the balance between the great houses."
+    },
+    {
       "key": "UN_FMAM_P_EDWD",
       "value": "An alchemist with a metal right arm and left leg. Long ago, these parts of his body were taken as the price for the taboo he committed with his younger brother. While searching for a way to recover his lost limbs along with his brother's entire body, he realizes that a great evil lurks deep within the state and challenges it to battle."
     },
@@ -835,6 +839,34 @@
     {
       "key": "UN_LW_P_BIGA",
       "value": "One of the Servants of the Void. A warrior in the grip of crushing sorrow, cursed by fate to resent and envy all things. He despises himself for what he is, but is powerless to change it. So instead, he throws himself into violence and bloodshed in a desperate bid to escape his endless suffering."
+    },
+    {
+      "key": "UN_ADSN_P_ADSN",
+      "value": "The vision of a performer from a distant world, armed with a beautiful voice and dance moves that charm all who behold her. When Queen Machrie of Hourne's camp is attacked by monsters, she rushes to Camillo's aid and ends up joining him on a journey to rescue Machrie."
+    },
+    {
+      "key": "UN_LW_P_MRND_01",
+      "value": "Sword training never ends, does it? It's a special day today, so thought I'd try my hand at making some chocolate. Oh, but be warnedI'm not a great cook. Anyway, I really hope you like them... Wait, what? You like them? That makes me really happy. I'll make even better ones next year, too, just for you."
+    },
+    {
+      "key": "UN_LW_P_HWLT_01",
+      "value": "The eldest son of the Groms family. Handsome as he is masterful with a blade, his love for every single woman in the world knows no bounds. After being disowned by his father, who was also his sword master, he began traveling the lands with his younger brother and sisterTyytas and Chel. These circumstances, however, also served as a pretense that allowed him to carry out a certain secret task."
+    },
+    {
+      "key": "UN_LW_P_DIAA",
+      "value": "A warrior of Ovis who served as a personal guard to Princess Lucielle. Following the sudden declaration of war from Rundall, Ovis dispatched a small unit of troops to seek reinforcements from Hourne, only for them to go missing. Convinced that she must handle the task herself, Deah sets off on her journey to Hourne without the princess's blessing."
+    },
+    {
+      "key": "UN_LW_P_DARD",
+      "value": "The leader of the Servants of the Void. His aim is to use the Power of the Void to eradicate all life on Ardra and that of other worlds. He has set his sights on Ardra as a medium to amplify the Void and expedite the destruction of worlds."
+    },
+    {
+      "key": "UN_FF5_P_BATZ",
+      "value": "A young man who appears in the Crystal Tales of a faraway world. Following his father's wish, he set out to travel the world astride his trusted chocobo, Boko. On his journey he arrived at the site of a meteorite strike, where he met Lenna, a princess of Tycoon, and Galuf, an old man beset with amnesia, and set off with them on an adventure to protect the crystals."
+    },
+    {
+      "key": "UN_FF5_P_LENA",
+      "value": "A princess of the realm of Tycoon, who appears in the Crystal Tales of a faraway world. She was traveling to the Wind Shrine in pursuit of her father when she encountered Bartz and Galuf, and together they set off on a quest to protect the world's crystals. She has a gentle and steadfast heart, and cares deeply for all animals."
     },
     {
       "key": "UN_LW_EMPTI",
@@ -886,6 +918,10 @@
     },
     {
       "key": "UN_LW_E_MACR_02",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_MACR_02_R",
       "value": ""
     },
     {
@@ -1369,6 +1405,22 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_LUCA_01",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_STRN_02",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_MRND_01",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_ABOT_99",
+      "value": ""
+    },
+    {
       "key": "UN_FF01_E_WRMC",
       "value": ""
     },
@@ -1394,6 +1446,22 @@
     },
     {
       "key": "UN_FMAM_E_ENVY_RAID",
+      "value": ""
+    },
+    {
+      "key": "UN_FF5_E_GLMS",
+      "value": ""
+    },
+    {
+      "key": "UN_FF5_E_GLMS_NO",
+      "value": ""
+    },
+    {
+      "key": "UN_FF5_E_GLMS_HA",
+      "value": ""
+    },
+    {
+      "key": "UN_FF5_E_ICRW",
       "value": ""
     },
     {
@@ -1518,6 +1586,10 @@
     },
     {
       "key": "UN_LW_E_RU_01_TIM_01",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_RU_01_MHA",
       "value": ""
     },
     {
@@ -1809,6 +1881,10 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_TH_00_MHA_G",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_TH_00_HUN_Y",
       "value": ""
     },
@@ -1977,6 +2053,10 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_SO_00_LIB",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_SO_02",
       "value": ""
     },
@@ -2122,6 +2202,10 @@
     },
     {
       "key": "UN_LW_E_SO_01_ARC",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SO_01_HSW",
       "value": ""
     },
     {
@@ -2717,6 +2801,62 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_HY_06_MMC",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_HY_06_ASS",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_HY_06_MSW",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_HY_06_SCR",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_HY_06_LIB",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_HY_06_MSM",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_HY_06_DAC",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_HY_06_LLN",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_HY_06_RAB",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_HY_06_MHA",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_HY_06_AXD",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_HY_06_BFI",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_HY_06_HSW",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_HY_06_BNI",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_HY_07_BEA",
       "value": ""
     },
@@ -3101,6 +3241,10 @@
       "value": "Assign Stats Equivalent to N Thief"
     },
     {
+      "key": "UN_LW_E_WOLF_GLR",
+      "value": "Assign Stats Equivalent to N Thief"
+    },
+    {
       "key": "UN_LW_E_WOLF_01",
       "value": "Assign Stats Equivalent to R Thief"
     },
@@ -3114,6 +3258,10 @@
     },
     {
       "key": "UN_LW_E_WOLF_02_RV",
+      "value": "Assign Stats Equivalent to SR Thief"
+    },
+    {
+      "key": "UN_LW_E_WOLF_02_GLR",
       "value": "Assign Stats Equivalent to SR Thief"
     },
     {
@@ -3373,6 +3521,10 @@
       "value": "Assign Stats Equivalent to SR Paladin"
     },
     {
+      "key": "UN_LW_E_BHMT_R",
+      "value": "Assign Stats Equivalent to SR Paladin"
+    },
+    {
       "key": "UN_LW_E_BHMT_01",
       "value": "Assign Stats Equivalent to MR Paladin"
     },
@@ -3446,6 +3598,14 @@
     },
     {
       "key": "UN_LW_E_GLEM_RV",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_GLEM_01",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_GLEM_01_SREN",
       "value": ""
     },
     {
@@ -3949,6 +4109,26 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_IGNT_GR1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_TSLP_GR1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_MRLT_GR1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_OMEG_GR1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_KRKN_GR2",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_OCHU_QE",
       "value": ""
     },
@@ -4114,6 +4294,14 @@
     },
     {
       "key": "UN_LW_E_CORL_02",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_MCOR",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_MCOR_SIREN",
       "value": ""
     },
     {
@@ -4529,6 +4717,10 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_DRGN_02",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_MORE",
       "value": ""
     },
@@ -4597,7 +4789,15 @@
       "value": ""
     },
     {
+      "key": "UN_FF6_E_DTGZ_HA",
+      "value": ""
+    },
+    {
       "key": "UN_FF6_E_KFKA",
+      "value": ""
+    },
+    {
+      "key": "UN_FF6_E_KFKA_NO2",
       "value": ""
     },
     {
@@ -4850,6 +5050,18 @@
     },
     {
       "key": "UN_LW_S_GLEM_AW2",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_GLEM_01",
+      "value": "An enigmatic esper that tyrannized another world. Though its appearance resembles that of Golem, it is rumored that a different kind of power flows within this entity. It seems to have once been revered by the weak as a symbol of salvation and protection from calamity. But now, it is devoid of even the slightest trace of what was once revered, and all that remains in its eyes is a spark of malice."
+    },
+    {
+      "key": "UN_LW_S_GLEM_01_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_GLEM_01_AW2",
       "value": ""
     },
     {
@@ -5453,6 +5665,18 @@
       "value": ""
     },
     {
+      "key": "UN_LW_S_MCOR",
+      "value": "A leopard-like monster with a set of long, beautiful whiskers. Many people find its cat-like manners rather fetching, but its true nature is that of a ferocious beast. Those who step into its territory are said to soon find themselves at the center of a storm of slashing claws and terrifying lightning bolts."
+    },
+    {
+      "key": "UN_LW_S_MCOR_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_MCOR_AW2",
+      "value": ""
+    },
+    {
       "key": "UN_LW_S_CBCL",
       "value": "A diminutive esper with a glowing red jewel embedded in its forehead. Despite its seemingly docile and adorable appearance, the great power contained in its little body is unquestionably that of an esper. The \"Ruby Light\" which it can emit from the jewel on its forehead has the unique capability of reflecting magic directed at it."
     },
@@ -5921,6 +6145,18 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_GBLN",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_GBLN_01",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_GBLN_02",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_RI_08_GMK_1",
       "value": ""
     },
@@ -5949,11 +6185,31 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_BIGA_QE",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_LLGA_QE",
       "value": ""
     },
     {
       "key": "UN_LW_E_RESL_QE",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_DARD_99",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_DARE",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_AMNR",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_LVES_01_QE",
       "value": ""
     },
     {

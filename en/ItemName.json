@@ -2453,6 +2453,26 @@
       "value": "Hunter's Memory (Red)"
     },
     {
+      "key": "IT_JB_MM_SLEN",
+      "value": "Azure Pathfinder's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_SLEN_2",
+      "value": "Azure Pathfinder's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_SLEN_3",
+      "value": "Azure Pathfinder's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_SLEN_4",
+      "value": "Azure Pathfinder's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_SLEN_5",
+      "value": "Azure Pathfinder's Memory (Red)"
+    },
+    {
       "key": "IT_JB_MM_FINA_01",
       "value": "Sorceress of Hess's Memory (Green)"
     },
@@ -3071,6 +3091,126 @@
     {
       "key": "IT_JB_MM_BIGA_5",
       "value": "Servant of the Void (Jealousy)'s Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_ADSN",
+      "value": "Performer's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_ADSN_2",
+      "value": "Performer's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_ADSN_3",
+      "value": "Performer's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_ADSN_4",
+      "value": "Performer's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_ADSN_5",
+      "value": "Performer's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_SSA",
+      "value": "Sword Sorcerer's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_SSA_2",
+      "value": "Sword Sorcerer's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_SSA_3",
+      "value": "Sword Sorcerer's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_SSA_4",
+      "value": "Sword Sorcerer's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_SSA_5",
+      "value": "Sword Sorcerer's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_HWLT",
+      "value": "Knight of Grace's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_HWLT_2",
+      "value": "Knight of Grace's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_HWLT_3",
+      "value": "Knight of Grace's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_HWLT_4",
+      "value": "Knight of Grace's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_HWLT_5",
+      "value": "Knight of Grace's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_DARD",
+      "value": "Servant of the Void (Despair)'s Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_DARD_2",
+      "value": "Servant of the Void (Despair)'s Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_DARD_3",
+      "value": "Servant of the Void (Despair)'s Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_DARD_4",
+      "value": "Servant of the Void (Despair)'s Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_DARD_5",
+      "value": "Servant of the Void (Despair)'s Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_FF5_BATZ",
+      "value": "World Wayfarer's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_FF5_BATZ_2",
+      "value": "World Wayfarer's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_FF5_BATZ_3",
+      "value": "World Wayfarer's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_FF5_BATZ_4",
+      "value": "World Wayfarer's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_FF5_BATZ_5",
+      "value": "World Wayfarer's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_FF5_LENA",
+      "value": "Princess of Tycoon's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_FF5_LENA_2",
+      "value": "Princess of Tycoon's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_FF5_LENA_3",
+      "value": "Princess of Tycoon's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_FF5_LENA_4",
+      "value": "Princess of Tycoon's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_FF5_LENA_5",
+      "value": "Princess of Tycoon's Memory (Red)"
     },
     {
       "key": "IT_JB_EM_FIRE_1",
@@ -4233,6 +4373,10 @@
       "value": "Glaciela (Regalia) Unit Shard"
     },
     {
+      "key": "IT_PI_LW_VERN",
+      "value": "Velne Unit Shard"
+    },
+    {
       "key": "IT_PI_TOMB_LARA",
       "value": "Lara Croft Unit Shard"
     },
@@ -4381,6 +4525,14 @@
       "value": "Ranell Unit Shard"
     },
     {
+      "key": "IT_PI_LW_SLEN",
+      "value": "Starlight Elena Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_MCRD",
+      "value": "Macleod Unit Shard"
+    },
+    {
       "key": "IT_PI_LW_FINA_01",
       "value": "Dark Fina Unit Shard"
     },
@@ -4489,6 +4641,10 @@
       "value": "Hyoh Unit Shard"
     },
     {
+      "key": "IT_PI_LW_GLZK",
+      "value": "Galzahk Unit Shard"
+    },
+    {
       "key": "IT_PI_FMAM_EDWD",
       "value": "Edward Elric Unit Shard"
     },
@@ -4519,6 +4675,34 @@
     {
       "key": "IT_PI_LW_BIGA",
       "value": "Viga Unit Shard"
+    },
+    {
+      "key": "IT_PI_ADSN_ADSN",
+      "value": "Addison Rae Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_MRND_01",
+      "value": "Miranda (Sweetheart) Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_HWLT_01",
+      "value": "Howlet the Heavensblade Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_DIAA",
+      "value": "Deah Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_DARD",
+      "value": "Dialdo Unit Shard"
+    },
+    {
+      "key": "IT_PI_FF5_BATZ",
+      "value": "Bartz Unit Shard"
+    },
+    {
+      "key": "IT_PI_FF5_LENA",
+      "value": "Lenna Unit Shard"
     },
     {
       "key": "IT_SP_LW_MONT",
@@ -4985,6 +5169,10 @@
       "value": "Glaciela (Regalia) Mindsphere"
     },
     {
+      "key": "IT_SP_LW_VERN",
+      "value": "Velne Mindsphere"
+    },
+    {
       "key": "IT_SP_TOMB_UR",
       "value": "[TR] UR Unit Mindsphere"
     },
@@ -5105,6 +5293,14 @@
       "value": "Ranell Mindsphere"
     },
     {
+      "key": "IT_SP_LW_SLEN",
+      "value": "Starlight Elena Mindsphere"
+    },
+    {
+      "key": "IT_SP_LW_MCRD",
+      "value": "Macleod Mindsphere"
+    },
+    {
       "key": "IT_SP_LW_FINA_01",
       "value": "Dark Fina Mindsphere"
     },
@@ -5185,6 +5381,10 @@
       "value": "Hyoh Mindsphere"
     },
     {
+      "key": "IT_SP_LW_GLZK",
+      "value": "Galzahk Mindsphere"
+    },
+    {
       "key": "IT_SP_FMAM_UR",
       "value": "[FMA] UR Unit Mindsphere"
     },
@@ -5201,6 +5401,30 @@
       "value": "Viga Mindsphere"
     },
     {
+      "key": "IT_SP_ADSN_ADSN",
+      "value": "Addison Rae Mindsphere"
+    },
+    {
+      "key": "IT_SP_LW_MRND_01",
+      "value": "Miranda (Sweetheart) Mindsphere"
+    },
+    {
+      "key": "IT_SP_LW_HWLT_01",
+      "value": "Howlet the Heavensblade Mindsphere"
+    },
+    {
+      "key": "IT_SP_LW_DIAA",
+      "value": "Deah Mindsphere"
+    },
+    {
+      "key": "IT_SP_LW_DARD",
+      "value": "Dialdo Mindsphere"
+    },
+    {
+      "key": "IT_SP_FF5_UR",
+      "value": "[FFV] UR Unit Mindsphere"
+    },
+    {
       "key": "IT_SP_LW_ALL_UR",
       "value": "Transcendent Mindsphere (UR)"
     },
@@ -5215,6 +5439,10 @@
     {
       "key": "IT_SP_LW_ALL_R",
       "value": "Transcendent Mindsphere (R)"
+    },
+    {
+      "key": "IT_SP_LW_MURG_LMIG",
+      "value": "Select Transcendent Mindsphere (Muraga & Lameiga)"
     },
     {
       "key": "IT_SB_EXP_FIRE_01",
@@ -5765,6 +5993,22 @@
       "value": "Dark Bahamut Awakening Stone (3)"
     },
     {
+      "key": "IT_SB_AW_MCOR_R2",
+      "value": "Master Coeurl Awakening Stone (2)"
+    },
+    {
+      "key": "IT_SB_AW_MCOR_R3",
+      "value": "Master Coeurl Awakening Stone (3)"
+    },
+    {
+      "key": "IT_SB_AW_GLEM_01_R2",
+      "value": "Dark Golem Awakening Stone (2)"
+    },
+    {
+      "key": "IT_SB_AW_GLEM_01_R3",
+      "value": "Dark Golem Awakening Stone (3)"
+    },
+    {
       "key": "IT_SB_SKP_RESET",
       "value": "Amnesia Dew"
     },
@@ -5895,6 +6139,10 @@
     {
       "key": "IT_NBLWPN_02_SSR",
       "value": "Bow/Ninja Blade Pyramite (Yellow)"
+    },
+    {
+      "key": "IT_NBLWPN_03_SSR",
+      "value": "Staff/Book Pyramite (Yellow)"
     },
     {
       "key": "IT_AF_MAT_FIRE_01",
@@ -6227,6 +6475,10 @@
     {
       "key": "IT_AF_LW_KAT_014",
       "value": "Glimmering Edge: Quelsaad Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_KAT_015",
+      "value": "Candyblade Crafting Recipe"
     },
     {
       "key": "IT_AF_FF7_KAT_000",
@@ -6957,6 +7209,30 @@
       "value": "Darkwyrm Axe Crafting Recipe"
     },
     {
+      "key": "IT_AF_FF6_CLT_003",
+      "value": "Harlequin's Clothes Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_RNG_010",
+      "value": "Thunder Ring Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_SWO_040",
+      "value": "Flowering Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_SPE_027",
+      "value": "Glaive of Emptiness Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_FF5_SWO_000",
+      "value": "Liberty's Edge Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_FF5_ROD_000",
+      "value": "Majesty of Tycoon Crafting Recipe"
+    },
+    {
       "key": "IT_AF_AW_LCIO",
       "value": "Secret Book of Refinement (Starlight Sword)"
     },
@@ -7165,6 +7441,22 @@
       "value": "Truststone of Glory Shard (N)"
     },
     {
+      "key": "IT_MT_EXP_04",
+      "value": "Trusted Shinesand (XL)"
+    },
+    {
+      "key": "IT_MT_EXP_03",
+      "value": "Trusted Shinesand (L)"
+    },
+    {
+      "key": "IT_MT_EXP_02",
+      "value": "Trusted Shinesand (M)"
+    },
+    {
+      "key": "IT_MT_EXP_01",
+      "value": "Trusted Shinesand (S)"
+    },
+    {
       "key": "IT_EC_STARQUARTZ",
       "value": "Star Quartz"
     },
@@ -7361,6 +7653,10 @@
       "value": "FFBE Global 6th Anniversary Summon Medal"
     },
     {
+      "key": "IT_EC_MEDAL_GF_7th",
+      "value": "FFBE Series Global 7th Anniversary Summon Medal"
+    },
+    {
       "key": "IT_EC_MEDAL_CNY21",
       "value": "Ox Medal"
     },
@@ -7423,6 +7719,30 @@
     {
       "key": "IT_EC_MEDAL_W22MOG",
       "value": "Holiday Present Medal"
+    },
+    {
+      "key": "IT_EC_MEDAL_ADSN_A",
+      "value": "Addison Rae Meets WOTV FFBE Part III Summon Medal"
+    },
+    {
+      "key": "IT_US_G_ADSN_01",
+      "value": "Addison Rae Meets WOTV FFBE Part III Event Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_FFBE7thANV_SP",
+      "value": "[Road to the Worldwide Version Part I] FFBE Series Global 7th Anniversary Giveback Festival Special Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_10_U_UR_03",
+      "value": "100-Cost UR Unit Guaranteed 10x Summon Ticket A"
+    },
+    {
+      "key": "IT_EC_FF5_2_A",
+      "value": "FFV Unit Summon Medal A"
+    },
+    {
+      "key": "IT_EC_FF5_3_A",
+      "value": "FFV Vision Card Summon Medal A"
     },
     {
       "key": "IT_EC_FF10_2_A",
@@ -7515,6 +7835,10 @@
     {
       "key": "IT_EC_SUMMON_FES2_04",
       "value": "Darkness Festival Summon Medal D"
+    },
+    {
+      "key": "IT_EC_SUMMON_FES2_05",
+      "value": "Darkness Festival Summon Medal E"
     },
     {
       "key": "IT_EC_DQTC_3_A",
@@ -7955,6 +8279,30 @@
     {
       "key": "IT_EC_SUMMON_05_VC_04_B",
       "value": "May Vision Card Summon Medal B"
+    },
+    {
+      "key": "IT_EC_SUMMON_06_VC_04_A",
+      "value": "June Vision Card Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_06_U_04_A",
+      "value": "June Unit Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_06_VC_04_B",
+      "value": "June Vision Card Summon Medal B"
+    },
+    {
+      "key": "IT_EC_SUMMON_06_U_04_B",
+      "value": "June Unit Summon Medal B"
+    },
+    {
+      "key": "IT_EC_SUMMON_06_VC_04_C",
+      "value": "June Vision Card Summon Medal C"
+    },
+    {
+      "key": "IT_EC_SUMMON_07_VC_04_A",
+      "value": "July Vision Card Summon Medal A"
     },
     {
       "key": "IT_EC_SUMMON_U_SEASON",
@@ -8935,6 +9283,10 @@
     {
       "key": "IT_EC_LOGIN_GL2306",
       "value": "June Login Medal"
+    },
+    {
+      "key": "IT_EC_LOGIN_GL2307",
+      "value": "July Login Medal"
     },
     {
       "key": "IT_US_G_FFT_01",
@@ -10577,42 +10929,6 @@
       "value": "\"The Dreamiest of Eggs\" Vision Card Shard"
     },
     {
-      "key": "IT_PI_LW_VERN",
-      "value": "Velne Unit Shard"
-    },
-    {
-      "key": "IT_SP_LW_VERN",
-      "value": "Velne Mindsphere"
-    },
-    {
-      "key": "IT_JB_MM_SLEN",
-      "value": "Azure Pathfinder's Memory (Green)"
-    },
-    {
-      "key": "IT_JB_MM_SLEN_2",
-      "value": "Azure Pathfinder's Memory (Blue)"
-    },
-    {
-      "key": "IT_JB_MM_SLEN_3",
-      "value": "Azure Pathfinder's Memory (Purple)"
-    },
-    {
-      "key": "IT_JB_MM_SLEN_4",
-      "value": "Azure Pathfinder's Memory (Yellow)"
-    },
-    {
-      "key": "IT_JB_MM_SLEN_5",
-      "value": "Azure Pathfinder's Memory (Red)"
-    },
-    {
-      "key": "IT_PI_LW_SLEN",
-      "value": "Starlight Elena Unit Shard"
-    },
-    {
-      "key": "IT_SP_LW_SLEN",
-      "value": "Starlight Elena Mindsphere"
-    },
-    {
       "key": "IT_VPI_LW_SLEN",
       "value": "\"Smite the Dark\" Vision Card Shard"
     },
@@ -10833,8 +11149,32 @@
       "value": "\"United Across Worlds\" Vision Card Shard"
     },
     {
+      "key": "IT_VPI_LW_MCOR",
+      "value": "\"Whiskered Thunderfangs, Master Coeurl\" Vision Card Shard"
+    },
+    {
       "key": "IT_VPI_FF6_MV2",
       "value": "\"Power of the Warring Triad\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_MV3",
+      "value": "\"A Dance That's Out of This World\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_MRND_01",
+      "value": "\"Secret Party\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_HWLT",
+      "value": "\"Journey of the Groms\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_GLEM_01",
+      "value": "\"Corrupted Megalith, Dark Golem\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_FF5_MV1",
+      "value": "\"Love for Hiryu\" Vision Card Shard"
     },
     {
       "key": "IT_VC_EXP_01",
@@ -11069,6 +11409,10 @@
       "value": "Grand Raid Medal"
     },
     {
+      "key": "IT_EC_RAID_SP_02",
+      "value": "Grand Raid Medal II"
+    },
+    {
       "key": "IT_EC_PRS5_4",
       "value": "P5R Raid Medal"
     },
@@ -11107,6 +11451,10 @@
     {
       "key": "IT_EC_GL_RAID_01",
       "value": "Revival Raid Medal V"
+    },
+    {
+      "key": "IT_EC_GL_RAID_02",
+      "value": "Addison Rae Raid Medal"
     },
     {
       "key": "IT_US_GL_SE_SB_EXP_1",
@@ -11857,6 +12205,74 @@
       "value": "Select Crystal Festival Unit Shard x100 Summon Ticket"
     },
     {
+      "key": "IT_US_SE_PI_GL_164",
+      "value": "[June 2023] Select Fire-Type UR Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_165",
+      "value": "[June 2023] Select Water-Type UR Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_166",
+      "value": "[June 2023] Select Lightning-Type UR Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_167",
+      "value": "[June 2023] Select Earth-Type UR Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_168",
+      "value": "[June 2023] Select Wind-Type UR Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_169",
+      "value": "[June 2023] Select Ice-Type UR Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_170",
+      "value": "[June 2023] Select Light-Type UR Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_171",
+      "value": "[June 2023] Select Dark-Type UR Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_172",
+      "value": "[14 Million Downloads Part III] Select UR Vision Card Shard x25 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_173",
+      "value": "[Beginners Only] Select UR Unit Shard x600 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_174",
+      "value": "[Beginners Only] Select UR Unit Mindsphere x400 Summon Ticket EX"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_175",
+      "value": "[Beginners Only] Select UR Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_176",
+      "value": "[June 2023 Fan Meeting] UR Guaranteed 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_177",
+      "value": "[FFBE Series Global 7th Anniversary] Select UR Unit Mindsphere x80 Summon Ticket EX"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_178",
+      "value": "Select FFBE Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_179",
+      "value": "[Story Part 3, Chapter 3, Scene 1 Release] Select UR Vision Card Shard x25 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_180",
+      "value": "[Version Upgrade Celebration] Select UR Unit Mindsphere x80 Summon Ticket EX"
+    },
+    {
       "key": "IT_US_SE_PI_YT_GL_01",
       "value": "[Updates #26] Select UR Unit Shard x40 Summon Ticket"
     },
@@ -12029,6 +12445,38 @@
       "value": "[New Year's] Select UR Vision Card Shard x75 Summon Ticket"
     },
     {
+      "key": "IT_US_SE_PI_YT_GL_03",
+      "value": "[Updates #28] Select UR Unit Shard x40 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_SP_MATERIAL_GL_A_01",
+      "value": "[Updates #28] Special Select Materials Summon Ticket A"
+    },
+    {
+      "key": "IT_US_SE_SP_MATERIAL_GL_B_01",
+      "value": "[Updates #28] Special Select Materials Summon Ticket B"
+    },
+    {
+      "key": "IT_US_SE_SP_MATERIAL_GL_C_01",
+      "value": "[Updates #28] Special Select Materials Summon Ticket C"
+    },
+    {
+      "key": "IT_US_SE_SP_MATERIAL_GL_D_01",
+      "value": "[Updates #28] Special Select Materials Summon Ticket D"
+    },
+    {
+      "key": "IT_US_SE_UR_U_CB_GL_01",
+      "value": "[Comeback-Limited] Select UR Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_UR_GL_CB_01",
+      "value": "[Comeback-Limited] Select UR Unit Shard x200 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_TRAINING_ITEM_GL_CB_01",
+      "value": "[Comeback] Select Training Items Summon Ticket"
+    },
+    {
       "key": "IT_US_SE_MS_GL01",
       "value": "[JP 2nd Anniversary] Select UR Unit Mindsphere x40 Summon Ticket"
     },
@@ -12135,6 +12583,18 @@
     {
       "key": "IT_US_BF_SE_UR_V_02",
       "value": "[Black Friday] Select UR Esper/Vision Card Combo Summon Ticket "
+    },
+    {
+      "key": "IT_US_BF_SE_UR_U_02",
+      "value": "[Beginners Only] Select UR Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_BF_SE_PI_02",
+      "value": "[Beginners Only] Select UR Unit Shard x600 Summon Ticket"
+    },
+    {
+      "key": "IT_US_BF_SE_MS_02",
+      "value": "[Beginners Only] Select UR Unit Mindsphere x400 Summon Ticket EX"
     },
     {
       "key": "IT_US_2AN_SE_UR_U_01",
@@ -12651,6 +13111,10 @@
     {
       "key": "IT_STAMP_2302",
       "value": "July Token"
+    },
+    {
+      "key": "IT_STAMP_2303",
+      "value": "August Token"
     },
     {
       "key": "IT_KEY_JP",
@@ -13333,6 +13797,38 @@
       "value": "[Raegen] Featured 10x Summon Ticket"
     },
     {
+      "key": "IT_US_G_PU_ADSN",
+      "value": "[Addison Rae Meets WOTV FFBE Part III] Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_ADSN_10",
+      "value": "[Addison Rae Meets WOTV FFBE Part III] 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_DARD",
+      "value": "[Dialdo] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_DARD_10",
+      "value": "[Dialdo] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_LENA",
+      "value": "[Lenna] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_LENA_10",
+      "value": "[Lenna] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_BATZ",
+      "value": "[Bartz] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_BATZ_10",
+      "value": "[Bartz] Featured 10x Summon Ticket"
+    },
+    {
       "key": "IT_US_G_FF7R2",
       "value": "FFVIIR Reissue Featured Summon Ticket"
     },
@@ -13443,6 +13939,14 @@
     {
       "key": "IT_US_G_PU_V_REGN",
       "value": "[United Across Worlds] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_VC_MRND01",
+      "value": "[Secret Party] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_VC_HWLT",
+      "value": "\"Journey of the Groms\" Featured Summon Ticket"
     },
     {
       "key": "IT_US_G_PU_SPRT",
@@ -13825,6 +14329,18 @@
       "value": "[FFVI] Boss Battle Ticket"
     },
     {
+      "key": "IT_PT_SKIP_FF6_R_1",
+      "value": "[FFVI] Trials of Reckoning Quest Skip Ticket II"
+    },
+    {
+      "key": "IT_PT_BSSKIP_FF6_R_1",
+      "value": "[FFVI] Trials of Reckoning Boss Skip Ticket II"
+    },
+    {
+      "key": "IT_PT_BOSS_FF6_R_1",
+      "value": "[FFVI] Boss Battle Ticket II"
+    },
+    {
       "key": "IT_EC_FF15_2_A_2",
       "value": "FFXV Summon Medal A"
     },
@@ -13843,6 +14359,10 @@
     {
       "key": "IT_EC_FF6_1",
       "value": "FFVI Event Medal"
+    },
+    {
+      "key": "IT_EC_FF5_1",
+      "value": "FFV Event Medal"
     },
     {
       "key": "IT_EC_FF6_R_1",
@@ -14089,6 +14609,10 @@
       "value": "FFVI Reissue Vision Card Summon Medal"
     },
     {
+      "key": "IT_EC_FF6_R_6",
+      "value": "[FFVI] Trials of Reckoning Medal II"
+    },
+    {
       "key": "IT_EC_P5R_5_A",
       "value": "P5R Unit Summon Medal A"
     },
@@ -14209,14 +14733,6 @@
       "value": "FFX Reissue Event Medal"
     },
     {
-      "key": "IT_PI_LW_MCRD",
-      "value": "Macleod Unit Shard"
-    },
-    {
-      "key": "IT_SP_LW_MCRD",
-      "value": "Macleod Mindsphere"
-    },
-    {
       "key": "IT_EC_FFEXU_1",
       "value": "Creeping Malice Event Medal"
     },
@@ -14243,6 +14759,22 @@
     {
       "key": "IT_US_G_PU_STRN02_10",
       "value": "[Sterne (Wing of Destiny)] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_MRND01",
+      "value": "[Miranda (Sweetheart)] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_MRND01_10",
+      "value": "[Miranda (Sweetheart)] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_HWLT01",
+      "value": "[Howlet the Heavensblade] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_HWLT01_10",
+      "value": "[Howlet the Heavensblade] Featured 10x Summon Ticket"
     }
   ]
 }

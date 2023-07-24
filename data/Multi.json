@@ -197,16 +197,16 @@
     {
       "iname": "SE_MU_RAID_RV_03",
       "event_type": 1,
-      "image": "ev_raid_revi_03",
-      "start": "2021/12/01",
-      "end": "2021/12/14 21:59:59"
+      "image": "ev_raid_revi_13",
+      "start": "2023/07/12",
+      "end": "2023/07/18 17:59:59"
     },
     {
       "iname": "SE_MU_RAID_RV_04",
       "event_type": 1,
-      "image": "ev_raid_revi_04",
-      "start": "2021/12/01",
-      "end": "2021/12/14 21:59:59"
+      "image": "ev_raid_revi_14",
+      "start": "2023/07/12",
+      "end": "2023/07/18 17:59:59"
     },
     {
       "iname": "SE_MU_RAID_RV_05",
@@ -320,10 +320,8 @@
     },
     {
       "iname": "SE_MU_EV_20_EX",
-      "event_type": 1,
-      "image": "ev_20_ex_01",
-      "start": "2023/05/10",
-      "end": "2023/05/30 23:59:59"
+      "event_type": 6,
+      "image": "ev_20_ex_01"
     },
     {
       "iname": "SE_MU_CHAL_04",
@@ -478,6 +476,20 @@
       "image": "ev_lste_ex_01"
     },
     {
+      "iname": "SE_MU_EV_DIAA_EX",
+      "event_type": 1,
+      "image": "ev_diaa_ex_01",
+      "start": "2023/06/28",
+      "end": "2023/07/11 23:59:59"
+    },
+    {
+      "iname": "SE_MU_EV_GLZK_EX",
+      "event_type": 1,
+      "image": "ev_glzk_ex_01",
+      "start": "2023/07/12",
+      "end": "2023/07/25 23:59:59"
+    },
+    {
       "iname": "SE_MU_FF4_01_EX",
       "event_type": 1,
       "image": "ev_ff4_ex_R_01",
@@ -490,6 +502,13 @@
       "image": "ev_ff4_ex_02",
       "start": "2022/01/18 18:30:00",
       "end": "2022/02/22 21:59:59"
+    },
+    {
+      "iname": "SE_MU_FF5_01_EX",
+      "event_type": 1,
+      "image": "ev_FF5_ex_01",
+      "start": "2023/07/18 18:30:00",
+      "end": "2023/08/22 23:59:59"
     },
     {
       "iname": "SE_MU_FF14_EX_02",
@@ -613,6 +632,11 @@
       "iname": "SE_MU_AEX_020401",
       "event_type": 3,
       "image": "ev_ast_ex_0204"
+    },
+    {
+      "iname": "SE_MU_AEX_020501",
+      "event_type": 3,
+      "image": "ev_ast_ex_0205"
     },
     {
       "iname": "SE_MU_AEX_010101",
@@ -788,10 +812,15 @@
     },
     {
       "iname": "SE_MU_ART_CRF_28",
+      "event_type": 6,
+      "image": "ev_arti_crft_28"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_29",
       "event_type": 1,
-      "image": "ev_arti_crft_28",
-      "start": "2023/05/24",
-      "end": "2023/06/06 23:59:59"
+      "image": "ev_arti_crft_29",
+      "start": "2023/06/20 18:30:00",
+      "end": "2023/07/04 23:59:59"
     },
     {
       "iname": "SE_MU_GL_ART_CRF_03",

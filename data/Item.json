@@ -465,7 +465,7 @@
       "mc": 9999,
       "buy": 30000,
       "sell": 100,
-      "val": 5,
+      "val": 1,
       "is_valuables": 1
     },
     {
@@ -7675,6 +7675,66 @@
       "icon": "JB_LW_DAC_FIRE"
     },
     {
+      "iname": "IT_JB_MM_SLEN",
+      "type": 34,
+      "rare": 0,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "icon": "JB_LW_SLEN"
+    },
+    {
+      "iname": "IT_JB_MM_SLEN_2",
+      "type": 34,
+      "rare": 1,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 20,
+      "icon": "JB_LW_SLEN"
+    },
+    {
+      "iname": "IT_JB_MM_SLEN_3",
+      "type": 34,
+      "rare": 2,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 50,
+      "icon": "JB_LW_SLEN"
+    },
+    {
+      "iname": "IT_JB_MM_SLEN_4",
+      "type": 34,
+      "rare": 3,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "icon": "JB_LW_SLEN"
+    },
+    {
+      "iname": "IT_JB_MM_SLEN_5",
+      "type": 34,
+      "rare": 4,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "icon": "JB_LW_SLEN"
+    },
+    {
       "iname": "IT_JB_MM_FINA_01",
       "type": 34,
       "rare": 0,
@@ -9665,6 +9725,396 @@
       "icon": "JB_LW_BIGA"
     },
     {
+      "iname": "IT_JB_MM_ADSN",
+      "type": 34,
+      "rare": 0,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "icon": "JB_ADSN_ADSN",
+      "collaboType": 3,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_JB_MM_ADSN_2",
+      "type": 34,
+      "rare": 1,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 20,
+      "icon": "JB_ADSN_ADSN",
+      "collaboType": 3,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_JB_MM_ADSN_3",
+      "type": 34,
+      "rare": 2,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 50,
+      "icon": "JB_ADSN_ADSN",
+      "collaboType": 3,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_JB_MM_ADSN_4",
+      "type": 34,
+      "rare": 3,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "icon": "JB_ADSN_ADSN",
+      "collaboType": 3,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_JB_MM_ADSN_5",
+      "type": 34,
+      "rare": 4,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "icon": "JB_ADSN_ADSN",
+      "collaboType": 3,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_JB_MM_SSA",
+      "type": 34,
+      "rare": 0,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "icon": "JB_LW_SSA_FIRE"
+    },
+    {
+      "iname": "IT_JB_MM_SSA_2",
+      "type": 34,
+      "rare": 1,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 20,
+      "icon": "JB_LW_SSA_FIRE"
+    },
+    {
+      "iname": "IT_JB_MM_SSA_3",
+      "type": 34,
+      "rare": 2,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 50,
+      "icon": "JB_LW_SSA_FIRE"
+    },
+    {
+      "iname": "IT_JB_MM_SSA_4",
+      "type": 34,
+      "rare": 3,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "icon": "JB_LW_SSA_FIRE"
+    },
+    {
+      "iname": "IT_JB_MM_SSA_5",
+      "type": 34,
+      "rare": 4,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "icon": "JB_LW_SSA_FIRE"
+    },
+    {
+      "iname": "IT_JB_MM_HWLT",
+      "type": 34,
+      "rare": 0,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "icon": "JB_LW_HWLT"
+    },
+    {
+      "iname": "IT_JB_MM_HWLT_2",
+      "type": 34,
+      "rare": 1,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 20,
+      "icon": "JB_LW_HWLT"
+    },
+    {
+      "iname": "IT_JB_MM_HWLT_3",
+      "type": 34,
+      "rare": 2,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 50,
+      "icon": "JB_LW_HWLT"
+    },
+    {
+      "iname": "IT_JB_MM_HWLT_4",
+      "type": 34,
+      "rare": 3,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "icon": "JB_LW_HWLT"
+    },
+    {
+      "iname": "IT_JB_MM_HWLT_5",
+      "type": 34,
+      "rare": 4,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "icon": "JB_LW_HWLT"
+    },
+    {
+      "iname": "IT_JB_MM_DARD",
+      "type": 34,
+      "rare": 0,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "icon": "JB_LW_DARD"
+    },
+    {
+      "iname": "IT_JB_MM_DARD_2",
+      "type": 34,
+      "rare": 1,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 20,
+      "icon": "JB_LW_DARD"
+    },
+    {
+      "iname": "IT_JB_MM_DARD_3",
+      "type": 34,
+      "rare": 2,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 50,
+      "icon": "JB_LW_DARD"
+    },
+    {
+      "iname": "IT_JB_MM_DARD_4",
+      "type": 34,
+      "rare": 3,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "icon": "JB_LW_DARD"
+    },
+    {
+      "iname": "IT_JB_MM_DARD_5",
+      "type": 34,
+      "rare": 4,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "icon": "JB_LW_DARD"
+    },
+    {
+      "iname": "IT_JB_MM_FF5_BATZ",
+      "type": 34,
+      "rare": 0,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "icon": "JB_FF5_BATZ",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_JB_MM_FF5_BATZ_2",
+      "type": 34,
+      "rare": 1,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 20,
+      "icon": "JB_FF5_BATZ",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_JB_MM_FF5_BATZ_3",
+      "type": 34,
+      "rare": 2,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 50,
+      "icon": "JB_FF5_BATZ",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_JB_MM_FF5_BATZ_4",
+      "type": 34,
+      "rare": 3,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "icon": "JB_FF5_BATZ",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_JB_MM_FF5_BATZ_5",
+      "type": 34,
+      "rare": 4,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "icon": "JB_FF5_BATZ",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_JB_MM_FF5_LENA",
+      "type": 34,
+      "rare": 0,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "icon": "JB_FF5_LENA",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_JB_MM_FF5_LENA_2",
+      "type": 34,
+      "rare": 1,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 20,
+      "icon": "JB_FF5_LENA",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_JB_MM_FF5_LENA_3",
+      "type": 34,
+      "rare": 2,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 50,
+      "icon": "JB_FF5_LENA",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_JB_MM_FF5_LENA_4",
+      "type": 34,
+      "rare": 3,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "icon": "JB_FF5_LENA",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_JB_MM_FF5_LENA_5",
+      "type": 34,
+      "rare": 4,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "icon": "JB_FF5_LENA",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_JB_EM_FIRE_1",
       "type": 22,
       "rare": 0,
@@ -11621,7 +12071,11 @@
       "buy": 30000,
       "sell": 100,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SSR",
+        "reincarnation_rate_id": "UESSR_RATE_SSR"
+      }
     },
     {
       "iname": "IT_PI_LW_LILS",
@@ -11634,7 +12088,11 @@
       "buy": 30000,
       "sell": 100,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SSR",
+        "reincarnation_rate_id": "UESSR_RATE_SSR"
+      }
     },
     {
       "iname": "IT_PI_LW_RAMD",
@@ -11749,7 +12207,11 @@
       "buy": 30000,
       "sell": 100,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SSR",
+        "reincarnation_rate_id": "UESSR_RATE_SSR"
+      }
     },
     {
       "iname": "IT_PI_LW_MRLK",
@@ -11779,7 +12241,11 @@
       "buy": 30000,
       "sell": 100,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SSR",
+        "reincarnation_rate_id": "UESSR_RATE_SSR"
+      }
     },
     {
       "iname": "IT_PI_LW_PRAY",
@@ -11792,7 +12258,11 @@
       "buy": 30000,
       "sell": 100,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SSR",
+        "reincarnation_rate_id": "UESSR_RATE_SSR"
+      }
     },
     {
       "iname": "IT_PI_LW_SZRT",
@@ -11805,7 +12275,11 @@
       "buy": 30000,
       "sell": 100,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SSR",
+        "reincarnation_rate_id": "UESSR_RATE_SSR"
+      }
     },
     {
       "iname": "IT_PI_LW_FINA",
@@ -11818,7 +12292,11 @@
       "buy": 30000,
       "sell": 100,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SSR",
+        "reincarnation_rate_id": "UESSR_RATE_SSR"
+      }
     },
     {
       "iname": "IT_PI_LW_BYLO",
@@ -11861,7 +12339,11 @@
       "buy": 30000,
       "sell": 50,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SR",
+        "reincarnation_rate_id": "UESSR_RATE_SR"
+      }
     },
     {
       "iname": "IT_PI_LW_VRID",
@@ -11908,7 +12390,11 @@
       "buy": 30000,
       "sell": 50,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SR",
+        "reincarnation_rate_id": "UESSR_RATE_SR"
+      }
     },
     {
       "iname": "IT_PI_LW_UNII",
@@ -11938,7 +12424,11 @@
       "buy": 30000,
       "sell": 50,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SR",
+        "reincarnation_rate_id": "UESSR_RATE_SR"
+      }
     },
     {
       "iname": "IT_PI_LW_VADM",
@@ -11998,7 +12488,11 @@
       "buy": 30000,
       "sell": 20,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_R",
+        "reincarnation_rate_id": "UESSR_RATE_R"
+      }
     },
     {
       "iname": "IT_PI_LW_MICE",
@@ -12028,7 +12522,11 @@
       "buy": 30000,
       "sell": 20,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_R",
+        "reincarnation_rate_id": "UESSR_RATE_R"
+      }
     },
     {
       "iname": "IT_PI_LW_ZZAN",
@@ -12360,7 +12858,11 @@
       "buy": 30000,
       "sell": 500,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
     },
     {
       "iname": "IT_PI_LW_FRVA",
@@ -12455,7 +12957,11 @@
       "buy": 30000,
       "sell": 500,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
     },
     {
       "iname": "IT_PI_LW_SIMR",
@@ -12574,7 +13080,11 @@
       "buy": 30000,
       "sell": 500,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
     },
     {
       "iname": "IT_PI_LW_LSWL",
@@ -12587,7 +13097,11 @@
       "buy": 30000,
       "sell": 500,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
     },
     {
       "iname": "IT_PI_LW_GRSR",
@@ -12656,7 +13170,11 @@
       "buy": 30000,
       "sell": 500,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
     },
     {
       "iname": "IT_PI_LW_SCAL",
@@ -12699,7 +13217,11 @@
       "buy": 30000,
       "sell": 100,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SSR",
+        "reincarnation_rate_id": "UESSR_RATE_SSR"
+      }
     },
     {
       "iname": "IT_PI_FF4_CECL",
@@ -12797,7 +13319,11 @@
       "buy": 30000,
       "sell": 100,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SSR",
+        "reincarnation_rate_id": "UESSR_RATE_SSR"
+      }
     },
     {
       "iname": "IT_PI_LW_DEAN",
@@ -12828,7 +13354,11 @@
       "buy": 30000,
       "sell": 500,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
     },
     {
       "iname": "IT_PI_LW_RVAL",
@@ -12943,7 +13473,11 @@
       "mc": 9999,
       "buy": 30000,
       "sell": 10,
-      "is_valuables": 1
+      "is_valuables": 1,
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SSR",
+        "reincarnation_rate_id": "UESSR_RATE_SSR"
+      }
     },
     {
       "iname": "IT_PI_LW_GABL",
@@ -12973,7 +13507,11 @@
       "buy": 30000,
       "sell": 500,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
     },
     {
       "iname": "IT_PI_FF10_TIDU",
@@ -13100,7 +13638,11 @@
       "buy": 30000,
       "sell": 500,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
     },
     {
       "iname": "IT_PI_LW_THLA_01",
@@ -13114,7 +13656,11 @@
       "sell": 500,
       "icon": "IT_PI_GL_LW_THLA_01",
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
     },
     {
       "iname": "IT_PI_LW_CMLO",
@@ -13156,7 +13702,11 @@
       "buy": 30000,
       "sell": 500,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
     },
     {
       "iname": "IT_PI_LW_CWEL",
@@ -13181,7 +13731,10 @@
       "mc": 9999,
       "buy": 30000,
       "sell": 10,
-      "is_valuables": 1
+      "is_valuables": 1,
+      "ex_star": {
+        "reincarnation_rate_id": "UESSR_RATE_MURG_LMIG"
+      }
     },
     {
       "iname": "IT_PI_LW_CRLT",
@@ -13416,6 +13969,18 @@
       "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
     },
     {
+      "iname": "IT_PI_LW_VERN",
+      "type": 1,
+      "rare": 0,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_PI_TOMB_LARA",
       "type": 1,
       "rare": 4,
@@ -13482,7 +14047,10 @@
       "mc": 9999,
       "buy": 30000,
       "sell": 10,
-      "is_valuables": 1
+      "is_valuables": 1,
+      "ex_star": {
+        "reincarnation_rate_id": "UESSR_RATE_MURG_LMIG"
+      }
     },
     {
       "iname": "IT_PI_LW_OBRN",
@@ -13512,7 +14080,11 @@
       "buy": 30000,
       "sell": 500,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
     },
     {
       "iname": "IT_PI_FF15_NCTS",
@@ -13909,7 +14481,11 @@
       "buy": 30000,
       "sell": 500,
       "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM"
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
     },
     {
       "iname": "IT_PI_LW_SDLE",
@@ -13943,6 +14519,39 @@
     },
     {
       "iname": "IT_PI_LW_RNEL",
+      "type": 1,
+      "rare": 0,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "is_valuables": 1,
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SSR",
+        "reincarnation_rate_id": "UESSR_RATE_SSR"
+      }
+    },
+    {
+      "iname": "IT_PI_LW_SLEN",
+      "type": 1,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "is_valuables": 1,
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
+    },
+    {
+      "iname": "IT_PI_LW_MCRD",
       "type": 1,
       "rare": 0,
       "steal": 0,
@@ -14172,7 +14781,11 @@
       "mc": 9999,
       "buy": 30000,
       "sell": 10,
-      "is_valuables": 1
+      "is_valuables": 1,
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SSR",
+        "reincarnation_rate_id": "UESSR_RATE_SSR"
+      }
     },
     {
       "iname": "IT_PI_LW_SLVE",
@@ -14356,6 +14969,22 @@
       }
     },
     {
+      "iname": "IT_PI_LW_GLZK",
+      "type": 1,
+      "rare": 0,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "is_valuables": 1,
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SSR",
+        "reincarnation_rate_id": "UESSR_RATE_SSR"
+      }
+    },
+    {
       "iname": "IT_PI_FMAM_EDWD",
       "type": 1,
       "rare": 4,
@@ -14489,6 +15118,127 @@
       "mc": 9999,
       "buy": 30000,
       "sell": 500,
+      "is_valuables": 1,
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
+    },
+    {
+      "iname": "IT_PI_ADSN_ADSN",
+      "type": 1,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "collaboType": 3,
+      "is_valuables": 1,
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
+    },
+    {
+      "iname": "IT_PI_LW_MRND_01",
+      "type": 1,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "is_valuables": 1,
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
+    },
+    {
+      "iname": "IT_PI_LW_HWLT_01",
+      "type": 1,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "is_valuables": 1,
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
+    },
+    {
+      "iname": "IT_PI_LW_DIAA",
+      "type": 1,
+      "rare": 0,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "is_valuables": 1,
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_SSR",
+        "reincarnation_rate_id": "UESSR_RATE_SSR"
+      }
+    },
+    {
+      "iname": "IT_PI_LW_DARD",
+      "type": 1,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "is_valuables": 1,
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
+    },
+    {
+      "iname": "IT_PI_FF5_BATZ",
+      "type": 1,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "collaboType": 1,
+      "is_valuables": 1,
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
+    },
+    {
+      "iname": "IT_PI_FF5_LENA",
+      "type": 1,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "collaboType": 1,
       "is_valuables": 1,
       "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
       "ex_star": {
@@ -16299,6 +17049,18 @@
       }
     },
     {
+      "iname": "IT_SP_LW_VERN",
+      "type": 40,
+      "rare": 0,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_SP_TOMB_UR",
       "type": 40,
       "rare": 4,
@@ -16757,6 +17519,34 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_SP_LW_SLEN",
+      "type": 40,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "is_valuables": 1,
+      "spirit_exch_rate_iname": "SP_EXCH_COM_UR",
+      "ex_star": {
+        "exchange_rate_id": "SESR_RATE_UR"
+      }
+    },
+    {
+      "iname": "IT_SP_LW_MCRD",
+      "type": 40,
+      "rare": 0,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_SP_LW_FINA_01",
       "type": 40,
       "rare": 4,
@@ -17071,6 +17861,18 @@
       }
     },
     {
+      "iname": "IT_SP_LW_GLZK",
+      "type": 40,
+      "rare": 0,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_SP_FMAM_UR",
       "type": 40,
       "rare": 4,
@@ -17136,6 +17938,101 @@
       }
     },
     {
+      "iname": "IT_SP_ADSN_ADSN",
+      "type": 40,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "collaboType": 3,
+      "is_valuables": 1,
+      "spirit_exch_rate_iname": "SP_EXCH_COM_UR",
+      "ex_star": {
+        "exchange_rate_id": "SESR_RATE_UR"
+      }
+    },
+    {
+      "iname": "IT_SP_LW_MRND_01",
+      "type": 40,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "icon": "IT_SP_GL_LW_MRND_01",
+      "is_valuables": 1,
+      "spirit_exch_rate_iname": "SP_EXCH_COM_UR",
+      "ex_star": {
+        "exchange_rate_id": "SESR_RATE_UR"
+      }
+    },
+    {
+      "iname": "IT_SP_LW_HWLT_01",
+      "type": 40,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "is_valuables": 1,
+      "spirit_exch_rate_iname": "SP_EXCH_COM_UR",
+      "ex_star": {
+        "exchange_rate_id": "SESR_RATE_UR"
+      }
+    },
+    {
+      "iname": "IT_SP_LW_DIAA",
+      "type": 40,
+      "rare": 0,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_SP_LW_DARD",
+      "type": 40,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "is_valuables": 1,
+      "spirit_exch_rate_iname": "SP_EXCH_COM_UR",
+      "ex_star": {
+        "exchange_rate_id": "SESR_RATE_UR"
+      }
+    },
+    {
+      "iname": "IT_SP_FF5_UR",
+      "type": 40,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "collaboType": 1,
+      "is_valuables": 1,
+      "spirit_exch_rate_iname": "SP_EXCH_COM_UR_FF5",
+      "ex_star": {
+        "exchange_rate_id": "SESR_RATE_UR"
+      }
+    },
+    {
       "iname": "IT_SP_LW_ALL_UR",
       "type": 43,
       "rare": 4,
@@ -17178,6 +18075,19 @@
       "iname": "IT_SP_LW_ALL_R",
       "type": 43,
       "rare": 1,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "is_valuables": 1,
+      "cmn_type": 1
+    },
+    {
+      "iname": "IT_SP_LW_MURG_LMIG",
+      "type": 43,
+      "rare": 0,
       "steal": 0,
       "coin": 30000,
       "ac": 9999,
@@ -19080,6 +19990,58 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_SB_AW_MCOR_R2",
+      "type": 28,
+      "rare": 2,
+      "steal": 0,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 50,
+      "val": 300,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_SB_AW_MCOR_R3",
+      "type": 28,
+      "rare": 3,
+      "steal": 0,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "val": 300,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_SB_AW_GLEM_01_R2",
+      "type": 28,
+      "rare": 2,
+      "steal": 0,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 50,
+      "val": 300,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_SB_AW_GLEM_01_R3",
+      "type": 28,
+      "rare": 3,
+      "steal": 0,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "val": 300,
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_SB_SKP_RESET",
       "type": 28,
       "rare": 4,
@@ -19466,6 +20428,18 @@
     },
     {
       "iname": "IT_NBLWPN_02_SSR",
+      "type": 24,
+      "rare": 3,
+      "steal": 0,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_NBLWPN_03_SSR",
       "type": 24,
       "rare": 3,
       "steal": 0,
@@ -20415,6 +21389,18 @@
       "buy": 30000,
       "sell": 100,
       "icon": "AF_LW_KAT_014"
+    },
+    {
+      "iname": "IT_AF_LW_KAT_015",
+      "type": 13,
+      "rare": 3,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "icon": "AF_LW_KAT_015"
     },
     {
       "iname": "IT_AF_FF7_KAT_000",
@@ -22657,6 +23643,82 @@
       "icon": "AF_LW_AXE_013"
     },
     {
+      "iname": "IT_AF_FF6_CLT_003",
+      "type": 13,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "icon": "AF_FF6_CLT_003",
+      "collaboType": 1
+    },
+    {
+      "iname": "IT_AF_LW_RNG_010",
+      "type": 13,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "icon": "AF_LW_RNG_010",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_AF_LW_SWO_040",
+      "type": 13,
+      "rare": 3,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "icon": "AF_LW_SWO_040"
+    },
+    {
+      "iname": "IT_AF_LW_SPE_027",
+      "type": 13,
+      "rare": 3,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "icon": "AF_LW_SPE_027"
+    },
+    {
+      "iname": "IT_AF_FF5_SWO_000",
+      "type": 13,
+      "rare": 3,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "icon": "AF_FF5_SWO_000",
+      "collaboType": 1
+    },
+    {
+      "iname": "IT_AF_FF5_ROD_000",
+      "type": 13,
+      "rare": 3,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "icon": "AF_FF5_ROD_000",
+      "collaboType": 1
+    },
+    {
       "iname": "IT_AF_AW_LCIO",
       "type": 24,
       "rare": 1,
@@ -23438,6 +24500,74 @@
       }
     },
     {
+      "iname": "IT_MT_EXP_04",
+      "type": 44,
+      "rare": 3,
+      "steal": 0,
+      "coin": 9999,
+      "tc": 9999,
+      "ac": 9999,
+      "mc": 9999,
+      "pp": 9999,
+      "buy": 9999,
+      "sell": 100,
+      "mt_attach_skill_en": {
+        "gil": 12000,
+        "val": 945
+      }
+    },
+    {
+      "iname": "IT_MT_EXP_03",
+      "type": 44,
+      "rare": 2,
+      "steal": 0,
+      "coin": 9999,
+      "tc": 9999,
+      "ac": 9999,
+      "mc": 9999,
+      "pp": 9999,
+      "buy": 9999,
+      "sell": 50,
+      "mt_attach_skill_en": {
+        "gil": 4000,
+        "val": 375
+      }
+    },
+    {
+      "iname": "IT_MT_EXP_02",
+      "type": 44,
+      "rare": 1,
+      "steal": 0,
+      "coin": 9999,
+      "tc": 9999,
+      "ac": 9999,
+      "mc": 9999,
+      "pp": 9999,
+      "buy": 9999,
+      "sell": 20,
+      "mt_attach_skill_en": {
+        "gil": 2500,
+        "val": 150
+      }
+    },
+    {
+      "iname": "IT_MT_EXP_01",
+      "type": 44,
+      "rare": 0,
+      "steal": 0,
+      "coin": 9999,
+      "tc": 9999,
+      "ac": 9999,
+      "mc": 9999,
+      "pp": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "mt_attach_skill_en": {
+        "gil": 1000,
+        "val": 60
+      }
+    },
+    {
       "iname": "IT_EC_STARQUARTZ",
       "type": 16,
       "rare": 0,
@@ -23953,6 +25083,17 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_EC_MEDAL_GF_7th",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_EC_EXVIUS23_1",
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_EC_MEDAL_CNY21",
       "type": 16,
       "rare": 4,
@@ -24126,6 +25267,76 @@
       "buy": 9999,
       "sell": 500,
       "icon": "IT_EC_MEDAL_W22MOG",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_MEDAL_ADSN_A",
+      "type": 16,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_EC_RAE_GL3",
+      "collaboType": 3,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_ADSN_01",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_G_ADSN_01",
+      "collaboType": 3,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_FFBE7thANV_SP",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_G_FFBE7thANV_SP",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_10_U_UR_03",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_G_UR_10_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_FF5_2_A",
+      "type": 16,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_FF5_2",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_FF5_3_A",
+      "type": 16,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_FF5_3",
+      "collaboType": 1,
       "is_valuables": 1
     },
     {
@@ -24375,6 +25586,17 @@
     },
     {
       "iname": "IT_EC_SUMMON_FES2_04",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_SUMMON_FES2_01",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_SUMMON_FES2_05",
       "type": 16,
       "rare": 0,
       "ac": 9999,
@@ -25598,6 +26820,72 @@
     },
     {
       "iname": "IT_EC_SUMMON_05_VC_04_B",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_SUMMON_06",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_SUMMON_06_VC_04_A",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_SUMMON_06",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_SUMMON_06_U_04_A",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_SUMMON_05",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_SUMMON_06_VC_04_B",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_SUMMON_06",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_SUMMON_06_U_04_B",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_SUMMON_05",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_SUMMON_06_VC_04_C",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_SUMMON_06",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_SUMMON_07_VC_04_A",
       "type": 16,
       "rare": 0,
       "ac": 9999,
@@ -28316,6 +29604,17 @@
       "buy": 9999,
       "sell": 10,
       "icon": "IT_EC_LOG_6",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_LOGIN_GL2307",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_LOG_7",
       "is_valuables": 1
     },
     {
@@ -33132,123 +34431,6 @@
       "piece_exch_rate_iname": "PI_EXCH_VISIONCARD_COM"
     },
     {
-      "iname": "IT_PI_LW_VERN",
-      "type": 1,
-      "rare": 0,
-      "steal": 0,
-      "coin": 30000,
-      "ac": 9999,
-      "mc": 9999,
-      "buy": 30000,
-      "sell": 10,
-      "is_valuables": 1
-    },
-    {
-      "iname": "IT_SP_LW_VERN",
-      "type": 40,
-      "rare": 0,
-      "steal": 0,
-      "coin": 30000,
-      "ac": 9999,
-      "mc": 9999,
-      "buy": 30000,
-      "sell": 10,
-      "is_valuables": 1
-    },
-    {
-      "iname": "IT_JB_MM_SLEN",
-      "type": 34,
-      "rare": 0,
-      "steal": 500,
-      "coin": 10,
-      "ac": 9999,
-      "mc": 9999,
-      "buy": 30000,
-      "sell": 10,
-      "icon": "JB_LW_SLEN"
-    },
-    {
-      "iname": "IT_JB_MM_SLEN_2",
-      "type": 34,
-      "rare": 1,
-      "steal": 500,
-      "coin": 10,
-      "ac": 9999,
-      "mc": 9999,
-      "buy": 30000,
-      "sell": 20,
-      "icon": "JB_LW_SLEN"
-    },
-    {
-      "iname": "IT_JB_MM_SLEN_3",
-      "type": 34,
-      "rare": 2,
-      "steal": 500,
-      "coin": 10,
-      "ac": 9999,
-      "mc": 9999,
-      "buy": 30000,
-      "sell": 50,
-      "icon": "JB_LW_SLEN"
-    },
-    {
-      "iname": "IT_JB_MM_SLEN_4",
-      "type": 34,
-      "rare": 3,
-      "steal": 500,
-      "coin": 10,
-      "ac": 9999,
-      "mc": 9999,
-      "buy": 30000,
-      "sell": 100,
-      "icon": "JB_LW_SLEN"
-    },
-    {
-      "iname": "IT_JB_MM_SLEN_5",
-      "type": 34,
-      "rare": 4,
-      "steal": 500,
-      "coin": 10,
-      "ac": 9999,
-      "mc": 9999,
-      "buy": 30000,
-      "sell": 500,
-      "icon": "JB_LW_SLEN"
-    },
-    {
-      "iname": "IT_PI_LW_SLEN",
-      "type": 1,
-      "rare": 4,
-      "steal": 0,
-      "coin": 30000,
-      "ac": 9999,
-      "mc": 9999,
-      "buy": 30000,
-      "sell": 500,
-      "is_valuables": 1,
-      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
-      "ex_star": {
-        "unlock_rate_id": "UESSR_RATE_UR",
-        "reincarnation_rate_id": "UESSR_RATE_UR"
-      }
-    },
-    {
-      "iname": "IT_SP_LW_SLEN",
-      "type": 40,
-      "rare": 4,
-      "steal": 0,
-      "coin": 30000,
-      "ac": 9999,
-      "mc": 9999,
-      "buy": 30000,
-      "sell": 500,
-      "is_valuables": 1,
-      "spirit_exch_rate_iname": "SP_EXCH_COM_UR",
-      "ex_star": {
-        "exchange_rate_id": "SESR_RATE_UR"
-      }
-    },
-    {
       "iname": "IT_VPI_LW_SLEN",
       "type": 36,
       "rare": 4,
@@ -33982,7 +35164,87 @@
       "piece_exch_rate_iname": "PI_EXCH_VISIONCARD_COM"
     },
     {
+      "iname": "IT_VPI_LW_MCOR",
+      "type": 36,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "is_valuables": 1,
+      "piece_exch_rate_iname": "PI_EXCH_VISIONCARD_COM"
+    },
+    {
       "iname": "IT_VPI_FF6_MV2",
+      "type": 36,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "collaboType": 1,
+      "is_valuables": 1,
+      "piece_exch_rate_iname": "PI_EXCH_VISIONCARD_COM"
+    },
+    {
+      "iname": "IT_VPI_LW_MV3",
+      "type": 36,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "collaboType": 3,
+      "is_valuables": 1,
+      "piece_exch_rate_iname": "PI_EXCH_VISIONCARD_COM"
+    },
+    {
+      "iname": "IT_VPI_LW_MRND_01",
+      "type": 36,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "is_valuables": 1,
+      "piece_exch_rate_iname": "PI_EXCH_VISIONCARD_COM"
+    },
+    {
+      "iname": "IT_VPI_LW_HWLT",
+      "type": 36,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "is_valuables": 1,
+      "piece_exch_rate_iname": "PI_EXCH_VISIONCARD_COM"
+    },
+    {
+      "iname": "IT_VPI_LW_GLEM_01",
+      "type": 36,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "is_valuables": 1,
+      "piece_exch_rate_iname": "PI_EXCH_VISIONCARD_COM"
+    },
+    {
+      "iname": "IT_VPI_FF5_MV1",
       "type": 36,
       "rare": 4,
       "steal": 0,
@@ -34614,6 +35876,17 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_EC_RAID_SP_02",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_RAID_SP",
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_EC_PRS5_4",
       "type": 16,
       "rare": 0,
@@ -34723,6 +35996,18 @@
       "buy": 9999,
       "sell": 10,
       "icon": "IT_EC_RAID_13",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_GL_RAID_02",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_RAE_GL5",
+      "collaboType": 3,
       "is_valuables": 1
     },
     {
@@ -36783,6 +38068,193 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_US_SE_PI_GL_164",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_165",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_166",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_167",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_168",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_169",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_170",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_171",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_172",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_173",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_174",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_175",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_G_U_UR_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_176",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_G_U_UR_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_177",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_178",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_G_U_UR_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_179",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_GL_180",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_US_SE_PI_YT_GL_01",
       "type": 10,
       "rare": 4,
@@ -37256,6 +38728,94 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_US_SE_PI_YT_GL_03",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_SP_MATERIAL_GL_A_01",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_SP_MATERIAL_GL_B_01",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_SP_MATERIAL_GL_C_01",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_SP_MATERIAL_GL_D_01",
+      "type": 10,
+      "rare": 3,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_UR_U_CB_GL_01",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_G_U_UR_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_PI_UR_GL_CB_01",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_SE_TRAINING_ITEM_GL_CB_01",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_US_SE_MS_GL01",
       "type": 10,
       "rare": 4,
@@ -37547,6 +39107,39 @@
       "buy": 9999,
       "sell": 500,
       "icon": "IT_US_SE_UR_V_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_BF_SE_UR_U_02",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_UR_U_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_BF_SE_PI_02",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_BF_SE_MS_02",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
       "is_valuables": 1
     },
     {
@@ -39074,6 +40667,19 @@
       "buy": 30000,
       "sell": 10,
       "icon": "IT_STAMP_02",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_STAMP_2303",
+      "type": 39,
+      "rare": 0,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "icon": "IT_STAMP_03",
       "is_valuables": 1
     },
     {
@@ -40973,6 +42579,98 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_US_G_PU_ADSN",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_G_PU_FT_01",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_PU_ADSN_10",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_G_PU_FT_10",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_PU_DARD",
+      "type": 10,
+      "rare": 1,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 20,
+      "icon": "IT_US_G_PU_FT_01",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_PU_DARD_10",
+      "type": 10,
+      "rare": 1,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 20,
+      "icon": "IT_US_G_PU_FT_10",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_PU_LENA",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_G_FF5_01",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_PU_LENA_10",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_G_FF5_02",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_PU_BATZ",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_G_FF5_01",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_PU_BATZ_10",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_G_FF5_02",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_US_G_FF7R2",
       "type": 10,
       "rare": 4,
@@ -41281,6 +42979,28 @@
     },
     {
       "iname": "IT_US_G_PU_V_REGN",
+      "type": 10,
+      "rare": 1,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 20,
+      "icon": "IT_US_G_PU_FT_01",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_PU_VC_MRND01",
+      "type": 10,
+      "rare": 1,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 20,
+      "icon": "IT_US_G_PU_FT_01",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_PU_VC_HWLT",
       "type": 10,
       "rare": 1,
       "ac": 9999,
@@ -42374,6 +44094,48 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_PT_SKIP_FF6_R_1",
+      "type": 0,
+      "rare": 0,
+      "steal": 0,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "icon": "IT_PT_SKIP_FF6_1",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_PT_BSSKIP_FF6_R_1",
+      "type": 0,
+      "rare": 0,
+      "steal": 0,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "icon": "IT_PT_BSSKIP_FF6_1",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_PT_BOSS_FF6_R_1",
+      "type": 0,
+      "rare": 0,
+      "steal": 0,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "icon": "IT_PT_BOSS_FF6_1",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_EC_FF15_2_A_2",
       "type": 16,
       "rare": 4,
@@ -42427,6 +44189,18 @@
       "mc": 9999,
       "buy": 9999,
       "sell": 10,
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_FF5_1",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_FF5_1",
       "collaboType": 1,
       "is_valuables": 1
     },
@@ -43111,6 +44885,17 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_EC_FF6_R_6",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_EC_P5R_5_A",
       "type": 16,
       "rare": 4,
@@ -43451,30 +45236,6 @@
       "is_valuables": 1
     },
     {
-      "iname": "IT_PI_LW_MCRD",
-      "type": 1,
-      "rare": 0,
-      "steal": 0,
-      "coin": 30000,
-      "ac": 9999,
-      "mc": 9999,
-      "buy": 30000,
-      "sell": 10,
-      "is_valuables": 1
-    },
-    {
-      "iname": "IT_SP_LW_MCRD",
-      "type": 40,
-      "rare": 0,
-      "steal": 0,
-      "coin": 30000,
-      "ac": 9999,
-      "mc": 9999,
-      "buy": 30000,
-      "sell": 10,
-      "is_valuables": 1
-    },
-    {
       "iname": "IT_EC_FFEXU_1",
       "type": 16,
       "rare": 0,
@@ -43554,6 +45315,50 @@
       "buy": 9999,
       "sell": 20,
       "icon": "IT_US_G_PU_10",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_PU_MRND01",
+      "type": 10,
+      "rare": 1,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 20,
+      "icon": "IT_US_G_PU_FT_01",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_PU_MRND01_10",
+      "type": 10,
+      "rare": 1,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 20,
+      "icon": "IT_US_G_PU_FT_10",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_PU_HWLT01",
+      "type": 10,
+      "rare": 1,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 20,
+      "icon": "IT_US_G_PU_FT_01",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_PU_HWLT01_10",
+      "type": 10,
+      "rare": 1,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 20,
+      "icon": "IT_US_G_PU_FT_10",
       "is_valuables": 1
     }
   ]

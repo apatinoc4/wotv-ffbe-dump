@@ -1423,6 +1423,90 @@
       "end_at": "2021/05/25 23:59:59"
     },
     {
+      "iname": "MG_FF5_1_01",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/08/23 23:59:59"
+    },
+    {
+      "iname": "MG_FF5_1_M_01",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/08/23 23:59:59"
+    },
+    {
+      "iname": "MG_FF5_1_02",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/08/23 23:59:59"
+    },
+    {
+      "iname": "MG_FF5_1_03",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/08/23 23:59:59"
+    },
+    {
+      "iname": "MG_MU_FF5_1_02",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/08/23 23:59:59"
+    },
+    {
+      "iname": "MG_FF5_1_04",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/08/23 23:59:59"
+    },
+    {
+      "iname": "MG_MU_FF5_1_03",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/08/23 23:59:59"
+    },
+    {
+      "iname": "MG_FF5_1_05",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/08/23 23:59:59"
+    },
+    {
+      "iname": "MG_MU_FF5_1_04",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/08/23 23:59:59"
+    },
+    {
+      "iname": "MG_FF5_1_06",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/08/23 23:59:59"
+    },
+    {
+      "iname": "MG_MU_FF5_1_05",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/08/23 23:59:59"
+    },
+    {
+      "iname": "MG_ADSN_1_01",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/06/14",
+      "end_at": "2023/07/26 23:59:59"
+    },
+    {
       "iname": "MG_P5R_1_01",
       "type": 2,
       "category": 2,
@@ -1738,6 +1822,48 @@
       "category": 10
     },
     {
+      "iname": "MG_DIAA01_01",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/06/28",
+      "end_at": "2023/07/12 23:59:59"
+    },
+    {
+      "iname": "MG_DIAA01_02",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/06/28",
+      "end_at": "2023/07/12 23:59:59"
+    },
+    {
+      "iname": "MG_MU_DIAA01_01",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/06/28",
+      "end_at": "2023/07/12 23:59:59"
+    },
+    {
+      "iname": "MG_GLZK01_01",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/12",
+      "end_at": "2023/07/26 23:59:59"
+    },
+    {
+      "iname": "MG_GLZK01_02",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/12",
+      "end_at": "2023/07/26 23:59:59"
+    },
+    {
+      "iname": "MG_MU_GLZK01_01",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/12",
+      "end_at": "2023/07/26 23:59:59"
+    },
+    {
       "iname": "MG_FF14_1_01",
       "type": 2,
       "category": 2,
@@ -1771,6 +1897,13 @@
       "category": 2,
       "begin_at": "2022/03/16",
       "end_at": "2022/04/13 23:59:59"
+    },
+    {
+      "iname": "MG_GL_ADSN_CH_01",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/06/14",
+      "end_at": "2023/07/25 23:59:59"
     },
     {
       "iname": "MG_GL_FFT_2_CH_01",
@@ -2311,30 +2444,50 @@
     {
       "iname": "MG_EV_ART_CRF_62",
       "type": 2,
-      "category": 2,
-      "begin_at": "2023/05/24",
-      "end_at": "2023/06/07 23:59:59"
+      "category": 10
     },
     {
       "iname": "MG_MU_ART_CRF_62",
       "type": 2,
-      "category": 2,
-      "begin_at": "2023/05/24",
-      "end_at": "2023/06/07 23:59:59"
+      "category": 10
     },
     {
       "iname": "MG_EV_ART_CRF_63",
       "type": 2,
-      "category": 2,
-      "begin_at": "2023/05/24",
-      "end_at": "2023/06/07 23:59:59"
+      "category": 10
     },
     {
       "iname": "MG_MU_ART_CRF_63",
       "type": 2,
+      "category": 10
+    },
+    {
+      "iname": "MG_EV_ART_CRF_64",
+      "type": 2,
       "category": 2,
-      "begin_at": "2023/05/24",
-      "end_at": "2023/06/07 23:59:59"
+      "begin_at": "2023/06/20 18:30:00",
+      "end_at": "2023/07/05 23:59:59"
+    },
+    {
+      "iname": "MG_MU_ART_CRF_64",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/06/20 18:30:00",
+      "end_at": "2023/07/05 23:59:59"
+    },
+    {
+      "iname": "MG_EV_ART_CRF_65",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/06/20 18:30:00",
+      "end_at": "2023/07/05 23:59:59"
+    },
+    {
+      "iname": "MG_MU_ART_CRF_65",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/06/20 18:30:00",
+      "end_at": "2023/07/05 23:59:59"
     },
     {
       "iname": "MG_GL_NIER_CH_01",
@@ -2624,6 +2777,13 @@
       "end_at": "2023/07/04 23:59:59"
     },
     {
+      "iname": "MG_GL_FF5_CH_01",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/08/22 23:59:59"
+    },
+    {
       "iname": "MG_FF7_1_01",
       "type": 2,
       "category": 2,
@@ -2839,6 +2999,27 @@
       "category": 2,
       "begin_at": "2021/12/01",
       "end_at": "2021/12/29 23:59:59"
+    },
+    {
+      "iname": "MG_PT_FF6_02_1",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/06/14",
+      "end_at": "2023/06/21 17:59:59"
+    },
+    {
+      "iname": "MG_PT_FF6_02_2",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/06/14",
+      "end_at": "2023/06/21 17:59:59"
+    },
+    {
+      "iname": "MG_PT_FF6_02_3",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/06/14",
+      "end_at": "2023/06/21 17:59:59"
     },
     {
       "iname": "MG_FF6_1_01",
@@ -3560,6 +3741,41 @@
       "category": 2,
       "begin_at": "2023/05/31",
       "end_at": "2023/06/13 23:59:59"
+    },
+    {
+      "iname": "MG_GL_LW_SNS_77",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/06/14",
+      "end_at": "2023/06/27 23:59:59"
+    },
+    {
+      "iname": "MG_GL_LW_SNS_78",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/05",
+      "end_at": "2023/07/18 17:59:59"
+    },
+    {
+      "iname": "MG_GL_LW_SNS_79",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/05",
+      "end_at": "2023/07/18 17:59:59"
+    },
+    {
+      "iname": "MG_GL_LW_SNS_80",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/08/01 23:59:59"
+    },
+    {
+      "iname": "MG_GL_LW_SNS_81",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/18 18:30:00",
+      "end_at": "2023/08/01 23:59:59"
     },
     {
       "iname": "MG_EV_SHIV_01",
@@ -4919,6 +5135,13 @@
       "end_at": "2022/08/03 23:59:59"
     },
     {
+      "iname": "MG_MU_RAID_RV_08",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/12",
+      "end_at": "2023/07/19 23:59:59"
+    },
+    {
       "iname": "MG_PT_FF7_01_1",
       "type": 2,
       "category": 2,
@@ -5027,6 +5250,11 @@
       "category": 2
     },
     {
+      "iname": "MG_EV_AST_0205",
+      "type": 2,
+      "category": 2
+    },
+    {
       "iname": "MG_EV_AEX_0101_1",
       "type": 2,
       "category": 2
@@ -5127,6 +5355,16 @@
       "category": 2
     },
     {
+      "iname": "MG_EV_AEX_0205_1",
+      "type": 2,
+      "category": 2
+    },
+    {
+      "iname": "MG_EV_AEX_0205_2",
+      "type": 2,
+      "category": 2
+    },
+    {
       "iname": "MG_MU_AEX_0101_1",
       "type": 2,
       "category": 2
@@ -5223,6 +5461,16 @@
     },
     {
       "iname": "MG_MU_AEX_0204_2",
+      "type": 2,
+      "category": 2
+    },
+    {
+      "iname": "MG_MU_AEX_0205_1",
+      "type": 2,
+      "category": 2
+    },
+    {
+      "iname": "MG_MU_AEX_0205_2",
       "type": 2,
       "category": 2
     },
@@ -5409,37 +5657,27 @@
     {
       "iname": "MG_EV20_1_01",
       "type": 2,
-      "category": 2,
-      "begin_at": "2023/05/10",
-      "end_at": "2023/05/31 23:59:59"
+      "category": 10
     },
     {
       "iname": "MG_EV20_1_02",
       "type": 2,
-      "category": 2,
-      "begin_at": "2023/05/10",
-      "end_at": "2023/05/31 23:59:59"
+      "category": 10
     },
     {
       "iname": "MG_EV20_1_03",
       "type": 2,
-      "category": 2,
-      "begin_at": "2023/05/10",
-      "end_at": "2023/05/31 23:59:59"
+      "category": 10
     },
     {
       "iname": "MG_MU_EV20_1_02",
       "type": 2,
-      "category": 2,
-      "begin_at": "2023/05/10",
-      "end_at": "2023/05/31 23:59:59"
+      "category": 10
     },
     {
       "iname": "MG_MU_EV20_1_03",
       "type": 2,
-      "category": 2,
-      "begin_at": "2023/05/10",
-      "end_at": "2023/05/31 23:59:59"
+      "category": 10
     },
     {
       "iname": "MG_DAILY_002_5",
@@ -8319,6 +8557,55 @@
       "end_at": "2023/06/30 23:59:59"
     },
     {
+      "iname": "MG_MONTHLY_128_1",
+      "type": 2,
+      "category": 3,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59"
+    },
+    {
+      "iname": "MG_MONTHLY_128_2",
+      "type": 2,
+      "category": 3,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59"
+    },
+    {
+      "iname": "MG_MONTHLY_128_3",
+      "type": 2,
+      "category": 4,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59"
+    },
+    {
+      "iname": "MG_MONTHLY_128_4",
+      "type": 2,
+      "category": 4,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59"
+    },
+    {
+      "iname": "MG_MONTHLY_128_5",
+      "type": 2,
+      "category": 5,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59"
+    },
+    {
+      "iname": "MG_MONTHLY_128_6",
+      "type": 2,
+      "category": 6,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59"
+    },
+    {
+      "iname": "MG_MONTHLY_128_7",
+      "type": 2,
+      "category": 6,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59"
+    },
+    {
       "iname": "MG_LAPS_P_LUCA",
       "type": 2,
       "category": 6,
@@ -11194,6 +11481,94 @@
       "begin_at": "2023/06/01",
       "end_at": "2023/06/30 23:59:59",
       "stamp_iname": "STMP_2302"
+    },
+    {
+      "iname": "MG_ST_2303_01",
+      "type": 1,
+      "category": 2,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59",
+      "stamp_iname": "STMP_2303"
+    },
+    {
+      "iname": "MG_ST_2303_02",
+      "type": 2,
+      "category": 6,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59",
+      "stamp_iname": "STMP_2303"
+    },
+    {
+      "iname": "MG_ST_2303_03",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59",
+      "stamp_iname": "STMP_2303"
+    },
+    {
+      "iname": "MG_ST_2303_05",
+      "type": 2,
+      "category": 6,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59",
+      "stamp_iname": "STMP_2303"
+    },
+    {
+      "iname": "MG_ST_2303_06",
+      "type": 2,
+      "category": 3,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59",
+      "stamp_iname": "STMP_2303"
+    },
+    {
+      "iname": "MG_ST_2303_07",
+      "type": 2,
+      "category": 3,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59",
+      "stamp_iname": "STMP_2303"
+    },
+    {
+      "iname": "MG_ST_2303_08",
+      "type": 2,
+      "category": 4,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59",
+      "stamp_iname": "STMP_2303"
+    },
+    {
+      "iname": "MG_ST_2303_09",
+      "type": 2,
+      "category": 4,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59",
+      "stamp_iname": "STMP_2303"
+    },
+    {
+      "iname": "MG_ST_2303_10",
+      "type": 2,
+      "category": 5,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59",
+      "stamp_iname": "STMP_2303"
+    },
+    {
+      "iname": "MG_ST_2303_11",
+      "type": 2,
+      "category": 6,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59",
+      "stamp_iname": "STMP_2303"
+    },
+    {
+      "iname": "MG_ST_2303_12",
+      "type": 2,
+      "category": 6,
+      "begin_at": "2023/07/01",
+      "end_at": "2023/07/31 23:59:59",
+      "stamp_iname": "STMP_2303"
     },
     {
       "iname": "MG_FF14_1_02_ETC",
