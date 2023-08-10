@@ -815,6 +815,72 @@
       "skills": [
         "UESSK_LW_PRAY"
       ]
+    },
+    {
+      "iname": "UESSET_FF5_FRIS",
+      "skills": [
+        "UESSK_FF5_FRIS"
+      ]
+    },
+    {
+      "iname": "UESSET_LW_LYCS",
+      "skills": [
+        "UESSK_LW_LYCS"
+      ]
+    },
+    {
+      "iname": "UESSET_LW_RFAL",
+      "skills": [
+        "UESSK_LW_RFAL"
+      ]
+    },
+    {
+      "iname": "UESSET_LW_RUFF",
+      "skills": [
+        "UESSK_LW_RUFF"
+      ]
+    },
+    {
+      "iname": "UESSET_LW_BYLO",
+      "skills": [
+        "UESSK_LW_BYLO"
+      ]
+    },
+    {
+      "iname": "UESSET_LW_ENBT",
+      "skills": [
+        "UESSK_LW_ENBT"
+      ]
+    },
+    {
+      "iname": "UESSET_LW_SDLE",
+      "skills": [
+        "UESSK_LW_SDLE"
+      ]
+    },
+    {
+      "iname": "UESSET_LW_GRSR_02",
+      "skills": [
+        "UESSK_LW_GRSR_02"
+      ]
+    },
+    {
+      "iname": "UESSET_LW_TREL",
+      "skills": [
+        "UESSK_LW_TREL"
+      ]
+    },
+    {
+      "iname": "UESSET_LW_ELSI",
+      "skills": [
+        "UESSK_LW_ELSI"
+      ]
+    },
+    {
+      "iname": "UESSET_LW_SERL",
+      "skills": [
+        "UESSK_LW_SERL"
+      ]
     }
   ]
 }

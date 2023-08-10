@@ -11297,6 +11297,166 @@
       "value": "Raises MAG/Healing Power/Area Attack Res."
     },
     {
+      "key": "SK_FF5_FRIS_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_FRIS_M_1",
+      "value": "Deals high-accuracy Dmg (L) to targets within range & sequentially activates Syldra's Blessing (recovers a set percentage of HP (S) of allies within area around self)."
+    },
+    {
+      "key": "SK_FF5_FRIS_M_4",
+      "value": "Recovers a set percentage of HP (S) of allies within area around self."
+    },
+    {
+      "key": "SK_FF5_FRIS_M_2",
+      "value": "Raises own DEF Piercing Rate, then deals 3-Hit Dmg (M) to target & sequentially activates Syldra's Roar (raises ATK/MAG/Reaction Block Rate of self and ally for 3 turns)."
+    },
+    {
+      "key": "SK_FF5_FRIS_M_5",
+      "value": "Raises ATK/MAG/Reaction Block Rate of self and ally for 3 turns."
+    },
+    {
+      "key": "SK_FF5_FRIS_M_3",
+      "value": "Raises Slash/Strike Attack Res of allies within area around self for 3 turns & bestows removal of all Buffs from target to own successful attacks for 3 turns."
+    },
+    {
+      "key": "SK_FF5_FRIS_S_1",
+      "value": "Deals Dmg (S) to target & recovers own AP when enemy is KO'd."
+    },
+    {
+      "key": "SK_FF5_FRIS_S_1_AD",
+      "value": "Recovers own AP when enemy is KO'd."
+    },
+    {
+      "key": "SK_FF5_FRIS_S_2",
+      "value": "Raises own Slash Attack/AGI for 3 turns."
+    },
+    {
+      "key": "SK_FF5_FRIS_S_3",
+      "value": "Deals Water Dmg (M) to target & lowers DEF for 3 turns."
+    },
+    {
+      "key": "SK_FF5_FRIS_S_4",
+      "value": "Deals Dmg (M) to target & chance of stealing an item."
+    },
+    {
+      "key": "SK_FF5_FRIS_R_1",
+      "value": "Chance of taking reduced Dmg."
+    },
+    {
+      "key": "SK_FF5_FRIS_P_1",
+      "value": "Raises Slash Attack Res Piercing Rate & raises Area Attack Res when HP is 70% or above."
+    },
+    {
+      "key": "SK_FF5_FRIS_P_2",
+      "value": "Raises AGI & Move +1."
+    },
+    {
+      "key": "SK_FF5_EC_FRIS_EN_A_01",
+      "value": "Bestows status effects (Protect/Shell) on self for 3 turns & additional effect: raises Area Attack Res & lowers AP Consumption while Protect/Shell is in effect."
+    },
+    {
+      "key": "SK_FF5_EC_FRIS_EN_A_01B",
+      "value": "Bestows status effects (Protect/Shell) on self for 3 turns & additional effect: raises Accuracy Rate/Area Attack Res & lowers AP Consumption while Protect/Shell is in effect."
+    },
+    {
+      "key": "SK_FF5_EC_FRIS_C_01",
+      "value": "Enhances Pirate Strike to Pirate Onslaught. Deals high-accuracy Dmg (L) to targets within range & sequentially activates Syldra's Divine Blessing (recovers a set percentage of HP (S) of allies within area around self & recovers own AP)."
+    },
+    {
+      "key": "SK_FF5_EC_FRIS_C_01B",
+      "value": "Deals high-accuracy Dmg (L) to targets within range & sequentially activates Syldra's Divine Blessing (recovers a set percentage of HP (S) of allies within area around self & recovers own AP)."
+    },
+    {
+      "key": "SK_FF5_EC_FRIS_C_01B_B",
+      "value": "Recovers a set percentage of HP (S) of allies within area around self & recovers own AP."
+    },
+    {
+      "key": "SK_FF5_EC_FRIS_C_02",
+      "value": "Enhances Courageous Heart to Heroic Heart. Raises DEF Piercing Rate/Slash Attack Res Piercing Rate & raises Area Attack Res when HP is 70% or above."
+    },
+    {
+      "key": "SK_FF5_EC_FRIS_C_02B",
+      "value": "Raises DEF Piercing Rate/Slash Attack Res Piercing Rate & raises Area Attack Res when HP is 70% or above."
+    },
+    {
+      "key": "SK_LW_RUFF_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_RUFF_M_1",
+      "value": "Bestows a barrier on self that reduces Dmg (3 times) & raises Light/Dark Res for 3 turns."
+    },
+    {
+      "key": "SK_LW_RUFF_M_2",
+      "value": "Lowers ATK/MAG/DEF/SPR of targets within range for 3 turns, then deals 2-Hit Dmg (M) based on caster's MAG stat."
+    },
+    {
+      "key": "SK_LW_RUFF_M_3",
+      "value": "Removes Shell/Courage from target, then deals Dmg (M) based on caster's MAG stat."
+    },
+    {
+      "key": "SK_LW_RUFF_S_1",
+      "value": "Deals Dmg (S) to target based on caster's MAG stat & raises own Healing Power for 3 turns."
+    },
+    {
+      "key": "SK_LW_RUFF_S_2",
+      "value": "Recovers a set percentage of HP (M) when HP falls below 50% when taking damage (1 time) & significantly raises own Debuff Reduction Rate for 3 turns."
+    },
+    {
+      "key": "SK_LW_RUFF_S_2_B",
+      "value": "Recovers a set percentage of own HP (M) when HP falls below 50% (1 time)."
+    },
+    {
+      "key": "SK_LW_RUFF_S_3",
+      "value": "Deals Dmg (M) to targets within range based on caster's MAG stat & chance of inflicting Doom."
+    },
+    {
+      "key": "SK_LW_RUFF_S_4",
+      "value": "Recovers HP (M) of allies within area around self."
+    },
+    {
+      "key": "SK_LW_RUFF_R_1",
+      "value": "Chance of taking reduced Slash Attack Dmg."
+    },
+    {
+      "key": "SK_LW_RUFF_P_1",
+      "value": "Raises Max HP/Hate."
+    },
+    {
+      "key": "SK_LW_RUFF_P_2",
+      "value": "Jump +1 & raises AGI."
+    },
+    {
+      "key": "SK_LW_EC_RUFF_A_01",
+      "value": "Lowers target's Dark Res for 3 turns, then deals Dmg (M) based on caster's MAG stat."
+    },
+    {
+      "key": "SK_LW_EC_RUFF_A_01B",
+      "value": "Lowers target's Dark Res for 3 turns, then deals Dmg (M) based on caster's MAG stat & Guaranteed Hit."
+    },
+    {
+      "key": "SK_LW_EC_RUFF_C_01",
+      "value": "Enhances Darklight Wall to Undying Wall. Bestows a barrier on self that reduces Dmg (3 times) & bestows Reraise, allows unit to automatically recover from KO status once per battle (HP recovery (Min)) & raises Light/Dark Res for 3 turns & raises Area Attack Res for 3 turns after reviving with Reraise."
+    },
+    {
+      "key": "SK_LW_EC_RUFF_C_01B",
+      "value": "Bestows a barrier on self that reduces Dmg (3 times) & bestows Reraise, allows unit to automatically recover from KO status once per battle (HP recovery (Min)) & raises Light/Dark Res for 3 turns & raises Area Attack Res for 3 turns after reviving with Reraise."
+    },
+    {
+      "key": "SK_LW_EC_RUFF_C_01B_B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_RUFF_C_02",
+      "value": "Enhances I Lurk in the Deep Abyss... to I Rule the Eternal Night... Raises Max HP/DEF/Hate."
+    },
+    {
+      "key": "SK_LW_EC_RUFF_C_02B",
+      "value": "Raises Max HP/DEF/Hate."
+    },
+    {
       "key": "SK_BTL_GETSP_1-999_U",
       "value": ""
     },
@@ -11582,7 +11742,7 @@
     },
     {
       "key": "SK_ZUUU_M_01_RA",
-      "value": ""
+      "value": "Raid use, deals (Min) to targets within area around self & no knockback."
     },
     {
       "key": "SK_ZUUU_M_02",
@@ -12363,6 +12523,58 @@
     {
       "key": "SK_GLEM_01_M_04",
       "value": "Deals Earth Dmg (L) to targets within range based on caster's MAG stat & lowers Earth Res for 3 turns."
+    },
+    {
+      "key": "SK_MNTR_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_MNTR_M_01",
+      "value": "Lowers target's DEF for 3 turns, then deals Dmg (M)."
+    },
+    {
+      "key": "SK_MNTR_M_02",
+      "value": "Raises own ATK/DEF for 3 turns."
+    },
+    {
+      "key": "SK_MNTR_M_03",
+      "value": "Deals Dmg (M) to targets within area around self & chance of inflicting Stun for 1 turn."
+    },
+    {
+      "key": "SK_MNTR_M_04",
+      "value": "Deals Dmg (L) to targets within range & 1-panel Knockback."
+    },
+    {
+      "key": "SK_MNTR_M_05",
+      "value": "Deals Fire Dmg (M) to targets within range based on caster's MAG stat & lowers Fire Res/Light Res for 3 turns."
+    },
+    {
+      "key": "SK_MNTR_R_01",
+      "value": "Chance of Counterattack when taking Phys Attack Dmg & raises own ATK for 3 turns."
+    },
+    {
+      "key": "SK_GRDM_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_GRDM_M_01",
+      "value": "Will survive fatal Dmg to self 1 time & additional effect: bestows Haste and raises ATK/MAG while Courage is in effect."
+    },
+    {
+      "key": "SK_GRDM_M_02",
+      "value": "Lowers target's Slash Res for 3 turns, then deals Dmg (S)."
+    },
+    {
+      "key": "SK_GRDM_M_03",
+      "value": "Deals Dmg (M) to targets within range."
+    },
+    {
+      "key": "SK_GRDM_M_04",
+      "value": "Deals set percentage of HP damage to targets within range."
+    },
+    {
+      "key": "SK_GRDM_M_05",
+      "value": "Deals Dmg (L) to targets within range based on caster's MAG stat & removes all Buffs."
     },
     {
       "key": "SK_ODIN_ATK",
@@ -14425,6 +14637,26 @@
       "value": "Chance of Counterattack when taking Dmg & raises Hate of target."
     },
     {
+      "key": "SK_HNET_ATK",
+      "value": "Deals Dmg to target."
+    },
+    {
+      "key": "SK_HNET_M_01",
+      "value": "Deals Dmg (S) to target & chance of inflicting Poison for 3 turns & increased chance of inflicting Poison if target is affected by Berserk."
+    },
+    {
+      "key": "SK_HNET_M_02",
+      "value": "Inflicts Berserk on targets in area around self & significantly lowers Accuracy/lowers Poison Res while Berserk is in effect."
+    },
+    {
+      "key": "SK_HNET_M_03",
+      "value": "Deals Dmg (M) to target & inflicts Stun for 1 turn."
+    },
+    {
+      "key": "SK_HNET_R_01",
+      "value": "Chance of Counterattack when taking Dmg & inflicts Poison for 3 turns."
+    },
+    {
       "key": "SK_LB_LW_MONT",
       "value": "Deals Dmg (L) to targets within range."
     },
@@ -15089,6 +15321,14 @@
       "value": "Recovers HP (L) of allies within range & bestows status effects (Protect/Shell) for 3 turns."
     },
     {
+      "key": "SK_LB_FF5_FRIS",
+      "value": "Raises own DEF Piercing Rate, then deals Dmg (L) to targets within range & halves CT & raises own CT (S)."
+    },
+    {
+      "key": "SK_LB_LW_RUFF",
+      "value": "Deals Dmg (L) to targets within range based on caster's MAG stat & elemental chain effect persists for 1 turn even if target performs an action."
+    },
+    {
       "key": "SK_SMN_IFRT",
       "value": "Evokes Ifrit, deals Fire Dmg (Max) to targets within range & activates temporary Map Effects (raises allies' ATK/MAG & significantly lowers enemies' Fire Res)."
     },
@@ -15331,6 +15571,18 @@
     {
       "key": "SK_SMN_GLEM_01",
       "value": "Evokes Dark Golem, deals Earth Dmg (L) to targets within range based on caster's MAG stat & lowers Earth Res for 3 turns & activates temporary Map Effects (raises allies' ATK/MAG & increases effect for Earth units & significantly lowers enemies' Earth Res)."
+    },
+    {
+      "key": "SK_SMN_FF5_SYDR",
+      "value": "Evokes Syldra, deals Wind Dmg (L) to targets within range & lowers Area Attack Res for 3 turns & activates temporary Map Effects (raises allies' ATK/MAG & increases effect for Wind units & significantly lowers enemies' Wind Res)."
+    },
+    {
+      "key": "SK_SMN_MNTR",
+      "value": "Evokes Minotaur, deals Light Dmg (L) to targets within range & chance of inflicting Stun for 1 turn & activates temporary Map Effects (raises allies' ATK/MAG & increases effect for Light units & significantly lowers enemies' Light Res)."
+    },
+    {
+      "key": "SK_SMN_GRDM",
+      "value": "Evokes Greater Demon, deals Dark Dmg (L) to targets within range based on caster's MAG stat & removes all Buffs & activates temporary Map Effects (raises allies' ATK/MAG & increases effect for Dark units & significantly lowers enemies' Dark Res)."
     },
     {
       "key": "SK_UN_BD_EC_HP_200",
@@ -18541,8 +18793,16 @@
       "value": "Ice Unit Allies' Max HP +10%/Immobilize Res +25, own AP Consumption -15%/Critical Dmg +25%"
     },
     {
+      "key": "SK_MA_LW_MCRD_2",
+      "value": "Ice Unit Allies' Max HP +10%/Immobilize Res +25, own AP Consumption -25%/Critical Dmg +25%/Critical Hit Rate +20/Area Attack Res +10"
+    },
+    {
       "key": "SK_MA_LW_FINA_01",
       "value": "Dark Unit Allies' Max HP +10%/Dark Attack +15, own MAG +10%/Magic Attack Res Piercing Rate +20"
+    },
+    {
+      "key": "SK_MA_LW_FINA_01_2",
+      "value": "Dark Unit Allies' Max HP +10%/Dark Attack +15, own MAG +20%/Magic Attack Res Piercing Rate +20/Unit Attack Res +10/Critical Evasion Rate +20"
     },
     {
       "key": "SK_MA_LW_JEDN_01",
@@ -18699,6 +18959,14 @@
     {
       "key": "SK_MA_FF5_LENA",
       "value": "Wind Unit Allies' Max HP +10%/Wind Attack +15, own Max HP +15%/Activation Time<br>-20%"
+    },
+    {
+      "key": "SK_MA_FF5_FRIS",
+      "value": "Water Unit Allies' Max HP +10%/Water Attack +15, own ATK +10%/Area Attack Res +10"
+    },
+    {
+      "key": "SK_MA_LW_RUFF",
+      "value": "Dark Unit Allies' Max HP +10%/Dark Attack +15, own Area Attack Res +5/Hate +5"
     },
     {
       "key": "SK_UES_FF7_CLUD",
@@ -19613,6 +19881,46 @@
       "value": "Lowers target's Unit Attack Res for 3 turns, then deals Dmg (M) & halves CT & lowers AGI for 3 turns."
     },
     {
+      "key": "SK_UES_LW_LYCS",
+      "value": "Lowers target's Water Res for 3 turns, then deals 2-Hit Dmg (M) based on caster's MAG stat & raises own CT (S) & recovers own AP upon Critical Hit."
+    },
+    {
+      "key": "SK_LW_MSM_EN_A_02_B",
+      "value": "Lowers target's Water Res for 3 turns, then deals 2-Hit Dmg (M) based on caster's MAG stat & raises own CT (S) & recovers own AP upon Critical Hit."
+    },
+    {
+      "key": "SK_UES_LW_RFAL",
+      "value": "Raises own DEF Piercing Rate for 3 turns & removes Reraise from target, then deals Dmg (L)."
+    },
+    {
+      "key": "SK_LW_EC_ASS_A_02_B",
+      "value": "Raises own DEF Piercing Rate for 3 turns & removes Reraise from target, then deals Dmg (L)."
+    },
+    {
+      "key": "SK_UES_LW_RUFF",
+      "value": "Lowers target's Dark Res for 3 turns, then deals Dmg (M) based on caster's MAG stat & Guaranteed Hit."
+    },
+    {
+      "key": "SK_UES_LW_BYLO",
+      "value": "Raises own Max HP/DEF/SPR/Slash Attack Res Piercing Rate/Hate & Bestows Reraise on self, allows unit to automatically recover from KO status once per battle (HP recovery (Full)) & after reviving with Reraise: recovers AP/significantly raises Max HP for 4 turns & recovers the amount of HP raised & significantly raises ATK/AGI/Accuracy Rate for 1 turn. "
+    },
+    {
+      "key": "SK_LW_EC_KNT_C_01C",
+      "value": "Raises own Max HP/DEF/SPR/Slash Attack Res Piercing Rate/Hate & Bestows Reraise on self, allows unit to automatically recover from KO status once per battle (HP recovery (Full)) & after reviving with Reraise: recovers AP/significantly raises Max HP for 4 turns & recovers the amount of HP raised & significantly raises ATK/AGI/Accuracy Rate for 1 turn. "
+    },
+    {
+      "key": "SK_LW_EC_KNT_C_01D_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_KNT_C_01D_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_KNT_C_01D_3",
+      "value": ""
+    },
+    {
       "key": "SK_UES_LW_HLNA_01",
       "value": "Significantly raises MAG & lowers SPR & reduces Activation Time & significantly raises Area Attack Res when HP is 80% or above."
     },
@@ -19687,6 +19995,58 @@
     {
       "key": "SK_UES_FF5_LENA",
       "value": "Bestows Reraise on self and ally, allows unit to automatically recover from KO status once per battle (HP recovery (Min)) & additional effect: raises Earth Res/Elemental Chain Res while Reraise is in effect."
+    },
+    {
+      "key": "SK_UES_FF5_FRIS",
+      "value": "Bestows status effects (Protect/Shell) on self for 3 turns & additional effect: raises Accuracy Rate/Area Attack Res & lowers AP Consumption while Protect/Shell is in effect."
+    },
+    {
+      "key": "SK_UES_LW_ENBT",
+      "value": "Will survive fatal Dmg to self 1 time & increases chance of being targeted & additional effect: nullifies Paralysis/Confusion while Courage is in effect & significantly raises Elemental Chain Res for 3 turns."
+    },
+    {
+      "key": "SK_LW_EC_PLD_C_04C",
+      "value": "Will survive fatal Dmg to self 1 time & increases chance of being targeted & additional effect: nullifies Paralysis/Confusion while Courage is in effect & significantly raises Elemental Chain Res for 3 turns."
+    },
+    {
+      "key": "SK_UES_LW_SDLE",
+      "value": "Bestows Reraise on self and ally, allowing units to automatically recover from KO status once per battle (HP recovery (Min)) & additional effect: raises Unit Attack Res/Critical Evasion Rate while Reraise is in effect & increases ally's chance of being targeted."
+    },
+    {
+      "key": "SK_LW_EC_SDLE_A_01B",
+      "value": "Bestows Reraise on self and ally, allowing units to automatically recover from KO status once per battle (HP recovery (Min)) & additional effect: raises Unit Attack Res/Critical Evasion Rate while Reraise is in effect & increases ally's chance of being targeted."
+    },
+    {
+      "key": "SK_UES_LW_GRSR_02",
+      "value": "Enhances Area Attack Res buff. Raises Area Attack Res/DEF Piercing Rate/Accuracy Rate/Debuff Reduction Rate."
+    },
+    {
+      "key": "SK_LW_EC_GRSR_02_C_01C",
+      "value": "Raises Area Attack Res/DEF Piercing Rate/Accuracy Rate/Debuff Reduction Rate."
+    },
+    {
+      "key": "SK_UES_LW_TREL",
+      "value": "Significantly raises own Debuff Res/Elemental Chain Res & raises DEF Piercing Rate/Healing Power/Max HP for 3 turns & recovers the amount of HP raised."
+    },
+    {
+      "key": "SK_LW_EC_KNT_C_05C",
+      "value": "Significantly raises own Debuff Res/Elemental Chain Res & raises DEF Piercing Rate/Healing Power/Max HP for 3 turns & recovers the amount of HP raised."
+    },
+    {
+      "key": "SK_UES_LW_ELSI",
+      "value": "Removes all Buffs from target, then deals Non-Elemental Dmg (L) to target based on caster's MAG stat & deals significantly greater Dmg if caster is bestowed with Haste/Float & raises own CT (M)."
+    },
+    {
+      "key": "SK_LW_EC_TIM_C_07C",
+      "value": "Removes all Buffs from target, then deals Non-Elemental Dmg (L) to target based on caster's MAG stat & deals significantly greater Dmg if caster is bestowed with Haste/Float & raises own CT (M)."
+    },
+    {
+      "key": "SK_UES_LW_SERL",
+      "value": "Raises Accuracy Rate/DEF Piercing Rate/Slash Attack Res Piercing Rate/Reaction Block Rate."
+    },
+    {
+      "key": "SK_LW_EC_AXD_C_04C",
+      "value": "Raises Accuracy Rate/DEF Piercing Rate/Slash Attack Res Piercing Rate/Reaction Block Rate."
     },
     {
       "key": "SK_UES_LW_FINA",
@@ -21721,6 +22081,46 @@
       "value": "Raises All Attack Res of allies within range for 3 turns."
     },
     {
+      "key": "SK_ARM_LW_STRN_02_1_ARENA",
+      "value": "Bestows Man Eater Upon Phys Attack on self for 3 turns & bestows AP Auto-Restore (S)."
+    },
+    {
+      "key": "SK_ACC_LW_FINA_01_1_ARENA",
+      "value": "Raises own Magic Attack Res Piercing Rate for 3 turns & significantly reduces Activation Time."
+    },
+    {
+      "key": "SK_ACC_LW_ALIA_1_ARENA",
+      "value": "Raises ATK of allies within area around self for 3 turns & nullifies Charm/Stop/Berserk."
+    },
+    {
+      "key": "SK_ACC_LW_HLNA_02_1_ARENA",
+      "value": "Bestow Man Eater Upon Magic Attack to allies within area around self for 3 turns."
+    },
+    {
+      "key": "SK_ACC_LW_RESL_1_ARENA",
+      "value": "Raises own AGI/Area Attack Res for 3 turns."
+    },
+    {
+      "key": "SK_ACC_LW_LVES_01_1ARENA",
+      "value": "Bestows Man Eater Upon Phys Attack to allies within area around self for 3 turns."
+    },
+    {
+      "key": "SK_ACC_LW_IBRA_1_ARENA",
+      "value": "Significantly raises own MAG for 1 turn & Move +1."
+    },
+    {
+      "key": "SK_ACC_LW_PRNE_1_ARENA",
+      "value": "Bestows CT boost (Min) to Critical Hits of allies within area around self for 3 turns."
+    },
+    {
+      "key": "SK_ACC_LW_MONT_01_1_ARENA",
+      "value": "Raises Area Attack Res of allies within area around self for 3 turns."
+    },
+    {
+      "key": "SK_BLT_LW_YERM_1_1_ARENA",
+      "value": "Significantly raises own ATK/Accuracy Rate for 3 turns."
+    },
+    {
       "key": "SK_SWO_LW_ADLD_1_1",
       "value": ""
     },
@@ -21943,6 +22343,14 @@
     {
       "key": "SK_CLT_FF5_LENA_1",
       "value": "Raises MAG/Critical Evasion Rate of allies within area around self for 3 turns."
+    },
+    {
+      "key": "SK_ACC_FF5_FRIS_1",
+      "value": "Raises own Max HP for 3 turns & recovers the amount of HP raised & bestows Haste."
+    },
+    {
+      "key": "SK_ACC_LW_RUFF_1",
+      "value": "Raises own Max HP for 3 turns & recovers the amount of HP raised & raises Jump by 1."
     },
     {
       "key": "SK_VC_LW_GLEM_GS",
@@ -24238,6 +24646,150 @@
     },
     {
       "key": "SK_GL_VC_FF5_MV1_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_SYDR_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_SYDR_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_SYDR_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_SYDR_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_SYDR_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_SYDR_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_SYDR_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_SYDR_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF5_SYDR_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF5_SYDR_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF5_SYDR_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF5_SYDR_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MNTR_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MNTR_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MNTR_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MNTR_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MNTR_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MNTR_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MNTR_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MNTR_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MNTR_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_MNTR_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_MNTR_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_MNTR_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRDM_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRDM_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRDM_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRDM_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRDM_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRDM_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRDM_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRDM_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRDM_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRDM_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRDM_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRDM_PMAX2",
       "value": ""
     },
     {
@@ -31941,6 +32493,14 @@
       "value": "Quest-balancing skill"
     },
     {
+      "key": "SK_BTL_HEAL_HP_01",
+      "value": "Recovers a set percentage of own HP (M) when HP falls below 50% when taking damage (1 time)."
+    },
+    {
+      "key": "SK_BTL_HEAL_HP_01_EN",
+      "value": ""
+    },
+    {
       "key": "SK_GMK_ATK_TEST",
       "value": "Gimmick Provisional Attack"
     },
@@ -32051,6 +32611,18 @@
     {
       "key": "SK_GMK_ATK_POISON",
       "value": ""
+    },
+    {
+      "key": "SK_GMK_ATK_DARK",
+      "value": "Gimmick Attack (Dark Well)"
+    },
+    {
+      "key": "SK_GMK_ATK_DARK_1",
+      "value": "Gimmick HP Recovery (Dark Well)"
+    },
+    {
+      "key": "SK_GMK_ATK_DARK_2",
+      "value": "Gimmick PATK Buff (Dark Well)"
     },
     {
       "key": "SK_LW_WAR_P_2",
@@ -34617,6 +35189,114 @@
       "value": ""
     },
     {
+      "key": "SK_FF5_SWO_001_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_SWO_001_2",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_SWO_001_3",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_SWO_001_4",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_SWO_001_5",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ACC_002_1_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ACC_002_1_2",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ACC_002_1_3",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ACC_002_1_4",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ACC_002_1_5",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ACC_002_2_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ACC_002_2_2",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ACC_002_2_3",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ACC_002_2_4",
+      "value": ""
+    },
+    {
+      "key": "SK_FF5_ACC_002_2_5",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_FIS_016_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_FIS_016_2_B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_FIS_016_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_FIS_016_3_B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_FIS_016_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_FIS_016_4_B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_FIS_016_5",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_FIS_016_5_B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_KAT_004_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_KAT_004_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_KAT_004_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_KAT_004_5",
+      "value": ""
+    },
+    {
       "key": "SK_LW_BOW_014_1",
       "value": ""
     },
@@ -35846,6 +36526,30 @@
     },
     {
       "key": "SK_LW_BOK_011_5",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_MAC_019_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_MAC_019_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_MAC_019_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_MAC_019_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_MAC_019_5",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ACC_109",
       "value": ""
     },
     {

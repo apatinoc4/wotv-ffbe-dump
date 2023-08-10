@@ -869,6 +869,14 @@
       "value": "Ayako Kawasumi"
     },
     {
+      "key": "UN_FF5_P_FRIS",
+      "value": "Rie Tanaka"
+    },
+    {
+      "key": "UN_LW_P_RUFF",
+      "value": "Mariya Ise"
+    },
+    {
       "key": "UN_LW_EMPTI",
       "value": ""
     },
@@ -1417,6 +1425,10 @@
       "value": "Ai Kakuma"
     },
     {
+      "key": "UN_LW_E_REGN",
+      "value": "Akio Otsuka"
+    },
+    {
       "key": "UN_LW_E_ABOT_99",
       "value": ""
     },
@@ -1774,6 +1786,10 @@
     },
     {
       "key": "UN_LW_E_TH_00_HSW",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_TH_00_SSA",
       "value": ""
     },
     {
@@ -2961,6 +2977,26 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_RI_08_AXD",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_RI_08_LLN",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_RI_08_MSM",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_RI_08_HSW",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_RI_08_SSA",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_SYT00_09",
       "value": ""
     },
@@ -3606,6 +3642,22 @@
     },
     {
       "key": "UN_LW_E_GLEM_01_SREN",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_MNTR",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_MNTR_SIREN",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_GRDM",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_GRDM_SREN",
       "value": ""
     },
     {
@@ -5065,6 +5117,42 @@
       "value": ""
     },
     {
+      "key": "UN_FF5_S_SYDR",
+      "value": ""
+    },
+    {
+      "key": "UN_FF5_S_SYDR_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_FF5_S_SYDR_AW2",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_MNTR",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_MNTR_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_MNTR_AW2",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_GRDM",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_GRDM_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_GRDM_AW2",
+      "value": ""
+    },
+    {
       "key": "UN_LW_S_SIRE",
       "value": ""
     },
@@ -5961,6 +6049,10 @@
       "value": ""
     },
     {
+      "key": "UN_GM_ESP0",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_RU_01_WGN",
       "value": ""
     },
@@ -6157,6 +6249,10 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_HNET",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_RI_08_GMK_1",
       "value": ""
     },
@@ -6167,6 +6263,10 @@
     {
       "key": "UN_LW_E_RUFF_99",
       "value": ""
+    },
+    {
+      "key": "UN_LW_E_RUFF_QE",
+      "value": "Mariya Ise"
     },
     {
       "key": "UN_LW_E_PRNE_99",
@@ -6199,6 +6299,10 @@
     {
       "key": "UN_LW_E_DARD_99",
       "value": ""
+    },
+    {
+      "key": "UN_LW_E_DARD_QE",
+      "value": "Hiroki Takahashi"
     },
     {
       "key": "UN_LW_E_DARE",

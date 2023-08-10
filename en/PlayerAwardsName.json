@@ -425,6 +425,18 @@
       "value": "Azure Dragon Cup 2023 Top 50"
     },
     {
+      "key": "LW_PA_00136",
+      "value": "Vermilion Bird Cup 2023 Victor"
+    },
+    {
+      "key": "LW_PA_00137",
+      "value": "Vermilion Bird Cup 2023 Top 10"
+    },
+    {
+      "key": "LW_PA_00138",
+      "value": "Vermilion Bird Cup 2023 Top 50"
+    },
+    {
       "key": "AWD_P_Anniv_1",
       "value": "Celebrating the First Anniversary"
     },
@@ -3877,6 +3889,22 @@
       "value": "Devoted Valkyrie"
     },
     {
+      "key": "LW_PA_CH_202_1",
+      "value": "Raph Fan"
+    },
+    {
+      "key": "LW_PA_CH_202_2",
+      "value": "Raph Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_202_3",
+      "value": "Raph Devotee"
+    },
+    {
+      "key": "LW_PA_CH_202_4",
+      "value": "Self-proclaimed Dark Witch Lurking in the Deep Abyss"
+    },
+    {
       "key": "LW_PA_CH_203_1",
       "value": "Hyoh Fan"
     },
@@ -3939,6 +3967,22 @@
     {
       "key": "LW_PA_CH_206_4",
       "value": "Compassionate Princess"
+    },
+    {
+      "key": "LW_PA_CH_207_1",
+      "value": "Faris Fan"
+    },
+    {
+      "key": "LW_PA_CH_207_2",
+      "value": "Faris Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_207_3",
+      "value": "Faris Devotee"
+    },
+    {
+      "key": "LW_PA_CH_207_4",
+      "value": "The Sea Dragon's Matey"
     },
     {
       "key": "LW_PA_CH_999_1",
@@ -4421,6 +4465,18 @@
       "value": "Achiever of Glory 2023"
     },
     {
+      "key": "AWD_GL_CHAMP_16",
+      "value": "Throneseeker 2023"
+    },
+    {
+      "key": "AWD_GL_CHAMP_17",
+      "value": "Those Who Strive for Glory 2023"
+    },
+    {
+      "key": "AWD_GL_CHAMP_18",
+      "value": "Achiever of Glory 2023"
+    },
+    {
       "key": "AWD_GL_FANMEETING_202306",
       "value": "WOTV LA FAN EVENT 2023 Attendee"
     },
@@ -4475,6 +4531,30 @@
     {
       "key": "AWD_P_FF06_12",
       "value": "What a lovely treasure!"
+    },
+    {
+      "key": "AWD_P_FF05_1",
+      "value": "Wisdom on the Winds"
+    },
+    {
+      "key": "AWD_P_FF05_2",
+      "value": "World Wayfarer"
+    },
+    {
+      "key": "AWD_P_FF05_3",
+      "value": "Explorer's Spirit"
+    },
+    {
+      "key": "AWD_P_FF05_4",
+      "value": "Seeds of Life"
+    },
+    {
+      "key": "AWD_P_FF05_5",
+      "value": "Princess of Tycoon"
+    },
+    {
+      "key": "AWD_P_FF05_6",
+      "value": "Heart of Devotion"
     }
   ]
 }
