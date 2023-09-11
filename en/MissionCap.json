@@ -873,6 +873,38 @@
       "value": "Equipment Training Support Campaign Daily Mission"
     },
     {
+      "key": "MG_EV_ALIA_01",
+      "value": "Snow-White Bride Training Quest"
+    },
+    {
+      "key": "MG_EV_GRSR_03_01",
+      "value": "Steadfast Flower Training Quest"
+    },
+    {
+      "key": "MG_EV_ART_CRF_74",
+      "value": "Equipment Training Quest (Sea Deity's Sword)"
+    },
+    {
+      "key": "MG_EV_ART_CRF_75",
+      "value": "Brutal Difficulty Equipment Training Quest (Sea Deity's Sword)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_74",
+      "value": "[Multi] Equipment Training Quest (Sea Deity's Sword)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_75",
+      "value": "[Multi] Brutal Difficulty Equipment Training Quest (Sea Deity's Sword)"
+    },
+    {
+      "key": "MG_EV_RC_BRD_01",
+      "value": "Avian Hunt Quest"
+    },
+    {
+      "key": "MG_MU_RC_BRD_01",
+      "value": "[Multi] Avian Hunt Quest"
+    },
+    {
       "key": "MG_PT_FF5_01_1",
       "value": "Trials of Reckoning Quest  Normal"
     },
@@ -2318,10 +2350,26 @@
     },
     {
       "key": "MG_GL_LW_SNS_82",
-      "value": "Watch the WOTV FFBE CHAMPIONSHIP 2023 Rundall Cup live on 7/15!"
+      "value": "Watch the WOTV FFBE CHAMPIONSHIP 2023 Wezette Cup live on 8/19!"
     },
     {
       "key": "MG_GL_LW_SNS_83",
+      "value": "Join the official WOTV FFBE CHAMPIONSHIP Discord Server!"
+    },
+    {
+      "key": "MG_GL_LW_SNS_84",
+      "value": "Check Out the Video"
+    },
+    {
+      "key": "MG_GL_LW_SNS_85",
+      "value": "Check Out the PV"
+    },
+    {
+      "key": "MG_GL_LW_SNS_86",
+      "value": "Watch the WOTV FFBE CHAMPIONSHIP 2023 Ovis Cup live on 9/16!"
+    },
+    {
+      "key": "MG_GL_LW_SNS_87",
       "value": "Join the official WOTV FFBE CHAMPIONSHIP Discord Server!"
     },
     {
@@ -3285,6 +3333,10 @@
       "value": "Raid Boss Revival"
     },
     {
+      "key": "MG_MU_RAID_RV_09",
+      "value": "Raid Boss Revival"
+    },
+    {
       "key": "MG_PT_FF7_01_1",
       "value": "Trials of Reckoning Quest  Normal"
     },
@@ -3715,6 +3767,42 @@
     {
       "key": "MG_MU_EV20_1_03",
       "value": "[Multi] Brutal Difficulty Darkness and the Heart [EX]"
+    },
+    {
+      "key": "MG_EV22_1_04",
+      "value": "A Bullet and a Vow [EX2]"
+    },
+    {
+      "key": "MG_EV22_1_05",
+      "value": "Brutal Difficulty A Bullet and a Vow [EX2]"
+    },
+    {
+      "key": "MG_MU_EV22_1_04",
+      "value": "[Multi] A Bullet and a Vow [EX2]"
+    },
+    {
+      "key": "MG_MU_EV22_1_05",
+      "value": "[Multi] Brutal Difficulty A Bullet and a Vow [EX2]"
+    },
+    {
+      "key": "MG_EV22_1_01",
+      "value": "A Bullet and a Vow"
+    },
+    {
+      "key": "MG_EV22_1_02",
+      "value": "A Bullet and a Vow [EX]"
+    },
+    {
+      "key": "MG_EV22_1_03",
+      "value": "Brutal Difficulty A Bullet and a Vow [EX]"
+    },
+    {
+      "key": "MG_MU_EV22_1_02",
+      "value": "[Multi] A Bullet and a Vow [EX]"
+    },
+    {
+      "key": "MG_MU_EV22_1_03",
+      "value": "[Multi] Brutal Difficulty A Bullet and a Vow [EX]"
     },
     {
       "key": "MG_DAILY_002_5",
@@ -5417,6 +5505,34 @@
       "value": "[Monthly Mission] Guild Statues"
     },
     {
+      "key": "MG_MONTHLY_301_1",
+      "value": "[Monthly Mission] Story Quests"
+    },
+    {
+      "key": "MG_MONTHLY_301_2",
+      "value": "[Monthly Mission] Hard Quests"
+    },
+    {
+      "key": "MG_MONTHLY_301_3",
+      "value": "[Monthly Mission] Multi Quests"
+    },
+    {
+      "key": "MG_MONTHLY_301_4",
+      "value": "[Monthly Mission] Wayfarer's Chamber"
+    },
+    {
+      "key": "MG_MONTHLY_301_5",
+      "value": "[Monthly Mission] Arena"
+    },
+    {
+      "key": "MG_MONTHLY_301_6",
+      "value": "[Monthly Mission] Chocobo Expedition"
+    },
+    {
+      "key": "MG_MONTHLY_301_7",
+      "value": "[Monthly Mission] Guild Statues"
+    },
+    {
       "key": "MG_LAPS_P_LUCA",
       "value": "Consume Visiore  Limited Period Bonus"
     },
@@ -6954,6 +7070,50 @@
     },
     {
       "key": "MG_ST_2304_12",
+      "value": "Guild Statues"
+    },
+    {
+      "key": "MG_ST_2305_01",
+      "value": "Daily Missions"
+    },
+    {
+      "key": "MG_ST_2305_02",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2305_03",
+      "value": "Acquire Item (Secret Book of Refinement)"
+    },
+    {
+      "key": "MG_ST_2305_05",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2305_06",
+      "value": "Story Quests"
+    },
+    {
+      "key": "MG_ST_2305_07",
+      "value": "Hard Quest"
+    },
+    {
+      "key": "MG_ST_2305_08",
+      "value": "Multi Quests"
+    },
+    {
+      "key": "MG_ST_2305_09",
+      "value": "Wayfarer's Chamber"
+    },
+    {
+      "key": "MG_ST_2305_10",
+      "value": "Arena"
+    },
+    {
+      "key": "MG_ST_2305_11",
+      "value": "Chocobo Expedition"
+    },
+    {
+      "key": "MG_ST_2305_12",
       "value": "Guild Statues"
     },
     {

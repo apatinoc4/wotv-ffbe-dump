@@ -877,6 +877,18 @@
       "value": "Raph"
     },
     {
+      "key": "UN_LW_P_JEDN_02",
+      "value": "Jayden the Celebrated"
+    },
+    {
+      "key": "UN_LW_P_GRSR_03",
+      "value": "Glaciela (Summer)"
+    },
+    {
+      "key": "UN_LW_P_ALIA_01",
+      "value": "Alaya the Alabaster"
+    },
+    {
       "key": "UN_LW_EMPTI",
       "value": "Dummy Unit"
     },
@@ -994,6 +1006,10 @@
     },
     {
       "key": "UN_LW_E_UMWP",
+      "value": "Realmscourge"
+    },
+    {
+      "key": "UN_LW_E_UMWP_EV",
       "value": "Realmscourge"
     },
     {
@@ -1501,6 +1517,26 @@
       "value": "Rafale"
     },
     {
+      "key": "UN_LW_E_HWLT_01",
+      "value": "Howlet the Heavensblade"
+    },
+    {
+      "key": "UN_LW_E_DIAA_00",
+      "value": "Deah"
+    },
+    {
+      "key": "UN_LW_E_MCRD",
+      "value": "Macleod"
+    },
+    {
+      "key": "UN_LW_E_JEDN_01_R",
+      "value": "Jayden (Summer)"
+    },
+    {
+      "key": "UN_LW_E_HYOO",
+      "value": "Hyoh"
+    },
+    {
       "key": "UN_LW_E_RU_01_THI",
       "value": "Rundall Soldier"
     },
@@ -1602,6 +1638,14 @@
     },
     {
       "key": "UN_LW_E_RU_01_MHA",
+      "value": "Rundall Soldier"
+    },
+    {
+      "key": "UN_LW_E_RU_01_MMC",
+      "value": "Rundall Soldier"
+    },
+    {
+      "key": "UN_LW_E_RU_01_MSM",
       "value": "Rundall Soldier"
     },
     {
@@ -2073,6 +2117,10 @@
       "value": "Leonis Soldier"
     },
     {
+      "key": "UN_LW_E_SO_00_SSA",
+      "value": "Leonis Soldier"
+    },
+    {
       "key": "UN_LW_E_SO_02",
       "value": "Wezette Soldier"
     },
@@ -2174,6 +2222,10 @@
     },
     {
       "key": "UN_LW_E_SO_02_LLN",
+      "value": "Wezette Soldier"
+    },
+    {
+      "key": "UN_LW_E_SO_02_BFI",
       "value": "Wezette Soldier"
     },
     {
@@ -2873,6 +2925,10 @@
       "value": "Heindler Soldier"
     },
     {
+      "key": "UN_LW_E_HY_06_BEA",
+      "value": "Heindler Soldier"
+    },
+    {
       "key": "UN_LW_E_HY_07_BEA",
       "value": "Ovis Soldier"
     },
@@ -3449,6 +3505,10 @@
       "value": "White Marshmallow"
     },
     {
+      "key": "UN_LW_E_CSLI_02_QE",
+      "value": "Flan Princess"
+    },
+    {
       "key": "UN_LW_E_TH_RDM_RV",
       "value": "Bandit"
     },
@@ -3659,6 +3719,18 @@
     {
       "key": "UN_LW_E_GRDM_SREN",
       "value": "Greater Demon"
+    },
+    {
+      "key": "UN_LW_E_SHIV_01",
+      "value": "Dark Shiva"
+    },
+    {
+      "key": "UN_LW_E_SHIV_01_SREN",
+      "value": "Dark Shiva"
+    },
+    {
+      "key": "UN_LW_E_SIRE_01",
+      "value": "Dark Siren"
     },
     {
       "key": "UN_LW_E_ODIN",
@@ -4277,12 +4349,24 @@
       "value": "Sahagin"
     },
     {
+      "key": "UN_LW_E_SHGN_RAID",
+      "value": "Sahagin"
+    },
+    {
       "key": "UN_LW_E_SHGN_01",
       "value": "Sahagin Chief"
     },
     {
       "key": "UN_LW_E_SHGN_02",
       "value": "Demon Sahagin"
+    },
+    {
+      "key": "UN_LW_E_SHGN_03",
+      "value": "Sahagin Prince"
+    },
+    {
+      "key": "UN_LW_E_SHGN_03_RAID",
+      "value": "Sahagin Prince"
     },
     {
       "key": "UN_LW_E_HLDV",
@@ -4418,6 +4502,10 @@
     },
     {
       "key": "UN_LW_E_KRKN_SIREN",
+      "value": "Kraken"
+    },
+    {
+      "key": "UN_LW_E_KRKN_RAID_03",
       "value": "Kraken"
     },
     {
@@ -5151,6 +5239,30 @@
     {
       "key": "UN_LW_S_GRDM_AW2",
       "value": "Greater Demon"
+    },
+    {
+      "key": "UN_LW_S_SHIV_01",
+      "value": "Dark Shiva"
+    },
+    {
+      "key": "UN_LW_S_SHIV_01_AW1",
+      "value": "Dark Shiva"
+    },
+    {
+      "key": "UN_LW_S_SHIV_01_AW2",
+      "value": "Dark Shiva"
+    },
+    {
+      "key": "UN_LW_S_SIRE_01",
+      "value": "Dark Siren"
+    },
+    {
+      "key": "UN_LW_S_SIRE_01_AW1",
+      "value": "Dark Siren"
+    },
+    {
+      "key": "UN_LW_S_SIRE_01_AW2",
+      "value": "Dark Siren"
     },
     {
       "key": "UN_LW_S_SIRE",
@@ -6307,6 +6419,10 @@
     {
       "key": "UN_LW_E_DARE",
       "value": "Endless Void"
+    },
+    {
+      "key": "UN_LW_E_JEDN_02",
+      "value": "Jayden the Celebrated"
     },
     {
       "key": "UN_LW_E_AMNR",

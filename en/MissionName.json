@@ -10621,6 +10621,258 @@
       "value": "Level Up a Specific Vision Card VIII"
     },
     {
+      "key": "CM_PRO_1459",
+      "value": "Level Up a Specific Unit I"
+    },
+    {
+      "key": "CM_PRO_1460",
+      "value": "Limit Break a Specific Unit"
+    },
+    {
+      "key": "CM_PRO_1461",
+      "value": "Level Up a Specific Unit II"
+    },
+    {
+      "key": "CM_PRO_1462",
+      "value": "Level Up a Specific Unit's Job I"
+    },
+    {
+      "key": "CM_PRO_1463",
+      "value": "Level Up a Specific Unit III"
+    },
+    {
+      "key": "CM_PRO_1464",
+      "value": "Level Up a Specific Unit's Job II"
+    },
+    {
+      "key": "CM_PRO_1465",
+      "value": "Level Up a Specific Unit IV"
+    },
+    {
+      "key": "CM_PRO_1466",
+      "value": "Level Up a Specific Unit V"
+    },
+    {
+      "key": "CM_PRO_1467",
+      "value": "Level Up a Specific Unit VI"
+    },
+    {
+      "key": "CM_PRO_GL_V_SHIV_01_01",
+      "value": "Level Up a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_SHIV_01_02",
+      "value": "Level Up a Specific Vision Card II"
+    },
+    {
+      "key": "CM_PRO_GL_V_SHIV_01_03",
+      "value": "Level Up a Specific Vision Card III"
+    },
+    {
+      "key": "CM_PRO_GL_V_SHIV_01_04",
+      "value": "Level Up a Specific Vision Card IV"
+    },
+    {
+      "key": "CM_PRO_GL_V_SHIV_01_05",
+      "value": "Awaken a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_SHIV_01_06",
+      "value": "Level Up a Specific Vision Card V"
+    },
+    {
+      "key": "CM_PRO_GL_V_SHIV_01_07",
+      "value": "Level Up a Specific Vision Card VI"
+    },
+    {
+      "key": "CM_PRO_GL_V_SHIV_01_08",
+      "value": "Level Up a Specific Vision Card VII"
+    },
+    {
+      "key": "CM_PRO_GL_V_SHIV_01_09",
+      "value": "Level Up a Specific Vision Card VIII"
+    },
+    {
+      "key": "CM_PRO_GL_V_SLEN2_01",
+      "value": "Level Up a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_SLEN2_02",
+      "value": "Level Up a Specific Vision Card II"
+    },
+    {
+      "key": "CM_PRO_GL_V_SLEN2_03",
+      "value": "Level Up a Specific Vision Card III"
+    },
+    {
+      "key": "CM_PRO_GL_V_SLEN2_04",
+      "value": "Level Up a Specific Vision Card IV"
+    },
+    {
+      "key": "CM_PRO_GL_V_SLEN2_05",
+      "value": "Awaken a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_SLEN2_06",
+      "value": "Level Up a Specific Vision Card V"
+    },
+    {
+      "key": "CM_PRO_GL_V_SLEN2_07",
+      "value": "Level Up a Specific Vision Card VI"
+    },
+    {
+      "key": "CM_PRO_GL_V_SLEN2_08",
+      "value": "Level Up a Specific Vision Card VII"
+    },
+    {
+      "key": "CM_PRO_GL_V_SLEN2_09",
+      "value": "Level Up a Specific Vision Card VIII"
+    },
+    {
+      "key": "CM_PRO_1522",
+      "value": "Level Up a Specific Unit I"
+    },
+    {
+      "key": "CM_PRO_1523",
+      "value": "Limit Break a Specific Unit"
+    },
+    {
+      "key": "CM_PRO_1524",
+      "value": "Level Up a Specific Unit II"
+    },
+    {
+      "key": "CM_PRO_1525",
+      "value": "Level Up a Specific Unit's Job I"
+    },
+    {
+      "key": "CM_PRO_1526",
+      "value": "Level Up a Specific Unit III"
+    },
+    {
+      "key": "CM_PRO_1527",
+      "value": "Level Up a Specific Unit's Job II"
+    },
+    {
+      "key": "CM_PRO_1528",
+      "value": "Level Up a Specific Unit IV"
+    },
+    {
+      "key": "CM_PRO_1529",
+      "value": "Level Up a Specific Unit V"
+    },
+    {
+      "key": "CM_PRO_1530",
+      "value": "Level Up a Specific Unit VI"
+    },
+    {
+      "key": "CM_PRO_GL_V_GRSR_03_01",
+      "value": "Level Up a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_GRSR_03_02",
+      "value": "Level Up a Specific Vision Card II"
+    },
+    {
+      "key": "CM_PRO_GL_V_GRSR_03_03",
+      "value": "Level Up a Specific Vision Card III"
+    },
+    {
+      "key": "CM_PRO_GL_V_GRSR_03_04",
+      "value": "Level Up a Specific Vision Card IV"
+    },
+    {
+      "key": "CM_PRO_GL_V_GRSR_03_05",
+      "value": "Awaken a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_GRSR_03_06",
+      "value": "Level Up a Specific Vision Card V"
+    },
+    {
+      "key": "CM_PRO_GL_V_GRSR_03_07",
+      "value": "Level Up a Specific Vision Card VI"
+    },
+    {
+      "key": "CM_PRO_GL_V_GRSR_03_08",
+      "value": "Level Up a Specific Vision Card VII"
+    },
+    {
+      "key": "CM_PRO_GL_V_GRSR_03_09",
+      "value": "Level Up a Specific Vision Card VIII"
+    },
+    {
+      "key": "CM_PRO_1477",
+      "value": "Level Up a Specific Unit I"
+    },
+    {
+      "key": "CM_PRO_1478",
+      "value": "Limit Break a Specific Unit"
+    },
+    {
+      "key": "CM_PRO_1479",
+      "value": "Level Up a Specific Unit II"
+    },
+    {
+      "key": "CM_PRO_1480",
+      "value": "Level Up a Specific Unit's Job I"
+    },
+    {
+      "key": "CM_PRO_1481",
+      "value": "Level Up a Specific Unit III"
+    },
+    {
+      "key": "CM_PRO_1482",
+      "value": "Level Up a Specific Unit's Job II"
+    },
+    {
+      "key": "CM_PRO_1483",
+      "value": "Level Up a Specific Unit IV"
+    },
+    {
+      "key": "CM_PRO_1484",
+      "value": "Level Up a Specific Unit V"
+    },
+    {
+      "key": "CM_PRO_1485",
+      "value": "Level Up a Specific Unit VI"
+    },
+    {
+      "key": "CM_PRO_GL_V_SIRE_01_01",
+      "value": "Level Up a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_SIRE_01_02",
+      "value": "Level Up a Specific Vision Card II"
+    },
+    {
+      "key": "CM_PRO_GL_V_SIRE_01_03",
+      "value": "Level Up a Specific Vision Card III"
+    },
+    {
+      "key": "CM_PRO_GL_V_SIRE_01_04",
+      "value": "Level Up a Specific Vision Card IV"
+    },
+    {
+      "key": "CM_PRO_GL_V_SIRE_01_05",
+      "value": "Awaken a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_SIRE_01_06",
+      "value": "Level Up a Specific Vision Card V"
+    },
+    {
+      "key": "CM_PRO_GL_V_SIRE_01_07",
+      "value": "Level Up a Specific Vision Card VI"
+    },
+    {
+      "key": "CM_PRO_GL_V_SIRE_01_08",
+      "value": "Level Up a Specific Vision Card VII"
+    },
+    {
+      "key": "CM_PRO_GL_V_SIRE_01_09",
+      "value": "Level Up a Specific Vision Card VIII"
+    },
+    {
       "key": "GM_0001",
       "value": "Recruit More Guild Members I"
     },
@@ -11991,6 +12243,14 @@
     {
       "key": "M_ST_0303_03_02",
       "value": "Clear Chapter 3, Scene 3 [But, I...]"
+    },
+    {
+      "key": "M_ST_0304_01",
+      "value": "Clear Chapter 4, Scene 1 [To Learn the Truth]"
+    },
+    {
+      "key": "M_ST_0304_01_02",
+      "value": "Clear Chapter 4, Scene 1 [Hunters and the Hunted II]"
     },
     {
       "key": "M_VIP_LOGB_001",
@@ -20358,10 +20618,26 @@
     },
     {
       "key": "M_GL_LW_SNS_82",
-      "value": "Watch the WOTV FFBE CHAMPIONSHIP 2023 Rundall Cup live on 7/15!"
+      "value": "Watch the WOTV FFBE CHAMPIONSHIP 2023 Wezette Cup live on 8/19!"
     },
     {
       "key": "M_GL_LW_SNS_83",
+      "value": "Join the official WOTV FFBE CHAMPIONSHIP Discord Server!"
+    },
+    {
+      "key": "M_GL_LW_SNS_84",
+      "value": "Check Out the Video"
+    },
+    {
+      "key": "M_GL_LW_SNS_85",
+      "value": "Check Out the PV"
+    },
+    {
+      "key": "M_GL_LW_SNS_86",
+      "value": "Watch the WOTV FFBE CHAMPIONSHIP 2023 Ovis Cup live on 9/16!"
+    },
+    {
+      "key": "M_GL_LW_SNS_87",
       "value": "Join the official WOTV FFBE CHAMPIONSHIP Discord Server!"
     },
     {
@@ -22177,6 +22453,54 @@
       "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Candyblade) (3/3)"
     },
     {
+      "key": "M_ART_CRF_74_01",
+      "value": "Clear Equipment Training Quest (Sea Deity's Sword) (1/5)"
+    },
+    {
+      "key": "M_ART_CRF_74_02",
+      "value": "Clear Equipment Training Quest (Sea Deity's Sword) (3/5)"
+    },
+    {
+      "key": "M_ART_CRF_74_03",
+      "value": "Clear Equipment Training Quest (Sea Deity's Sword) (5/5)"
+    },
+    {
+      "key": "M_MU_ARTCRF_74_1",
+      "value": "[Multi] Clear Equipment Training Quest (Sea Deity's Sword) (1/5)"
+    },
+    {
+      "key": "M_MU_ARTCRF_74_2",
+      "value": "[Multi] Clear Equipment Training Quest (Sea Deity's Sword) (3/5)"
+    },
+    {
+      "key": "M_MU_ARTCRF_74_3",
+      "value": "[Multi] Clear Equipment Training Quest (Sea Deity's Sword) (5/5)"
+    },
+    {
+      "key": "M_ART_CRF_75_01",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Sea Deity's Sword) (1/10)"
+    },
+    {
+      "key": "M_ART_CRF_75_02",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Sea Deity's Sword) (3/10)"
+    },
+    {
+      "key": "M_ART_CRF_75_03",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Sea Deity's Sword) (5/10)"
+    },
+    {
+      "key": "M_ART_CRF_75_04",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Sea Deity's Sword) (10/10)"
+    },
+    {
+      "key": "M_MU_ARTCRF_75_1",
+      "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Sea Deity's Sword) (1/3)"
+    },
+    {
+      "key": "M_MU_ARTCRF_75_2",
+      "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Sea Deity's Sword) (3/3)"
+    },
+    {
       "key": "M_GL_ART_CRF_01_01",
       "value": "Clear Equipment Training Quest (Pious Gloves) (1/5)"
     },
@@ -22393,12 +22717,52 @@
       "value": "Clear Nightmare Difficulty Beast Hunt Quest (1/1)"
     },
     {
+      "key": "M_RC_BRD_01_1",
+      "value": "Clear High Difficulty Avian Hunt Quest (1/3)"
+    },
+    {
+      "key": "M_RC_BRD_01_2",
+      "value": "Clear High Difficulty Avian Hunt Quest (3/3)"
+    },
+    {
+      "key": "M_MU_RC_BRD_01_1",
+      "value": "[Multi] Clear High Difficulty Avian Hunt Quest (1/3)"
+    },
+    {
+      "key": "M_MU_RC_BRD_01_2",
+      "value": "[Multi] Clear High Difficulty Avian Hunt Quest (3/3)"
+    },
+    {
+      "key": "M_RC_BRD_02_1",
+      "value": "Clear Brutal Difficulty Avian Hunt Quest (1/3)"
+    },
+    {
+      "key": "M_RC_BRD_02_2",
+      "value": "Clear Brutal Difficulty Avian Hunt Quest (3/3)"
+    },
+    {
+      "key": "M_MU_RC_BRD_02_1",
+      "value": "[Multi] Clear Brutal Difficulty Avian Hunt Quest (1/3)"
+    },
+    {
+      "key": "M_MU_RC_BRD_02_2",
+      "value": "[Multi] Clear Brutal Difficulty Avian Hunt Quest (3/3)"
+    },
+    {
+      "key": "M_RC_BRD_03_1",
+      "value": "Clear Nightmare Difficulty Avian Hunt Quest (1/1)"
+    },
+    {
       "key": "M_P_RC_AWARD_01",
       "value": "Purger of Demonic Presence"
     },
     {
       "key": "M_P_RC_AWARD_02",
       "value": "Hunter of the Beastly Pack"
+    },
+    {
+      "key": "M_P_RC_AWARD_03",
+      "value": "Breaker of Wings"
     },
     {
       "key": "M_EX_ELE_1_1",
@@ -25234,6 +25598,30 @@
     },
     {
       "key": "M_RAID_RV_08_06",
+      "value": "Clear Any Raid Boss Revival (20/20)"
+    },
+    {
+      "key": "M_RAID_RV_09_01",
+      "value": "Clear Any Raid Boss Revival (1/20)"
+    },
+    {
+      "key": "M_RAID_RV_09_02",
+      "value": "Clear Any Raid Boss Revival (3/20)"
+    },
+    {
+      "key": "M_RAID_RV_09_03",
+      "value": "Clear Any Raid Boss Revival (5/20)"
+    },
+    {
+      "key": "M_RAID_RV_09_04",
+      "value": "Clear Any Raid Boss Revival (10/20)"
+    },
+    {
+      "key": "M_RAID_RV_09_05",
+      "value": "Clear Any Raid Boss Revival (15/20)"
+    },
+    {
+      "key": "M_RAID_RV_09_06",
       "value": "Clear Any Raid Boss Revival (20/20)"
     },
     {
@@ -28995,6 +29383,194 @@
     {
       "key": "M_MU_EV20_EX1_02",
       "value": "[Multi] Clear Brutal Difficulty Darkness and the Heart [EX] (3/3)"
+    },
+    {
+      "key": "M_EV22_1_01",
+      "value": "Clear A Bullet and a Vow, Ep. 1 (1/1)"
+    },
+    {
+      "key": "M_EV22_1_02",
+      "value": "Clear A Bullet and a Vow, Ep. 2 (1/1)"
+    },
+    {
+      "key": "M_EV22_1_03",
+      "value": "Clear A Bullet and a Vow, Ep. 3 (1/1)"
+    },
+    {
+      "key": "M_EV22_1_04",
+      "value": "Clear A Bullet and a Vow, Ep. 4 (1/1)"
+    },
+    {
+      "key": "M_EV22_1_05",
+      "value": "Clear A Bullet and a Vow, Ep. 5 (1/1)"
+    },
+    {
+      "key": "M_EV22_1_06",
+      "value": "Clear A Bullet and a Vow, Ep. 6 (1/1)"
+    },
+    {
+      "key": "M_EV22_1_07",
+      "value": "Clear A Bullet and a Vow, Ep. 7 (1/1)"
+    },
+    {
+      "key": "M_EV22_1_08",
+      "value": "Clear A Bullet and a Vow, Ep. 8 (1/1)"
+    },
+    {
+      "key": "M_EV22_1_09",
+      "value": "Clear A Bullet and a Vow, Ep. 9 (1/1)"
+    },
+    {
+      "key": "M_EV22_1_10",
+      "value": "Clear A Bullet and a Vow, Ep. 10 (1/1)"
+    },
+    {
+      "key": "M_EV22_1_11",
+      "value": "Clear any A Bullet and a Vow Quest 3 times (3/20)"
+    },
+    {
+      "key": "M_EV22_1_12",
+      "value": "Clear any A Bullet and a Vow Quest 5 times (5/20)"
+    },
+    {
+      "key": "M_EV22_1_13",
+      "value": "Clear any A Bullet and a Vow Quest 10 times (10/20)"
+    },
+    {
+      "key": "M_EV22_1_14",
+      "value": "Clear any A Bullet and a Vow Quest 15 times (15/20)"
+    },
+    {
+      "key": "M_EV22_1_15",
+      "value": "Clear any A Bullet and a Vow Quest 20 times (20/20)"
+    },
+    {
+      "key": "M_EV22_EX_01",
+      "value": "Clear A Bullet and a Vow [EX] (1/5)"
+    },
+    {
+      "key": "M_EV22_EX_02",
+      "value": "Clear A Bullet and a Vow [EX] (3/5)"
+    },
+    {
+      "key": "M_EV22_EX_03",
+      "value": "Clear A Bullet and a Vow [EX] (5/5)"
+    },
+    {
+      "key": "M_EV22_EX1_01",
+      "value": "Clear Brutal Difficulty A Bullet and a Vow [EX] (1/10)"
+    },
+    {
+      "key": "M_EV22_EX1_02",
+      "value": "Clear Brutal Difficulty A Bullet and a Vow [EX] (3/10)"
+    },
+    {
+      "key": "M_EV22_EX1_03",
+      "value": "Clear Brutal Difficulty A Bullet and a Vow [EX] (5/10)"
+    },
+    {
+      "key": "M_EV22_EX1_04",
+      "value": "Clear Brutal Difficulty A Bullet and a Vow [EX] (10/10)"
+    },
+    {
+      "key": "M_MU_EV22_EX_01",
+      "value": "[Multi] Clear A Bullet and a Vow [EX] (1/5)"
+    },
+    {
+      "key": "M_MU_EV22_EX_02",
+      "value": "[Multi] Clear A Bullet and a Vow [EX] (3/5)"
+    },
+    {
+      "key": "M_MU_EV22_EX_03",
+      "value": "[Multi] Clear A Bullet and a Vow [EX] (5/5)"
+    },
+    {
+      "key": "M_MU_EV22_EX1_01",
+      "value": "[Multi] Clear Brutal Difficulty A Bullet and a Vow [EX] (1/3)"
+    },
+    {
+      "key": "M_MU_EV22_EX1_02",
+      "value": "[Multi] Clear Brutal Difficulty A Bullet and a Vow [EX] (3/3)"
+    },
+    {
+      "key": "M_EV22_EX_2_01",
+      "value": "Clear A Bullet and a Vow [EX2] (1/5)"
+    },
+    {
+      "key": "M_EV22_EX_2_02",
+      "value": "Clear A Bullet and a Vow [EX2] (3/5)"
+    },
+    {
+      "key": "M_EV22_EX_2_03",
+      "value": "Clear A Bullet and a Vow [EX2] (5/5)"
+    },
+    {
+      "key": "M_EV22_EX2_01",
+      "value": "Clear Brutal Difficulty A Bullet and a Vow [EX2] (1/10)"
+    },
+    {
+      "key": "M_EV22_EX2_02",
+      "value": "Clear Brutal Difficulty A Bullet and a Vow [EX2] (3/10)"
+    },
+    {
+      "key": "M_EV22_EX2_03",
+      "value": "Clear Brutal Difficulty A Bullet and a Vow [EX2] (5/10)"
+    },
+    {
+      "key": "M_EV22_EX2_04",
+      "value": "Clear Brutal Difficulty A Bullet and a Vow [EX2] (10/10)"
+    },
+    {
+      "key": "M_MU_EV22_EX2_01",
+      "value": "[Multi] Clear A Bullet and a Vow [EX2] (1/5)"
+    },
+    {
+      "key": "M_MU_EV22_EX2_02",
+      "value": "[Multi] Clear A Bullet and a Vow [EX2] (3/5)"
+    },
+    {
+      "key": "M_MU_EV22_EX2_03",
+      "value": "[Multi] Clear A Bullet and a Vow [EX2] (5/5)"
+    },
+    {
+      "key": "M_MU_EV22_EX2_04",
+      "value": "[Multi] Clear Brutal Difficulty A Bullet and a Vow [EX2] (1/3)"
+    },
+    {
+      "key": "M_MU_EV22_EX2_05",
+      "value": "[Multi] Clear Brutal Difficulty A Bullet and a Vow [EX2] (3/3)"
+    },
+    {
+      "key": "M_EV_ALIA_01_01",
+      "value": "Complete Quest Missions for the Snow-White Bride Training Quest (1/4)"
+    },
+    {
+      "key": "M_EV_ALIA_01_02",
+      "value": "Complete Quest Missions for the Snow-White Bride Training Quest (2/4)"
+    },
+    {
+      "key": "M_EV_ALIA_01_03",
+      "value": "Complete Quest Missions for the Snow-White Bride Training Quest (3/4)"
+    },
+    {
+      "key": "M_EV_ALIA_01_04",
+      "value": "Complete Quest Missions for the Snow-White Bride Training Quest (4/4)"
+    },
+    {
+      "key": "M_EV_GRSR_03_01",
+      "value": "Complete Quest Missions for the Steadfast Flower Training Quest (1/4)"
+    },
+    {
+      "key": "M_EV_GRSR_03_02",
+      "value": "Complete Quest Missions for the Steadfast Flower Training Quest (2/4)"
+    },
+    {
+      "key": "M_EV_GRSR_03_03",
+      "value": "Complete Quest Missions for the Steadfast Flower Training Quest (3/4)"
+    },
+    {
+      "key": "M_EV_GRSR_03_04",
+      "value": "Complete Quest Missions for the Steadfast Flower Training Quest (4/4)"
     },
     {
       "key": "M_EV04_1_01",
@@ -56157,6 +56733,550 @@
       "value": "Make Your Guild Statues Shine  Mission 20"
     },
     {
+      "key": "M_MONTHLY_5605",
+      "value": "Conquer Story Quests  Mission 1"
+    },
+    {
+      "key": "M_MONTHLY_5606",
+      "value": "Conquer Story Quests  Mission 2"
+    },
+    {
+      "key": "M_MONTHLY_5607",
+      "value": "Conquer Story Quests  Mission 3"
+    },
+    {
+      "key": "M_MONTHLY_5608",
+      "value": "Conquer Story Quests  Mission 4"
+    },
+    {
+      "key": "M_MONTHLY_5609",
+      "value": "Conquer Story Quests  Mission 5"
+    },
+    {
+      "key": "M_MONTHLY_5610",
+      "value": "Conquer Story Quests  Mission 6"
+    },
+    {
+      "key": "M_MONTHLY_5611",
+      "value": "Conquer Story Quests  Mission 7"
+    },
+    {
+      "key": "M_MONTHLY_5612",
+      "value": "Conquer Story Quests  Mission 8"
+    },
+    {
+      "key": "M_MONTHLY_5613",
+      "value": "Conquer Story Quests  Mission 9"
+    },
+    {
+      "key": "M_MONTHLY_5614",
+      "value": "Conquer Story Quests  Mission 10"
+    },
+    {
+      "key": "M_MONTHLY_5615",
+      "value": "Conquer Story Quests  Mission 11"
+    },
+    {
+      "key": "M_MONTHLY_5616",
+      "value": "Conquer Story Quests  Mission 12"
+    },
+    {
+      "key": "M_MONTHLY_5617",
+      "value": "Conquer Story Quests  Mission 13"
+    },
+    {
+      "key": "M_MONTHLY_5618",
+      "value": "Conquer Story Quests  Mission 14"
+    },
+    {
+      "key": "M_MONTHLY_5619",
+      "value": "Conquer Story Quests  Mission 15"
+    },
+    {
+      "key": "M_MONTHLY_5620",
+      "value": "Conquer Story Quests  Mission 16"
+    },
+    {
+      "key": "M_MONTHLY_5621",
+      "value": "Conquer Story Quests  Mission 17"
+    },
+    {
+      "key": "M_MONTHLY_5622",
+      "value": "Conquer Story Quests  Mission 18"
+    },
+    {
+      "key": "M_MONTHLY_5623",
+      "value": "Conquer Story Quests  Mission 19"
+    },
+    {
+      "key": "M_MONTHLY_5624",
+      "value": "Conquer Story Quests  Mission 20"
+    },
+    {
+      "key": "M_MONTHLY_5625",
+      "value": "Conquer Hard Quests  Mission 1"
+    },
+    {
+      "key": "M_MONTHLY_5626",
+      "value": "Conquer Hard Quests  Mission 2"
+    },
+    {
+      "key": "M_MONTHLY_5627",
+      "value": "Conquer Hard Quests  Mission 3"
+    },
+    {
+      "key": "M_MONTHLY_5628",
+      "value": "Conquer Hard Quests  Mission 4"
+    },
+    {
+      "key": "M_MONTHLY_5629",
+      "value": "Conquer Hard Quests  Mission 5"
+    },
+    {
+      "key": "M_MONTHLY_5630",
+      "value": "Conquer Hard Quests  Mission 6"
+    },
+    {
+      "key": "M_MONTHLY_5631",
+      "value": "Conquer Hard Quests  Mission 7"
+    },
+    {
+      "key": "M_MONTHLY_5632",
+      "value": "Conquer Hard Quests  Mission 8"
+    },
+    {
+      "key": "M_MONTHLY_5633",
+      "value": "Conquer Hard Quests  Mission 9"
+    },
+    {
+      "key": "M_MONTHLY_5634",
+      "value": "Conquer Hard Quests  Mission 10"
+    },
+    {
+      "key": "M_MONTHLY_5635",
+      "value": "Conquer Hard Quests  Mission 11"
+    },
+    {
+      "key": "M_MONTHLY_5636",
+      "value": "Conquer Hard Quests  Mission 12"
+    },
+    {
+      "key": "M_MONTHLY_5637",
+      "value": "Conquer Hard Quests  Mission 13"
+    },
+    {
+      "key": "M_MONTHLY_5638",
+      "value": "Conquer Hard Quests  Mission 14"
+    },
+    {
+      "key": "M_MONTHLY_5639",
+      "value": "Conquer Hard Quests  Mission 15"
+    },
+    {
+      "key": "M_MONTHLY_5640",
+      "value": "Conquer Hard Quests  Mission 16"
+    },
+    {
+      "key": "M_MONTHLY_5641",
+      "value": "Conquer Hard Quests  Mission 17"
+    },
+    {
+      "key": "M_MONTHLY_5642",
+      "value": "Conquer Hard Quests  Mission 18"
+    },
+    {
+      "key": "M_MONTHLY_5643",
+      "value": "Conquer Hard Quests  Mission 19"
+    },
+    {
+      "key": "M_MONTHLY_5644",
+      "value": "Conquer Multi Quests  Mission 1"
+    },
+    {
+      "key": "M_MONTHLY_5645",
+      "value": "Conquer Multi Quests  Mission 2"
+    },
+    {
+      "key": "M_MONTHLY_5646",
+      "value": "Conquer Multi Quests  Mission 3"
+    },
+    {
+      "key": "M_MONTHLY_5647",
+      "value": "Conquer Multi Quests  Mission 4"
+    },
+    {
+      "key": "M_MONTHLY_5648",
+      "value": "Conquer Multi Quests  Mission 5"
+    },
+    {
+      "key": "M_MONTHLY_5649",
+      "value": "Conquer Multi Quests  Mission 6"
+    },
+    {
+      "key": "M_MONTHLY_5650",
+      "value": "Conquer Multi Quests  Mission 7"
+    },
+    {
+      "key": "M_MONTHLY_5651",
+      "value": "Conquer Multi Quests  Mission 8"
+    },
+    {
+      "key": "M_MONTHLY_5652",
+      "value": "Conquer Multi Quests  Mission 9"
+    },
+    {
+      "key": "M_MONTHLY_5653",
+      "value": "Conquer Multi Quests  Mission 10"
+    },
+    {
+      "key": "M_MONTHLY_5654",
+      "value": "Conquer Multi Quests  Mission 11"
+    },
+    {
+      "key": "M_MONTHLY_5655",
+      "value": "Conquer Multi Quests  Mission 12"
+    },
+    {
+      "key": "M_MONTHLY_5656",
+      "value": "Conquer Multi Quests  Mission 13"
+    },
+    {
+      "key": "M_MONTHLY_5657",
+      "value": "Conquer Multi Quests  Mission 14"
+    },
+    {
+      "key": "M_MONTHLY_5658",
+      "value": "Conquer Multi Quests  Mission 15"
+    },
+    {
+      "key": "M_MONTHLY_5659",
+      "value": "Conquer Multi Quests  Mission 16"
+    },
+    {
+      "key": "M_MONTHLY_5660",
+      "value": "Conquer Multi Quests  Mission 17"
+    },
+    {
+      "key": "M_MONTHLY_5661",
+      "value": "Conquer Multi Quests  Mission 18"
+    },
+    {
+      "key": "M_MONTHLY_5662",
+      "value": "Conquer Multi Quests  Mission 19"
+    },
+    {
+      "key": "M_MONTHLY_5663",
+      "value": "Conquer Multi Quests  Mission 20"
+    },
+    {
+      "key": "M_MONTHLY_5664",
+      "value": "Conquer the Wayfarer's Chamber  Mission 1"
+    },
+    {
+      "key": "M_MONTHLY_5665",
+      "value": "Conquer the Wayfarer's Chamber  Mission 2"
+    },
+    {
+      "key": "M_MONTHLY_5666",
+      "value": "Conquer the Wayfarer's Chamber  Mission 3"
+    },
+    {
+      "key": "M_MONTHLY_5667",
+      "value": "Conquer the Wayfarer's Chamber  Mission 4"
+    },
+    {
+      "key": "M_MONTHLY_5668",
+      "value": "Conquer the Wayfarer's Chamber  Mission 5"
+    },
+    {
+      "key": "M_MONTHLY_5669",
+      "value": "Conquer the Wayfarer's Chamber  Mission 6"
+    },
+    {
+      "key": "M_MONTHLY_5670",
+      "value": "Conquer the Wayfarer's Chamber  Mission 7"
+    },
+    {
+      "key": "M_MONTHLY_5671",
+      "value": "Conquer the Wayfarer's Chamber  Mission 8"
+    },
+    {
+      "key": "M_MONTHLY_5672",
+      "value": "Conquer the Wayfarer's Chamber  Mission 9"
+    },
+    {
+      "key": "M_MONTHLY_5673",
+      "value": "Conquer the Wayfarer's Chamber  Mission 10"
+    },
+    {
+      "key": "M_MONTHLY_5674",
+      "value": "Conquer the Wayfarer's Chamber  Mission 11"
+    },
+    {
+      "key": "M_MONTHLY_5675",
+      "value": "Conquer the Wayfarer's Chamber  Mission 12"
+    },
+    {
+      "key": "M_MONTHLY_5676",
+      "value": "Conquer the Wayfarer's Chamber  Mission 13"
+    },
+    {
+      "key": "M_MONTHLY_5677",
+      "value": "Conquer the Wayfarer's Chamber  Mission 14"
+    },
+    {
+      "key": "M_MONTHLY_5678",
+      "value": "Conquer the Wayfarer's Chamber  Mission 15"
+    },
+    {
+      "key": "M_MONTHLY_5679",
+      "value": "Conquer the Wayfarer's Chamber  Mission 16"
+    },
+    {
+      "key": "M_MONTHLY_5680",
+      "value": "Conquer the Wayfarer's Chamber  Mission 17"
+    },
+    {
+      "key": "M_MONTHLY_5681",
+      "value": "Conquer the Wayfarer's Chamber  Mission 18"
+    },
+    {
+      "key": "M_MONTHLY_5682",
+      "value": "Conquer the Wayfarer's Chamber  Mission 19"
+    },
+    {
+      "key": "M_MONTHLY_5683",
+      "value": "Conquer the Wayfarer's Chamber  Mission 20"
+    },
+    {
+      "key": "M_MONTHLY_5684",
+      "value": "Conquer the Arena  Mission 1"
+    },
+    {
+      "key": "M_MONTHLY_5685",
+      "value": "Conquer the Arena  Mission 2"
+    },
+    {
+      "key": "M_MONTHLY_5686",
+      "value": "Conquer the Arena  Mission 3"
+    },
+    {
+      "key": "M_MONTHLY_5687",
+      "value": "Conquer the Arena  Mission 4"
+    },
+    {
+      "key": "M_MONTHLY_5688",
+      "value": "Conquer the Arena  Mission 5"
+    },
+    {
+      "key": "M_MONTHLY_5689",
+      "value": "Conquer the Arena  Mission 6"
+    },
+    {
+      "key": "M_MONTHLY_5690",
+      "value": "Conquer the Arena  Mission 7"
+    },
+    {
+      "key": "M_MONTHLY_5691",
+      "value": "Conquer the Arena  Mission 8"
+    },
+    {
+      "key": "M_MONTHLY_5692",
+      "value": "Conquer the Arena  Mission 9"
+    },
+    {
+      "key": "M_MONTHLY_5693",
+      "value": "Conquer the Arena  Mission 10"
+    },
+    {
+      "key": "M_MONTHLY_5694",
+      "value": "Conquer the Arena  Mission 11"
+    },
+    {
+      "key": "M_MONTHLY_5695",
+      "value": "Conquer the Arena  Mission 12"
+    },
+    {
+      "key": "M_MONTHLY_5696",
+      "value": "Conquer the Arena  Mission 13"
+    },
+    {
+      "key": "M_MONTHLY_5697",
+      "value": "Conquer the Arena  Mission 14"
+    },
+    {
+      "key": "M_MONTHLY_5698",
+      "value": "Conquer the Arena  Mission 15"
+    },
+    {
+      "key": "M_MONTHLY_5699",
+      "value": "Conquer the Arena  Mission 16"
+    },
+    {
+      "key": "M_MONTHLY_5700",
+      "value": "Conquer the Arena  Mission 17"
+    },
+    {
+      "key": "M_MONTHLY_5701",
+      "value": "Conquer the Arena  Mission 18"
+    },
+    {
+      "key": "M_MONTHLY_5702",
+      "value": "Conquer the Arena  Mission 19"
+    },
+    {
+      "key": "M_MONTHLY_5703",
+      "value": "Conquer the Arena  Mission 20"
+    },
+    {
+      "key": "M_MONTHLY_5704",
+      "value": "Conquer the Arena  Mission 21"
+    },
+    {
+      "key": "M_MONTHLY_5705",
+      "value": "Give Your Chocobos a Workout  Mission 1"
+    },
+    {
+      "key": "M_MONTHLY_5706",
+      "value": "Give Your Chocobos a Workout  Mission 2"
+    },
+    {
+      "key": "M_MONTHLY_5707",
+      "value": "Give Your Chocobos a Workout  Mission 3"
+    },
+    {
+      "key": "M_MONTHLY_5708",
+      "value": "Give Your Chocobos a Workout  Mission 4"
+    },
+    {
+      "key": "M_MONTHLY_5709",
+      "value": "Give Your Chocobos a Workout  Mission 5"
+    },
+    {
+      "key": "M_MONTHLY_5710",
+      "value": "Give Your Chocobos a Workout  Mission 6"
+    },
+    {
+      "key": "M_MONTHLY_5711",
+      "value": "Give Your Chocobos a Workout  Mission 7"
+    },
+    {
+      "key": "M_MONTHLY_5712",
+      "value": "Give Your Chocobos a Workout  Mission 8"
+    },
+    {
+      "key": "M_MONTHLY_5713",
+      "value": "Give Your Chocobos a Workout  Mission 9"
+    },
+    {
+      "key": "M_MONTHLY_5714",
+      "value": "Give Your Chocobos a Workout  Mission 10"
+    },
+    {
+      "key": "M_MONTHLY_5715",
+      "value": "Give Your Chocobos a Workout  Mission 11"
+    },
+    {
+      "key": "M_MONTHLY_5716",
+      "value": "Give Your Chocobos a Workout  Mission 12"
+    },
+    {
+      "key": "M_MONTHLY_5717",
+      "value": "Give Your Chocobos a Workout  Mission 13"
+    },
+    {
+      "key": "M_MONTHLY_5718",
+      "value": "Give Your Chocobos a Workout  Mission 14"
+    },
+    {
+      "key": "M_MONTHLY_5719",
+      "value": "Give Your Chocobos a Workout  Mission 15"
+    },
+    {
+      "key": "M_MONTHLY_5720",
+      "value": "Give Your Chocobos a Workout  Mission 16"
+    },
+    {
+      "key": "M_MONTHLY_5721",
+      "value": "Give Your Chocobos a Workout  Mission 17"
+    },
+    {
+      "key": "M_MONTHLY_5722",
+      "value": "Make Your Guild Statues Shine  Mission 1"
+    },
+    {
+      "key": "M_MONTHLY_5723",
+      "value": "Make Your Guild Statues Shine  Mission 2"
+    },
+    {
+      "key": "M_MONTHLY_5724",
+      "value": "Make Your Guild Statues Shine  Mission 3"
+    },
+    {
+      "key": "M_MONTHLY_5725",
+      "value": "Make Your Guild Statues Shine  Mission 4"
+    },
+    {
+      "key": "M_MONTHLY_5726",
+      "value": "Make Your Guild Statues Shine  Mission 5"
+    },
+    {
+      "key": "M_MONTHLY_5727",
+      "value": "Make Your Guild Statues Shine  Mission 6"
+    },
+    {
+      "key": "M_MONTHLY_5728",
+      "value": "Make Your Guild Statues Shine  Mission 7"
+    },
+    {
+      "key": "M_MONTHLY_5729",
+      "value": "Make Your Guild Statues Shine  Mission 8"
+    },
+    {
+      "key": "M_MONTHLY_5730",
+      "value": "Make Your Guild Statues Shine  Mission 9"
+    },
+    {
+      "key": "M_MONTHLY_5731",
+      "value": "Make Your Guild Statues Shine  Mission 10"
+    },
+    {
+      "key": "M_MONTHLY_5732",
+      "value": "Make Your Guild Statues Shine  Mission 11"
+    },
+    {
+      "key": "M_MONTHLY_5733",
+      "value": "Make Your Guild Statues Shine  Mission 12"
+    },
+    {
+      "key": "M_MONTHLY_5734",
+      "value": "Make Your Guild Statues Shine  Mission 13"
+    },
+    {
+      "key": "M_MONTHLY_5735",
+      "value": "Make Your Guild Statues Shine  Mission 14"
+    },
+    {
+      "key": "M_MONTHLY_5736",
+      "value": "Make Your Guild Statues Shine  Mission 15"
+    },
+    {
+      "key": "M_MONTHLY_5737",
+      "value": "Make Your Guild Statues Shine  Mission 16"
+    },
+    {
+      "key": "M_MONTHLY_5738",
+      "value": "Make Your Guild Statues Shine  Mission 17"
+    },
+    {
+      "key": "M_MONTHLY_5739",
+      "value": "Make Your Guild Statues Shine  Mission 18"
+    },
+    {
+      "key": "M_MONTHLY_5740",
+      "value": "Make Your Guild Statues Shine  Mission 19"
+    },
+    {
       "key": "M_LAPS_P_LUCA_01",
       "value": "Consume Visiore  Limited Period Bonus 01"
     },
@@ -63877,6 +64997,222 @@
       "value": "Make Your Guild Statues Shine  Mission 5"
     },
     {
+      "key": "M_ST_2305_0001",
+      "value": "[Daily Missions] Progression Rewards Acquisition Mission"
+    },
+    {
+      "key": "M_ST_2305_0002",
+      "value": "Maximize an Equipment Item Stat  Mission 1"
+    },
+    {
+      "key": "M_ST_2305_0003",
+      "value": "Maximize an Equipment Item Stat  Mission 2"
+    },
+    {
+      "key": "M_ST_2305_0004",
+      "value": "Maximize an Equipment Item Stat  Mission 3"
+    },
+    {
+      "key": "M_ST_2305_0005",
+      "value": "Maximize an Equipment Item Stat  Mission 4"
+    },
+    {
+      "key": "M_ST_2305_0006",
+      "value": "Maximize an Equipment Item Stat  Mission 5"
+    },
+    {
+      "key": "M_ST_2305_0007",
+      "value": "Acquire Secret Books of Refinement  Mission 1"
+    },
+    {
+      "key": "M_ST_2305_0008",
+      "value": "Acquire Secret Books of Refinement  Mission 2"
+    },
+    {
+      "key": "M_ST_2305_0009",
+      "value": "Acquire Secret Books of Refinement  Mission 3"
+    },
+    {
+      "key": "M_ST_2305_0010",
+      "value": "Acquire Secret Books of Refinement  Mission 4"
+    },
+    {
+      "key": "M_ST_2305_0011",
+      "value": "Acquire Secret Books of Refinement  Mission 5"
+    },
+    {
+      "key": "M_ST_2305_0012",
+      "value": "Acquire Secret Books of Refinement  Mission 6"
+    },
+    {
+      "key": "M_ST_2305_0013",
+      "value": "Acquire Secret Books of Refinement  Mission 7"
+    },
+    {
+      "key": "M_ST_2305_0021",
+      "value": "Craft Equipment Items  Mission 1"
+    },
+    {
+      "key": "M_ST_2305_0022",
+      "value": "Craft Equipment Items  Mission 2"
+    },
+    {
+      "key": "M_ST_2305_0023",
+      "value": "Craft Equipment Items  Mission 3"
+    },
+    {
+      "key": "M_ST_2305_0024",
+      "value": "Craft Equipment Items  Mission 4"
+    },
+    {
+      "key": "M_ST_2305_0025",
+      "value": "Craft Equipment Items  Mission 5"
+    },
+    {
+      "key": "M_ST_2305_0026",
+      "value": "Craft Equipment Items  Mission 6"
+    },
+    {
+      "key": "M_ST_2305_0027",
+      "value": "Conquer Story Quests  Mission 1"
+    },
+    {
+      "key": "M_ST_2305_0028",
+      "value": "Conquer Story Quests  Mission 2"
+    },
+    {
+      "key": "M_ST_2305_0029",
+      "value": "Conquer Story Quests  Mission 3"
+    },
+    {
+      "key": "M_ST_2305_0030",
+      "value": "Conquer Story Quests  Mission 4"
+    },
+    {
+      "key": "M_ST_2305_0031",
+      "value": "Conquer Story Quests  Mission 5"
+    },
+    {
+      "key": "M_ST_2305_0032",
+      "value": "Conquer Hard Quests  Mission 1"
+    },
+    {
+      "key": "M_ST_2305_0033",
+      "value": "Conquer Hard Quests  Mission 2"
+    },
+    {
+      "key": "M_ST_2305_0034",
+      "value": "Conquer Hard Quests  Mission 3"
+    },
+    {
+      "key": "M_ST_2305_0035",
+      "value": "Conquer Hard Quests  Mission 4"
+    },
+    {
+      "key": "M_ST_2305_0036",
+      "value": "Conquer Hard Quests  Mission 5"
+    },
+    {
+      "key": "M_ST_2305_0037",
+      "value": "Conquer Multi Quests  Mission 1"
+    },
+    {
+      "key": "M_ST_2305_0038",
+      "value": "Conquer Multi Quests  Mission 2"
+    },
+    {
+      "key": "M_ST_2305_0039",
+      "value": "Conquer Multi Quests  Mission 3"
+    },
+    {
+      "key": "M_ST_2305_0040",
+      "value": "Conquer Multi Quests  Mission 4"
+    },
+    {
+      "key": "M_ST_2305_0041",
+      "value": "Conquer Multi Quests  Mission 5"
+    },
+    {
+      "key": "M_ST_2305_0042",
+      "value": "Conquer the Wayfarer's Chamber  Mission 1"
+    },
+    {
+      "key": "M_ST_2305_0043",
+      "value": "Conquer the Wayfarer's Chamber  Mission 2"
+    },
+    {
+      "key": "M_ST_2305_0044",
+      "value": "Conquer the Wayfarer's Chamber  Mission 3"
+    },
+    {
+      "key": "M_ST_2305_0045",
+      "value": "Conquer the Wayfarer's Chamber  Mission 4"
+    },
+    {
+      "key": "M_ST_2305_0046",
+      "value": "Conquer the Wayfarer's Chamber  Mission 5"
+    },
+    {
+      "key": "M_ST_2305_0047",
+      "value": "Conquer the Arena  Mission 1"
+    },
+    {
+      "key": "M_ST_2305_0048",
+      "value": "Conquer the Arena  Mission 2"
+    },
+    {
+      "key": "M_ST_2305_0049",
+      "value": "Conquer the Arena  Mission 3"
+    },
+    {
+      "key": "M_ST_2305_0050",
+      "value": "Conquer the Arena  Mission 4"
+    },
+    {
+      "key": "M_ST_2305_0051",
+      "value": "Conquer the Arena  Mission 5"
+    },
+    {
+      "key": "M_ST_2305_0052",
+      "value": "Give Your Chocobos a Workout  Mission 1"
+    },
+    {
+      "key": "M_ST_2305_0053",
+      "value": "Give Your Chocobos a Workout  Mission 2"
+    },
+    {
+      "key": "M_ST_2305_0054",
+      "value": "Give Your Chocobos a Workout  Mission 3"
+    },
+    {
+      "key": "M_ST_2305_0055",
+      "value": "Give Your Chocobos a Workout  Mission 4"
+    },
+    {
+      "key": "M_ST_2305_0056",
+      "value": "Give Your Chocobos a Workout  Mission 5"
+    },
+    {
+      "key": "M_ST_2305_0057",
+      "value": "Make Your Guild Statues Shine  Mission 1"
+    },
+    {
+      "key": "M_ST_2305_0058",
+      "value": "Make Your Guild Statues Shine  Mission 2"
+    },
+    {
+      "key": "M_ST_2305_0059",
+      "value": "Make Your Guild Statues Shine  Mission 3"
+    },
+    {
+      "key": "M_ST_2305_0060",
+      "value": "Make Your Guild Statues Shine  Mission 4"
+    },
+    {
+      "key": "M_ST_2305_0061",
+      "value": "Make Your Guild Statues Shine  Mission 5"
+    },
+    {
       "key": "M_AF_MAT_6",
       "value": "Obtain Awakening +6 Equipment Crafting Materials"
     },
@@ -64583,6 +65919,10 @@
     {
       "key": "M_AWD_P_FMAM_4",
       "value": "One is All, All is One"
+    },
+    {
+      "key": "M_AWD_P_U_Weapon",
+      "value": "Realmscourge Survivor"
     },
     {
       "key": "M_PLY_AWARD_053",
@@ -68025,6 +69365,54 @@
       "value": "The Sea Dragon's Matey"
     },
     {
+      "key": "M_LW_PA_CH_208_1",
+      "value": "Jayden the Celebrated Fan"
+    },
+    {
+      "key": "M_LW_PA_CH_208_2",
+      "value": "Jayden the Celebrated Enthusiast"
+    },
+    {
+      "key": "M_LW_PA_CH_208_3",
+      "value": "Jayden the Celebrated Devotee"
+    },
+    {
+      "key": "M_LW_PA_CH_208_4",
+      "value": "Blessed Stag King"
+    },
+    {
+      "key": "M_LW_PA_CH_209_1",
+      "value": "Alaya the Alabaster Fan"
+    },
+    {
+      "key": "M_LW_PA_CH_209_2",
+      "value": "Alaya the Alabaster Enthusiast"
+    },
+    {
+      "key": "M_LW_PA_CH_209_3",
+      "value": "Alaya the Alabaster Devotee"
+    },
+    {
+      "key": "M_LW_PA_CH_209_4",
+      "value": "Pristine Dragon Princess"
+    },
+    {
+      "key": "M_LW_PA_CH_215_1",
+      "value": "Glaciela (Summer) Fan"
+    },
+    {
+      "key": "M_LW_PA_CH_215_2",
+      "value": "Glaciela (Summer) Enthusiast"
+    },
+    {
+      "key": "M_LW_PA_CH_215_3",
+      "value": "Glaciela (Summer) Devotee"
+    },
+    {
+      "key": "M_LW_PA_CH_215_4",
+      "value": "Wave-Surfing Smile"
+    },
+    {
       "key": "M_LW_PA_CH_999_1",
       "value": "Addison Fan"
     },
@@ -68223,18 +69611,6 @@
     {
       "key": "M_AWD_P_PT01_6",
       "value": "Master of Reckoning"
-    },
-    {
-      "key": "M_GL_DAILY_VID",
-      "value": "Perform a Video Summon"
-    },
-    {
-      "key": "M_GL_DAILY_FF14",
-      "value": "[Limited] Clear FFXIV Daily Event Quest"
-    },
-    {
-      "key": "M_GL_DAILY_GUILD",
-      "value": "[Limited] Guild Daily Event Quest"
     }
   ]
 }

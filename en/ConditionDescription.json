@@ -493,6 +493,14 @@
       "value": "Unit [Raph] is at least Lv. 1"
     },
     {
+      "key": "COND_HA_LW_JE_02",
+      "value": "Unit [Jayden the Celebrated] is at least Lv. 1"
+    },
+    {
+      "key": "COND_HA_LW_AI_01",
+      "value": "Unit [Alaya the Alabaster] is at least Lv. 1"
+    },
+    {
       "key": "COND_CH_LW_MONT",
       "value": "Unit [Mont Leonis] is at least Lv. 40"
     },
@@ -2069,6 +2077,14 @@
       "value": "Vision card [General of the Abyssal Horde, Greater Demon] is at least Lv. 1"
     },
     {
+      "key": "COND_VC_LW_SHIV1",
+      "value": "Vision card [Gelid Warden, Dark Shiva] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_SIRE1",
+      "value": "Vision card [Chaotic Chorus, Dark Siren] is at least Lv. 1"
+    },
+    {
       "key": "COND_CH_LW_MONT2",
       "value": "Unit [Mont Leonis] is at least Lv. 80"
     },
@@ -2497,6 +2513,14 @@
       "value": "Unit [Macleod] is at least Lv. 80"
     },
     {
+      "key": "COND_CH_SLEN_2",
+      "value": "Unit [Starlight Elena] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_HL_02_2",
+      "value": "Unit [Helena (Summer)] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_FM_EDWD",
       "value": "Unit [Edward Elric] is at least Lv. 40"
     },
@@ -2567,6 +2591,18 @@
     {
       "key": "COND_CH_RUFF",
       "value": "Unit [Raph] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_JEDN_02",
+      "value": "Unit [Jayden the Celebrated] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_GRSR_03",
+      "value": "Unit [Glaciela (Summer)] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_ALIA_01",
+      "value": "Unit [Alaya the Alabaster] is at least Lv. 40"
     },
     {
       "key": "COND_EV_LW_LCIO",

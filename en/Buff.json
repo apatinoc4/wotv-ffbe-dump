@@ -1513,6 +1513,38 @@
       "value": "Remove Debuff"
     },
     {
+      "key": "BUFF_ReduceDmgDistFar",
+      "value": "Distanced-Based"
+    },
+    {
+      "key": "BUFF_ReduceDmgDistNear",
+      "value": "Proximity-Based"
+    },
+    {
+      "key": "BUFF_ReduceDmgDistUp",
+      "value": "Reduction"
+    },
+    {
+      "key": "BUFF_ReduceDmgDistDown",
+      "value": "Increase"
+    },
+    {
+      "key": "BUFF_ReleaseReduceDmgDistUp",
+      "value": "Reduction Removed"
+    },
+    {
+      "key": "BUFF_ReleaseReduceDmgDistDown",
+      "value": "Increase Removed"
+    },
+    {
+      "key": "BUFF_StrengthSumRateDown",
+      "value": ""
+    },
+    {
+      "key": "BUFF_ResistSumRateDown",
+      "value": ""
+    },
+    {
       "key": "BUFFHEAL_Hp",
       "value": "HP Recovery"
     },
@@ -1581,6 +1613,38 @@
       "value": "Assist Enchant"
     },
     {
+      "key": "BUFF_CondAreaBuff",
+      "value": "Area Buff"
+    },
+    {
+      "key": "BUFF_CondPhysicalDmgDown",
+      "value": "Phys Dmg Reduction"
+    },
+    {
+      "key": "BUFF_CondMagicalDmgDown",
+      "value": "Magic Dmg Reduction"
+    },
+    {
+      "key": "BUFF_CondUnBreakablePhyBarrier",
+      "value": "Phys Barrier Unbreakable"
+    },
+    {
+      "key": "BUFF_CondUnBreakableMagBarrier",
+      "value": "Magic Barrier Unbreakable"
+    },
+    {
+      "key": "BUFF_CondUnBreakableAllBarrier",
+      "value": "Phys/Magic Barrier Unbreakable"
+    },
+    {
+      "key": "BUFF_CondReducePhyDmgArea",
+      "value": "Phys Dmg Reduction for Wider Attack Area"
+    },
+    {
+      "key": "BUFF_CondReduceMagDmgArea",
+      "value": "Magic Dmg Reduction for Wider Attack Area"
+    },
+    {
       "key": "BUFF_OtherAttackSkillRank",
       "value": "Evocation Magic Lv."
     },
@@ -1639,6 +1703,14 @@
     {
       "key": "BUFF_OtherDebuffRedRate",
       "value": "Debuff Reduction Rate"
+    },
+    {
+      "key": "BUFF_OtherReducePhyDmgDist",
+      "value": "Phys Dmg"
+    },
+    {
+      "key": "BUFF_OtherReduceMagDmgDist",
+      "value": "Magic Dmg"
     },
     {
       "key": "BUFF_KillerElementPFire",
@@ -1741,6 +1813,18 @@
       "value": "??? Killer Upon Magic Attack"
     },
     {
+      "key": "BUFF_KillerSpeciesReserve01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_KillerSpeciesPReserve01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_KillerSpeciesMReserve01",
+      "value": ""
+    },
+    {
       "key": "BUFF_KillerSpeciesDamageCognition",
       "value": "Fixed Cognition Dmg"
     },
@@ -1751,6 +1835,10 @@
     {
       "key": "BUFF_KillerSpeciesDamageUndefined",
       "value": "Fixed ??? Dmg"
+    },
+    {
+      "key": "BUFF_KillerSpeciesDamageReserve01",
+      "value": ""
     },
     {
       "key": "BUFF_KillerBirthPUnknown",
@@ -2357,6 +2445,10 @@
       "value": "??? Res"
     },
     {
+      "key": "BUFF_ResistSpeciesReserve01",
+      "value": ""
+    },
+    {
       "key": "BUFF_ExeShield7",
       "value": "Element Barrier (Weak against {0})"
     },
@@ -2371,6 +2463,10 @@
     {
       "key": "BUFF_ExeMafuken3",
       "value": "Runic ({0} Turn(s) & {1} Time(s))"
+    },
+    {
+      "key": "BUFF_DispAreaBuff",
+      "value": "{0} Bestowed Within Area"
     },
     {
       "key": "BUFF_KillerBirthReserve02",

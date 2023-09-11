@@ -17646,6 +17646,136 @@
           }
         }
       ]
+    },
+    {
+      "iname": "JM_EX_JEDN_02_M",
+      "items": [
+        {
+          "m1": {
+            "iname": "IT_SP_LW_JEDN_02",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_JEDN_02",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_JEDN_02",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_JEDN_02",
+            "num": 40
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_JEDN_02",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_JEDN_02",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_JEDN_02",
+            "num": 80
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_JEDN_02",
+            "num": 40
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_JEDN_02",
+            "num": 40
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_JEDN_02",
+            "num": 120
+          }
+        }
+      ]
+    },
+    {
+      "iname": "JM_EX_ALIA_01_M",
+      "items": [
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ALIA_01",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ALIA_01",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ALIA_01",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ALIA_01",
+            "num": 40
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ALIA_01",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ALIA_01",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ALIA_01",
+            "num": 80
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ALIA_01",
+            "num": 40
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ALIA_01",
+            "num": 40
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ALIA_01",
+            "num": 120
+          }
+        }
+      ]
     }
   ]
 }

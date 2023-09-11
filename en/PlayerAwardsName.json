@@ -3985,6 +3985,54 @@
       "value": "The Sea Dragon's Matey"
     },
     {
+      "key": "LW_PA_CH_208_1",
+      "value": "Jayden the Celebrated Fan"
+    },
+    {
+      "key": "LW_PA_CH_208_2",
+      "value": "Jayden the Celebrated Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_208_3",
+      "value": "Jayden the Celebrated Devotee"
+    },
+    {
+      "key": "LW_PA_CH_208_4",
+      "value": "Blessed Stag King"
+    },
+    {
+      "key": "LW_PA_CH_209_1",
+      "value": "Alaya the Alabaster Fan"
+    },
+    {
+      "key": "LW_PA_CH_209_2",
+      "value": "Alaya the Alabaster Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_209_3",
+      "value": "Alaya the Alabaster Devotee"
+    },
+    {
+      "key": "LW_PA_CH_209_4",
+      "value": "Pristine Dragon Princess"
+    },
+    {
+      "key": "LW_PA_CH_215_1",
+      "value": "Glaciela (Summer) Fan"
+    },
+    {
+      "key": "LW_PA_CH_215_2",
+      "value": "Glaciela (Summer) Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_215_3",
+      "value": "Glaciela (Summer) Devotee"
+    },
+    {
+      "key": "LW_PA_CH_215_4",
+      "value": "Wave-Surfing Smile"
+    },
+    {
       "key": "LW_PA_CH_999_1",
       "value": "Addison Fan"
     },
@@ -4477,6 +4525,18 @@
       "value": "Achiever of Glory 2023"
     },
     {
+      "key": "AWD_GL_CHAMP_19",
+      "value": "Throneseeker 2023"
+    },
+    {
+      "key": "AWD_GL_CHAMP_20",
+      "value": "Those Who Strive for Glory 2023"
+    },
+    {
+      "key": "AWD_GL_CHAMP_21",
+      "value": "Achiever of Glory 2023"
+    },
+    {
       "key": "AWD_GL_FANMEETING_202306",
       "value": "WOTV LA FAN EVENT 2023 Attendee"
     },
@@ -4555,6 +4615,66 @@
     {
       "key": "AWD_P_FF05_6",
       "value": "Heart of Devotion"
+    },
+    {
+      "key": "LW_PA_00130",
+      "value": "Devoted Tactician"
+    },
+    {
+      "key": "LW_PA_00131",
+      "value": "Devoted Scion"
+    },
+    {
+      "key": "LW_PA_00132",
+      "value": "Devoted Diviner"
+    },
+    {
+      "key": "LW_PA_00133",
+      "value": "Deah for Life"
+    },
+    {
+      "key": "LW_PA_00134",
+      "value": "Team Deah"
+    },
+    {
+      "key": "LW_PA_00135",
+      "value": "Deah Stans"
+    },
+    {
+      "key": "AWD_P_U_Weapon",
+      "value": "Realmscourge Survivor"
+    },
+    {
+      "key": "AWD_P_Tow_Ice_1",
+      "value": "Ice Perfectionist"
+    },
+    {
+      "key": "AWD_P_Tow_Ice_2",
+      "value": "Ice Virtuoso"
+    },
+    {
+      "key": "AWD_P_Tow_Ice_3",
+      "value": "Instant Chills"
+    },
+    {
+      "key": "AWD_P_Tow_Ice_4",
+      "value": "Cold as Ice"
+    },
+    {
+      "key": "AWD_P_Tow_Ice_5",
+      "value": "Ice Master: Top 10"
+    },
+    {
+      "key": "AWD_P_Tow_Ice_6",
+      "value": "Ice Master: Top 20"
+    },
+    {
+      "key": "AWD_P_Tow_Ice_7",
+      "value": "Ice Master: Top 30"
+    },
+    {
+      "key": "LW_PA_00145",
+      "value": "Breaker of Wings"
     }
   ]
 }

@@ -877,6 +877,18 @@
       "value": "Self-proclaimed Dark Witch Lurking in the Deep Abyss"
     },
     {
+      "key": "UN_LW_P_JEDN_02",
+      "value": "Blessed Stag King"
+    },
+    {
+      "key": "UN_LW_P_GRSR_03",
+      "value": "Wave-Surfing Smile"
+    },
+    {
+      "key": "UN_LW_P_ALIA_01",
+      "value": "Pristine Dragon Princess"
+    },
+    {
       "key": "UN_LW_EMPTI",
       "value": ""
     },
@@ -994,6 +1006,10 @@
     },
     {
       "key": "UN_LW_E_UMWP",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_UMWP_EV",
       "value": "Enemy"
     },
     {
@@ -1501,6 +1517,26 @@
       "value": "Enemy/NPC"
     },
     {
+      "key": "UN_LW_E_HWLT_01",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_DIAA_00",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_MCRD",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_JEDN_01_R",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_HYOO",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_RU_01_THI",
       "value": "Enemy/NPC"
     },
@@ -1602,6 +1638,14 @@
     },
     {
       "key": "UN_LW_E_RU_01_MHA",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_RU_01_MMC",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_RU_01_MSM",
       "value": "Enemy/NPC"
     },
     {
@@ -2073,6 +2117,10 @@
       "value": "Enemy/NPC"
     },
     {
+      "key": "UN_LW_E_SO_00_SSA",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_SO_02",
       "value": "Enemy/NPC"
     },
@@ -2174,6 +2222,10 @@
     },
     {
       "key": "UN_LW_E_SO_02_LLN",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SO_02_BFI",
       "value": "Enemy/NPC"
     },
     {
@@ -2873,6 +2925,10 @@
       "value": "Enemy/NPC"
     },
     {
+      "key": "UN_LW_E_HY_06_BEA",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_HY_07_BEA",
       "value": "Enemy/NPC"
     },
@@ -3449,6 +3505,10 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_LW_E_CSLI_02_QE",
+      "value": "Enemy"
+    },
+    {
       "key": "UN_LW_E_TH_RDM_RV",
       "value": "Enemy/NPC"
     },
@@ -3658,6 +3718,18 @@
     },
     {
       "key": "UN_LW_E_GRDM_SREN",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_SHIV_01",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_SHIV_01_SREN",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_SIRE_01",
       "value": "Enemy"
     },
     {
@@ -4277,11 +4349,23 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_LW_E_SHGN_RAID",
+      "value": "Enemy"
+    },
+    {
       "key": "UN_LW_E_SHGN_01",
       "value": "Enemy"
     },
     {
       "key": "UN_LW_E_SHGN_02",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_SHGN_03",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_SHGN_03_RAID",
       "value": "Enemy"
     },
     {
@@ -4418,6 +4502,10 @@
     },
     {
       "key": "UN_LW_E_KRKN_SIREN",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_KRKN_RAID_03",
       "value": "Enemy"
     },
     {
@@ -5150,6 +5238,30 @@
     },
     {
       "key": "UN_LW_S_GRDM_AW2",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_SHIV_01",
+      "value": "Esper"
+    },
+    {
+      "key": "UN_LW_S_SHIV_01_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_SHIV_01_AW2",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_SIRE_01",
+      "value": "Esper"
+    },
+    {
+      "key": "UN_LW_S_SIRE_01_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_SIRE_01_AW2",
       "value": ""
     },
     {
@@ -6307,6 +6419,10 @@
     {
       "key": "UN_LW_E_DARE",
       "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_JEDN_02",
+      "value": "Enemy/NPC"
     },
     {
       "key": "UN_LW_E_AMNR",

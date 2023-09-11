@@ -71,6 +71,14 @@
     {
       "key": "UNDEFINED",
       "value": "???"
+    },
+    {
+      "key": "RAIDBOSS",
+      "value": ""
+    },
+    {
+      "key": "RESERVE01",
+      "value": "Raid Boss"
     }
   ]
 }

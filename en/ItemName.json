@@ -3253,6 +3253,66 @@
       "value": "Warrior of the Crystals (Dark)'s Memory (Red)"
     },
     {
+      "key": "IT_JB_MM_JEDN_02",
+      "value": "Stag Lancer's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_02_2",
+      "value": "Stag Lancer's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_02_3",
+      "value": "Stag Lancer's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_02_4",
+      "value": "Stag Lancer's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_02_5",
+      "value": "Stag Lancer's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_GRSR_03",
+      "value": "Steadfast Flower's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_GRSR_03_2",
+      "value": "Steadfast Flower's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_GRSR_03_3",
+      "value": "Steadfast Flower's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_GRSR_03_4",
+      "value": "Steadfast Flower's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_GRSR_03_5",
+      "value": "Steadfast Flower's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_ALIA_01",
+      "value": "Snow-White Bride's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_ALIA_01_2",
+      "value": "Snow-White Bride's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_ALIA_01_3",
+      "value": "Snow-White Bride's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_ALIA_01_4",
+      "value": "Snow-White Bride's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_ALIA_01_5",
+      "value": "Snow-White Bride's Memory (Red)"
+    },
+    {
       "key": "IT_JB_EM_FIRE_1",
       "value": "Fire Alcryst (Green)"
     },
@@ -3619,6 +3679,10 @@
     {
       "key": "IT_UN_RELV_UR",
       "value": "Scroll of Vicissitude (UR)"
+    },
+    {
+      "key": "IT_UN_LB",
+      "value": "Burst Core"
     },
     {
       "key": "IT_UN_AW_FIRE",
@@ -4753,6 +4817,18 @@
       "value": "Raph Unit Shard"
     },
     {
+      "key": "IT_PI_LW_JEDN_02",
+      "value": "Jayden the Celebrated Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_GRSR_03",
+      "value": "Glaciela (Summer) Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_ALIA_01",
+      "value": "Alaya the Alabaster Unit Shard"
+    },
+    {
       "key": "IT_SP_LW_MONT",
       "value": "Mont Leonis Mindsphere"
     },
@@ -5477,6 +5553,14 @@
       "value": "Raph Mindsphere"
     },
     {
+      "key": "IT_SP_LW_JEDN_02",
+      "value": "Jayden the Celebrated Mindsphere"
+    },
+    {
+      "key": "IT_SP_LW_ALIA_01",
+      "value": "Alaya the Alabaster Mindsphere"
+    },
+    {
       "key": "IT_SP_LW_ALL_UR",
       "value": "Transcendent Mindsphere (UR)"
     },
@@ -5499,6 +5583,10 @@
     {
       "key": "IT_SP_LW_RFAL_LYCS",
       "value": "Select Transcendent Mindsphere (Rafale & Rayches)"
+    },
+    {
+      "key": "IT_SP_LW_VERN_MINU",
+      "value": "Select Transcendent Mindsphere (Velne & Minwu)"
     },
     {
       "key": "IT_SB_EXP_FIRE_01",
@@ -6081,6 +6169,22 @@
       "value": "Greater Demon Awakening Stone (3)"
     },
     {
+      "key": "IT_SB_AW_SHIV_01_R2",
+      "value": "Dark Shiva Awakening Stone (2)"
+    },
+    {
+      "key": "IT_SB_AW_SHIV_01_R3",
+      "value": "Dark Shiva Awakening Stone (3)"
+    },
+    {
+      "key": "IT_SB_AW_SIRE_01_R2",
+      "value": "Dark Siren Awakening Stone (2)"
+    },
+    {
+      "key": "IT_SB_AW_SIRE_01_R3",
+      "value": "Dark Siren Awakening Stone (3)"
+    },
+    {
       "key": "IT_SB_SKP_RESET",
       "value": "Amnesia Dew"
     },
@@ -6219,6 +6323,10 @@
     {
       "key": "IT_NBLWPN_04_SSR",
       "value": "Fists/Katana Pyramite (Yellow)"
+    },
+    {
+      "key": "IT_NBLWPN_05_SSR",
+      "value": "Spear/Axe Pyramite (Yellow)"
     },
     {
       "key": "IT_AF_MAT_FIRE_01",
@@ -6901,6 +7009,10 @@
       "value": "Jeweled Belt Crafting Recipe"
     },
     {
+      "key": "IT_AF_LW_SWO_031",
+      "value": "Astraea Aurora Crafting Recipe"
+    },
+    {
       "key": "IT_AF_PRS5_ACC_002",
       "value": "Jack Frost Doll Crafting Recipe"
     },
@@ -7321,6 +7433,26 @@
       "value": "Dawn Lantern Crafting Recipe"
     },
     {
+      "key": "IT_AF_LW_SPE_028",
+      "value": "Divine Horn Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_ACC_057",
+      "value": "Raptorbane Pendant Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_RNG_011",
+      "value": "Frost Ring Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_SWO_045",
+      "value": "Sea Deity's Sword Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_FIS_017",
+      "value": "Radiant Dragonhorns Crafting Recipe"
+    },
+    {
       "key": "IT_AF_AW_LCIO",
       "value": "Secret Book of Refinement (Starlight Sword)"
     },
@@ -7729,6 +7861,10 @@
       "value": "Global Festival Medal J"
     },
     {
+      "key": "IT_EC_MEDAL_GF_K",
+      "value": "Global Festival Medal K"
+    },
+    {
       "key": "IT_EC_RAE_GL1",
       "value": "Addison Rae Meets WOTV FFBE Part I Login Medal"
     },
@@ -7799,6 +7935,14 @@
     {
       "key": "IT_EC_MEDAL_SU2022_D",
       "value": "Summer Vision Card Summon Medal"
+    },
+    {
+      "key": "IT_EC_MEDAL_SU_UN_2023_RE",
+      "value": "[2023] Reissued Summer Unit Summon Medal"
+    },
+    {
+      "key": "IT_EC_MEDAL_SU_VC_2023_RE",
+      "value": "[2023] Reissued Summer Vision Card Summon Medal"
     },
     {
       "key": "IT_EC_MEDAL_W2021R",
@@ -8411,6 +8555,30 @@
     {
       "key": "IT_EC_SUMMON_08_VC_04_A",
       "value": "August Vision Card Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_U_04_A",
+      "value": "August Unit Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_VC_04_B",
+      "value": "August Vision Card Summon Medal B"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_U_04_B",
+      "value": "August Unit Summon Medal B"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_VC_04_C",
+      "value": "August Vision Card Summon Medal C"
+    },
+    {
+      "key": "IT_EC_SUMMON_09_U_04_A",
+      "value": "September Unit Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_09_VC_04_A",
+      "value": "September Vision Card Summon Medal A"
     },
     {
       "key": "IT_EC_SUMMON_U_SEASON",
@@ -9253,6 +9421,10 @@
       "value": "Darkness and the Heart Medal"
     },
     {
+      "key": "IT_EC_EV22_1",
+      "value": "A Bullet and a Vow Medal"
+    },
+    {
       "key": "IT_EC_WW_EV01_1",
       "value": "EXVIUS UNIVERSE Medal"
     },
@@ -9403,6 +9575,10 @@
     {
       "key": "IT_EC_LOGIN_GL2308",
       "value": "August Login Medal"
+    },
+    {
+      "key": "IT_EC_LOGIN_GL2309",
+      "value": "September Login Medal"
     },
     {
       "key": "IT_US_G_SANDIEGO_COMIC_2023",
@@ -11317,6 +11493,22 @@
       "value": "\"General of the Abyssal Horde, Greater Demon\" Vision Card Shard"
     },
     {
+      "key": "IT_VPI_LW_SLEN2",
+      "value": "\"Fundamental Forces\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_SHIV_01",
+      "value": "\"Gelid Warden, Dark Shiva\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_GRSR_03",
+      "value": "\"Seaside Showdown\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_SIRE_01",
+      "value": "\"Chaotic Chorus, Dark Siren\" Vision Card Shard"
+    },
+    {
       "key": "IT_VC_EXP_01",
       "value": "Growth Egg (N)"
     },
@@ -11595,6 +11787,14 @@
     {
       "key": "IT_EC_GL_RAID_02",
       "value": "Addison Rae Raid Medal"
+    },
+    {
+      "key": "IT_EC_GL_RAID_06_202308",
+      "value": "Revival Raid Medal VI"
+    },
+    {
+      "key": "IT_EC_RAID_SUMMER",
+      "value": "Summer Splash Medal"
     },
     {
       "key": "IT_US_GL_SE_SB_EXP_1",
@@ -12581,6 +12781,18 @@
       "value": "[Version Upgrade Celebration] Select UR Vision Card Shard x25 Summon Ticket"
     },
     {
+      "key": "IT_US_SE_VPI_GL_55",
+      "value": "[GL Aug '23] Select UR Vision Card Shard x25 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_56",
+      "value": "[Special Price] Select Global Vision Card Shard x50 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_57",
+      "value": "Select Global Vision Card Shard x50 Summon Ticket"
+    },
+    {
       "key": "IT_US_SE_VPI_YT_GL_01",
       "value": "[Updates #26] Select UR Vision Card Shard x25 Summon Ticket"
     },
@@ -12615,6 +12827,26 @@
     {
       "key": "IT_US_SE_PI_UR_GL_CB_01",
       "value": "[Comeback-Limited] Select UR Unit Shard x200 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_YT_GL_202308",
+      "value": "[Updates #29] Select UR Unit Shard x40 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_SP_MATERIAL_GL_A_202308",
+      "value": "[Updates #29] Special Select Materials Summon Ticket A"
+    },
+    {
+      "key": "IT_US_SE_SP_MATERIAL_GL_B_202308",
+      "value": "[Updates #29] Special Select Materials Summon Ticket B"
+    },
+    {
+      "key": "IT_US_SE_SP_MATERIAL_GL_C_202308",
+      "value": "[Updates #29] Special Select Materials Summon Ticket C"
+    },
+    {
+      "key": "IT_US_SE_SP_MATERIAL_GL_D_202308",
+      "value": "[Updates #29] Special Select Materials Summon Ticket D"
     },
     {
       "key": "IT_US_SE_TRAINING_ITEM_GL_CB_01",
@@ -12707,6 +12939,10 @@
     {
       "key": "IT_US_GLFEST_SE_GL05",
       "value": "Select Global Unit Shard x120 Summon Ticket"
+    },
+    {
+      "key": "IT_US_GLFES_120_SE_GL_202308",
+      "value": "[GL Aug '23] Select Reissued Global Unit Shard x120 Summon Ticket"
     },
     {
       "key": "IT_US_BF_SE_UR_U_01",
@@ -13279,6 +13515,10 @@
     {
       "key": "IT_STAMP_2304",
       "value": "September Token"
+    },
+    {
+      "key": "IT_STAMP_2305",
+      "value": "October Token"
     },
     {
       "key": "IT_KEY_JP",
@@ -14007,6 +14247,46 @@
     {
       "key": "IT_US_G_PU_RUFF_10",
       "value": "[Raph] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_JEDN02",
+      "value": "[Jayden the Celebrated] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_JEDN02_10",
+      "value": "[Jayden the Celebrated] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_GRSR03",
+      "value": "[Glaciela (Summer)] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_GRSR03_10",
+      "value": "[Glaciela (Summer)] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_SUMMER_2023_RE",
+      "value": "[2023] Reissued Summer Featured Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_SUMMER_2023_RE_10",
+      "value": "[2023] Reissued Summer Featured Unit 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_GLFES_2023_08",
+      "value": "[GL Aug '23] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_GLFES_2023_08_10",
+      "value": "[GL Aug '23] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_ALIA01",
+      "value": "[Alaya the Alabaster] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_ALIA01_10",
+      "value": "[Alaya the Alabaster] Featured 10x Summon Ticket"
     },
     {
       "key": "IT_US_G_FF7R2",
@@ -14963,6 +15243,38 @@
     {
       "key": "IT_US_G_PU_HWLT01_10",
       "value": "[Howlet the Heavensblade] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_FIRE_202308",
+      "value": "[August 2023] Select Fire-Type UR Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_WATER_202308",
+      "value": "[August 2023] Select Water-Type UR Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_THUNDER_202308",
+      "value": "[August 2023] Select Lightning-Type UR Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_SOIL_202308",
+      "value": "[August 2023] Select Earth-Type UR Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_WIND_202308",
+      "value": "[August 2023] Select Wind-Type UR Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_ICE_202308",
+      "value": "[August 2023] Select Ice-Type UR Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_SHINE_202308",
+      "value": "[August 2023] Select Light-Type UR Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_DARK_202308",
+      "value": "[August 2023] Select Dark-Type UR Unit Shard x20 Summon Ticket"
     }
   ]
 }

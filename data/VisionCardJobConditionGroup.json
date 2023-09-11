@@ -16,7 +16,8 @@
         "JB_LW_SLVE",
         "JB_LW_REGN",
         "JB_LW_HWLT",
-        "JB_FF5_FRIS"
+        "JB_FF5_FRIS",
+        "JB_LW_GRSR_03"
       ]
     },
     {
@@ -93,7 +94,8 @@
         "JB_LW_LLN_FIRE",
         "JB_LW_GRSR_02",
         "JB_LW_SDLX",
-        "JB_LW_DARD"
+        "JB_LW_DARD",
+        "JB_LW_JEDN_02"
       ]
     },
     {
@@ -136,7 +138,8 @@
         "JB_LW_BFI_FIRE",
         "JB_LW_PRNE",
         "JB_FMAM_EDWD",
-        "JB_FMAM_ALPN"
+        "JB_FMAM_ALPN",
+        "JB_LW_ALIA_01"
       ]
     },
     {

@@ -221,6 +221,10 @@
       "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: A or better"
     },
     {
+      "key": "AF_LW_SWO_031_1",
+      "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: A or better"
+    },
+    {
       "key": "AF_LW_SWO_035",
       "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
     },
@@ -594,6 +598,30 @@
     },
     {
       "key": "AF_FF5_SWO_001_5",
+      "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SWO_045",
+      "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SWO_045_1",
+      "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SWO_045_2",
+      "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SWO_045_3",
+      "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SWO_045_4",
+      "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SWO_045_5",
       "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
     },
     {
@@ -1385,6 +1413,30 @@
       "value": "Equipment type: Fists <br>Appropriate Weapon Proficiency: A or better"
     },
     {
+      "key": "AF_LW_FIS_017",
+      "value": "Equipment type: Fists <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_FIS_017_1",
+      "value": "Equipment type: Fists <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_FIS_017_2",
+      "value": "Equipment type: Fists <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_FIS_017_3",
+      "value": "Equipment type: Fists <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_FIS_017_4",
+      "value": "Equipment type: Fists <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_FIS_017_5",
+      "value": "Equipment type: Fists <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
       "key": "AF_LW_SPE_000",
       "value": "Equipment type: Spear <br>Appropriate Weapon Proficiency: E or better"
     },
@@ -1661,6 +1713,34 @@
       "value": "Equipment type: Spear <br>Appropriate Weapon Proficiency: B or better"
     },
     {
+      "key": "AF_LW_SPE_028",
+      "value": "Equipment type: Spear <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SPE_028_1",
+      "value": "Equipment type: Spear <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SPE_028_2",
+      "value": "Equipment type: Spear <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SPE_028_3",
+      "value": "Equipment type: Spear <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SPE_028_4",
+      "value": "Equipment type: Spear <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SPE_028_5",
+      "value": "Equipment type: Spear <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SPE_025",
+      "value": "Equipment type: Spear <br>Appropriate Weapon Proficiency: A or better"
+    },
+    {
       "key": "AF_GL_LW_SPE_026",
       "value": "Equipment type: Spear <br>Appropriate Weapon Proficiency: A or better"
     },
@@ -1857,6 +1937,10 @@
       "value": "Equipment type: Dagger <br>Appropriate Weapon Proficiency: B or better"
     },
     {
+      "key": "AF_LW_DAG_007_6",
+      "value": "Equipment type: Dagger <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
       "key": "AF_LW_DAG_010",
       "value": "Equipment type: Dagger <br>Appropriate Weapon Proficiency: A or better"
     },
@@ -2022,6 +2106,10 @@
     },
     {
       "key": "AF_LW_NKN_004_5",
+      "value": "Equipment type: Ninja Blade <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_NKN_004_6",
       "value": "Equipment type: Ninja Blade <br>Appropriate Weapon Proficiency: B or better"
     },
     {
@@ -2669,6 +2757,10 @@
       "value": "Equipment type: Staff <br>Appropriate Weapon Proficiency: B or better"
     },
     {
+      "key": "AF_LW_ROD_027_6",
+      "value": "Equipment type: Staff <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
       "key": "AF_LW_ROD_028",
       "value": "Equipment type: Staff <br>Appropriate Weapon Proficiency: A or better"
     },
@@ -3101,6 +3193,10 @@
       "value": "Equipment type: Axe <br>Appropriate Weapon Proficiency: B or better"
     },
     {
+      "key": "AF_LW_AXE_012",
+      "value": "Equipment type: Axe <br>Appropriate Weapon Proficiency: A or better"
+    },
+    {
       "key": "AF_LW_SHI_000",
       "value": "Equipment type: Shield <br>Appropriate Armor Proficiency: E or better"
     },
@@ -3298,6 +3394,10 @@
     },
     {
       "key": "AF_LW_ARM_031_5",
+      "value": "Equipment type: Armor <br>Appropriate Armor Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_ARM_031_6",
       "value": "Equipment type: Armor <br>Appropriate Armor Proficiency: A or better"
     },
     {
@@ -3806,6 +3906,10 @@
     },
     {
       "key": "AF_LW_ACC_030_5",
+      "value": "Equipment type: Clothing <br>Appropriate Armor Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_ACC_030_6",
       "value": "Equipment type: Clothing <br>Appropriate Armor Proficiency: A or better"
     },
     {
@@ -5085,6 +5189,10 @@
       "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
     },
     {
+      "key": "AF_LW_RNG_011_1",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
       "key": "AF_LW_RNG_012",
       "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
     },
@@ -5621,6 +5729,10 @@
       "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
     },
     {
+      "key": "AF_LW_HAT_017_6",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
       "key": "AF_LW_ACC_040",
       "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
     },
@@ -5754,6 +5866,10 @@
     },
     {
       "key": "AF_LW_GLO_004_5",
+      "value": "Equipment type: Gloves <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_GLO_004_6",
       "value": "Equipment type: Gloves <br>Appropriate Weapon Proficiency: B or better"
     },
     {
@@ -6297,6 +6413,10 @@
       "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
     },
     {
+      "key": "AF_LW_ACC_049_6",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
       "key": "AF_LW_ACC_054",
       "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
     },
@@ -6322,6 +6442,30 @@
     },
     {
       "key": "AF_LW_ACC_054_6",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_057",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_057_1",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_057_2",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_057_3",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_057_4",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_057_5",
       "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
     },
     {
@@ -6466,6 +6610,10 @@
     },
     {
       "key": "AF_LW_ACC_073_5",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_073_6",
       "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
     },
     {
@@ -6694,6 +6842,10 @@
     },
     {
       "key": "AF_LW_ACC_109",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_ACC_117",
       "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
     },
     {
@@ -6969,6 +7121,18 @@
       "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
     },
     {
+      "key": "AF_ACC_LW_JEDN_02_1",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
+      "key": "AF_ACC_LW_GRSR_03_1",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
+      "key": "AF_ACC_LW_ALIA_01_1",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
       "key": "AF_SWO_LW_SLEN_2",
       "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: A or better"
     },
@@ -7194,6 +7358,18 @@
     },
     {
       "key": "AF_MAC_LW_RUFF_2",
+      "value": ""
+    },
+    {
+      "key": "AF_SPE_LW_JEDN_02_2",
+      "value": ""
+    },
+    {
+      "key": "AF_SWO_LW_GRSR_03_2",
+      "value": ""
+    },
+    {
+      "key": "AF_FIS_LW_ALIA_01_2",
       "value": ""
     }
   ]

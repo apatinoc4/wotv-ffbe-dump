@@ -3665,7 +3665,11 @@
       "value": ""
     },
     {
-      "key": "BUFF_LW_JEDN_01_M_1",
+      "key": "BUFF_LW_JEDN_01_M_1_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_JEDN_01_M_1_2",
       "value": ""
     },
     {
@@ -3677,7 +3681,7 @@
       "value": ""
     },
     {
-      "key": "BUFF_LW_JEDN_01_M_3",
+      "key": "BUFF_LW_JEDN_01_M_3_T",
       "value": ""
     },
     {
@@ -3705,7 +3709,15 @@
       "value": ""
     },
     {
+      "key": "BUFF_LW_EC_JEDN_01_A_01B",
+      "value": ""
+    },
+    {
       "key": "BUFF_LW_EC_JEDN_01_C_01B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_JEDN_01_C_02B",
       "value": ""
     },
     {
@@ -6021,6 +6033,218 @@
       "value": ""
     },
     {
+      "key": "BUFF_LW_JEDN_02_M_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_JEDN_02_M_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_JEDN_02_M_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_JEDN_02_S_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_JEDN_02_S_2_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_JEDN_02_S_2_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_JEDN_02_S_2_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_JEDN_02_S_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_JEDN_02_P_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_JEDN_02_P_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_JEDN_02_A_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_JEDN_02_C_01B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_JEDN_02_C_01C",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_JEDN_02_C_01C_EN",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_JEDN_02_C_02B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_M_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_M_1_B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_M_2_T_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_M_2_T_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_M_2_T_2_EN",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_M_2_S_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_M_2_S_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_M_2_S_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_M_2_B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_M_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_S_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_S_2_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_S_2_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_S_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_P_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_P_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_ALIA_01_C_02B_T",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_ALIA_01_C_01C",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_03_M_1_T_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_03_M_1_T_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_03_M_1_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_03_M_2_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_03_M_2_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_03_M_2B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_03_S_1_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_03_S_1_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_03_S_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_03_S_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_03_S_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_03_P_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_03_P_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_03_EN_A_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_GRSR_03_C_01B_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_GRSR_03_C_01B_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_GRSR_03_C_01BB",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_GRSR_03_C_01BC",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_GRSR_03_C_02B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_03_M_1B",
+      "value": ""
+    },
+    {
       "key": "BUFF_LW_MHA_M_1_T",
       "value": ""
     },
@@ -7873,6 +8097,14 @@
       "value": ""
     },
     {
+      "key": "BUFF_SIRE_01_M_02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SIRE_01_M_04",
+      "value": ""
+    },
+    {
       "key": "BUFF_SHIV_M_03",
       "value": ""
     },
@@ -7942,6 +8174,22 @@
     },
     {
       "key": "BUFF_GRDM_M_05",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SHIV_01_M_02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SHIV_01_M_03_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SHIV_01_M_03_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SHIV_01_M_04",
       "value": ""
     },
     {
@@ -8066,6 +8314,22 @@
     },
     {
       "key": "BUFF_CCLI_M_04_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SHGN_03_M_03_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SHGN_03_M_03_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SHGN_03_M_04_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SHGN_03_R_01",
       "value": ""
     },
     {
@@ -8374,6 +8638,10 @@
     },
     {
       "key": "BUFF_CHCB2_M_02_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_CHCB2_M_02_1_B",
       "value": ""
     },
     {
@@ -8989,6 +9257,10 @@
       "value": ""
     },
     {
+      "key": "BUFF_UMWP_ATK_B",
+      "value": ""
+    },
+    {
       "key": "BUFF_UMWP_M_01_1",
       "value": ""
     },
@@ -9006,6 +9278,10 @@
     },
     {
       "key": "BUFF_UMWP_M_03",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UMWP_M_03_B",
       "value": ""
     },
     {
@@ -10329,6 +10605,94 @@
       "value": ""
     },
     {
+      "key": "BUFF_LB_LW_JEDN_02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_GRSR_03_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_GRSR_03_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_ALIA_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_MONT_B_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_MONT_B_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_MONT_B_2_EN",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_MONT_B_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_ELDE_C_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_ELDE_C_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_STRN_B_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_STRN_B_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_MDNA_C_T_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_MDNA_C_T_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_MDNA_C_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_LILS_B_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_LILS_B_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_KTON_01_C",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_QILF_01_B_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_QILF_01_B_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_ELSR_01_B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_HLNA_02_1_B",
+      "value": ""
+    },
+    {
       "key": "BUFF_SMN_MABR",
       "value": ""
     },
@@ -10502,6 +10866,14 @@
     },
     {
       "key": "BUFF_SMN_GRDM",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SMN_SHIV_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SMN_SIRE_01",
       "value": ""
     },
     {
@@ -13613,6 +13985,10 @@
       "value": ""
     },
     {
+      "key": "BUFF_MA_LW_SLEN_S_2",
+      "value": ""
+    },
+    {
       "key": "BUFF_MA_LW_VERN",
       "value": ""
     },
@@ -14177,6 +14553,10 @@
       "value": ""
     },
     {
+      "key": "BUFF_MA_LW_HLNA_02_S_2",
+      "value": ""
+    },
+    {
       "key": "BUFF_MA_LW_SHLS",
       "value": ""
     },
@@ -14446,6 +14826,30 @@
     },
     {
       "key": "BUFF_MA_LW_RUFF_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_JEDN_02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_JEDN_02_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_GRSR_03",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_GRSR_03_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_ALIA_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_ALIA_01_S",
       "value": ""
     },
     {
@@ -15377,6 +15781,10 @@
       "value": ""
     },
     {
+      "key": "BUFF_UES_LW_JEDN_02",
+      "value": ""
+    },
+    {
       "key": "BUFF_LW_EC_KNT_C_01C",
       "value": ""
     },
@@ -15542,6 +15950,150 @@
     },
     {
       "key": "BUFF_LW_EC_WHM_A_03B_T",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_ALIA",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ALIA_EN_A_01B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_SCAL",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_BLM_A_06B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_RARD",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_BEA_A_03B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_GRSR_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_GRSR_01_EN_A_01B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_SHLS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_DAC_C_03C",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_RRIR",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_HUN_C_10C",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_HUN_C_10C_B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_VADM",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_THI_C_04C",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_MINU",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_SCR_C_01C",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_VERN",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_LAN_C_09C",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_JEDN_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_LILS_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_HUN_A_04B_T",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_HUN_A_04B_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_KTON_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_QILF_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_AXD_C_01C",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_ELSR_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_LIB_WATER_M_2_ELSR_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_HLNA_02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_GRSR_03",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_ALIA_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_RYER_02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_UES_LW_LMRE",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_TIM_A_02_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_TIM_A_02_2_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_TIM_A_02B",
       "value": ""
     },
     {
@@ -18970,6 +19522,202 @@
     },
     {
       "key": "BUFF_GL_VC_LW_GRDM_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SHIV_01_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SHIV_01_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SHIV_01_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SHIV_01_GS_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SHIV_01_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SHIV_01_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SHIV_01_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SHIV_01_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SHIV_01_PMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_SHIV_01_P2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_SHIV_01_PAW2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_SHIV_01_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SLEN2_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SLEN2_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SLEN2_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SLEN2_GS_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SLEN2_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SLEN2_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SLEN2_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SLEN2_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SLEN2_PMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SLEN2_P_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SLEN2_PAW_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SLEN2_PMAX_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_GRSR_03_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_GRSR_03_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_GRSR_03_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_GRSR_03_GS_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_GRSR_03_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_GRSR_03_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_GRSR_03_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_GRSR_03_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_GRSR_03_PMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_GRSR_03_PVA",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_GRSR_03_P2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_GRSR_03_PAW2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_GRSR_03_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SIRE_01_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SIRE_01_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SIRE_01_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SIRE_01_GS_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SIRE_01_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SIRE_01_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SIRE_01_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SIRE_01_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_SIRE_01_PMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_SIRE_01_P2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_SIRE_01_PAW2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_SIRE_01_PMAX2",
       "value": ""
     },
     {
@@ -24489,6 +25237,10 @@
       "value": ""
     },
     {
+      "key": "BUFF_LW_HAT_017_6",
+      "value": ""
+    },
+    {
       "key": "BUFF_LW_RNG_006_1",
       "value": ""
     },
@@ -24758,6 +25510,10 @@
     },
     {
       "key": "BUFF_LW_RNG_011_5_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_RNG_011_1_5_S",
       "value": ""
     },
     {
@@ -26846,6 +27602,22 @@
     },
     {
       "key": "BUFF_ACC_LW_RUFF_1_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_ACC_LW_JEDN_02_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_ACC_LW_GRSR_03_1_T",
+      "value": ""
+    },
+    {
+      "key": "BUFF_ACC_LW_GRSR_03_1_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_ACC_LW_ALIA_01_1",
       "value": ""
     },
     {
@@ -39117,6 +39889,334 @@
       "value": "Raises Stats when equipped to Unit."
     },
     {
+      "key": "BUFF_SHIV_01_01",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_02",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_03",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_04",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_05",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_06",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_SHIV_01_07",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_SHIV_01_08",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_09",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_10",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_11",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_12",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_13",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_14",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_15",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_16",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_17",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_18",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_19",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_SHIV_01_20",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_21",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_22",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_23",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_24",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_25",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_26",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_27",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_28",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_29",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_30",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_SHIV_01_31",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_SHIV_01_32",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_33",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_34",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_SHIV_01_35",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_36",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_37",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_38",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_39",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_40",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SHIV_01_41",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_01",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_02",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_03",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_04",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_05",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_06",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_SIRE_01_07",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_SIRE_01_08",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_09",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_10",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_11",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_12",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_13",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_14",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_15",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_16",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_17",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_18",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_19",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_SIRE_01_20",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_21",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_22",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_23",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_24",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_25",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_26",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_27",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_28",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_29",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_30",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_SIRE_01_31",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_SIRE_01_32",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_33",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_34",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_SIRE_01_35",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_36",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_37",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_38",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_39",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_40",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_SIRE_01_41",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
       "key": "BUFF_MRE_FIRE_HP_1",
       "value": ""
     },
@@ -44413,6 +45513,10 @@
       "value": "Raises Slash Attack/MAG"
     },
     {
+      "key": "BUFF_ARENA_00046",
+      "value": "Raises Ice Unit HP/MAG."
+    },
+    {
       "key": "BUFF_ARENA_GL_00001",
       "value": "Raises Missile Res."
     },
@@ -44697,6 +45801,14 @@
       "value": "Raises Water Unit Unit Attack Res"
     },
     {
+      "key": "BUFF_ARENA_GL_00072",
+      "value": "Raises Water Unit ATK/MAG."
+    },
+    {
+      "key": "BUFF_ARENA_GL_00073",
+      "value": "Raises Area Attack Res."
+    },
+    {
       "key": "BUFF_GVG_001",
       "value": "Raises Dark Attack."
     },
@@ -44755,6 +45867,10 @@
     {
       "key": "BUFF_GVG_039",
       "value": "Raises Dark Unit HP/MAG."
+    },
+    {
+      "key": "BUFF_GVG_041",
+      "value": "Raises Lightning Unit Unit Attack Res."
     },
     {
       "key": "BUFF_LGVG_MAP_001",
@@ -45029,6 +46145,10 @@
       "value": "Raises Wind Unit HP."
     },
     {
+      "key": "BUFF_GVG_GL_068",
+      "value": "Raises Ice Unit MAG."
+    },
+    {
       "key": "BUFF_LGVG_001",
       "value": ""
     },
@@ -45177,6 +46297,10 @@
       "value": "Nullifies Silence, raises DEF."
     },
     {
+      "key": "BUFF_DRAFTMATCH_011",
+      "value": "Raises Slash Res, nullifies CT Up/Down."
+    },
+    {
       "key": "BUFF_CLASSMATCH_GL_002",
       "value": "Raises Light Unit AGI."
     },
@@ -45225,6 +46349,30 @@
       "value": "Reaction Block Rate +100"
     },
     {
+      "key": "BUFF_FRIENDMATCH_007",
+      "value": "Nullifies Reraise."
+    },
+    {
+      "key": "BUFF_FRIENDMATCH_008",
+      "value": "Healing Power 50% Down"
+    },
+    {
+      "key": "BUFF_FRIENDMATCH_009",
+      "value": "Evocation Gauge Acquisition Up 100%"
+    },
+    {
+      "key": "BUFF_FRIENDMATCH_010",
+      "value": "Critical Evasion Rate +200"
+    },
+    {
+      "key": "BUFF_FRIENDMATCH_103_1",
+      "value": "Quicken/CT Up/Down Nullify, Reaction Block Rate +100 (Free Match Rules)"
+    },
+    {
+      "key": "BUFF_FRIENDMATCH_103_2",
+      "value": ""
+    },
+    {
       "key": "BUFF_01130310",
       "value": "Mont Leonis Buff"
     },
@@ -45266,6 +46414,10 @@
     },
     {
       "key": "BUFF_LW_SWO_031",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_LW_SWO_031_1",
       "value": ""
     },
     {
@@ -46021,11 +47173,19 @@
       "value": ""
     },
     {
+      "key": "BUFF_LW_PLUS6_REACTSTP_40",
+      "value": ""
+    },
+    {
       "key": "BUFF_LW_PLUS6_SHOT_25",
       "value": ""
     },
     {
       "key": "BUFF_LW_PLUS6_DEFPIERCE_10",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_PLUS6_DEFPIERCE_30",
       "value": ""
     },
     {
@@ -46121,11 +47281,19 @@
       "value": ""
     },
     {
+      "key": "BUFF_LW_PLUS6_RES_SINGLE_8",
+      "value": ""
+    },
+    {
       "key": "BUFF_LW_PLUS6_RES_SINGLE_15",
       "value": ""
     },
     {
       "key": "BUFF_LW_PLUS6_RES_MAGIC_15",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_PLUS6_BEASTKR_50",
       "value": ""
     },
     {
@@ -46257,6 +47425,26 @@
       "value": ""
     },
     {
+      "key": "BUFF_LW_SPE_028_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SPE_028_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SPE_028_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SPE_028_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SPE_028_5",
+      "value": ""
+    },
+    {
       "key": "BUFF_LW_FIS_016_2_1",
       "value": ""
     },
@@ -46301,6 +47489,26 @@
       "value": ""
     },
     {
+      "key": "BUFF_LW_FIS_017_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_FIS_017_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_FIS_017_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_FIS_017_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_FIS_017_5",
+      "value": ""
+    },
+    {
       "key": "BUFF_LW_KAT_004_2_1",
       "value": ""
     },
@@ -46326,6 +47534,114 @@
     },
     {
       "key": "BUFF_LW_KAT_004_5_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SPE_025_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SPE_025_2EN",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SPE_025_3_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SPE_025_3_1EN",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SPE_025_3_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SPE_025_4_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SPE_025_4_1EN",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SPE_025_4_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SPE_025_5_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SPE_025_5_1EN",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SPE_025_5_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_AXE_012_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_AXE_012_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_AXE_012_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_AXE_012_5",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ACC_117_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ACC_117_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SWO_045_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SWO_045_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SWO_045_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SWO_045_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SWO_045_5",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SWO_045_1_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SWO_045_2_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SWO_045_3_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SWO_045_4_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SWO_045_5_2",
       "value": ""
     },
     {
@@ -47193,6 +48509,30 @@
       "value": ""
     },
     {
+      "key": "BUFF_LW_ACC_057",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ACC_057_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ACC_057_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ACC_057_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ACC_057_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_ACC_057_5",
+      "value": ""
+    },
+    {
       "key": "BUFF_LW_ACC_037_1_S",
       "value": ""
     },
@@ -47793,6 +49133,14 @@
       "value": ""
     },
     {
+      "key": "BUFF_MBAT_M_03_B_T",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MBAT_M_03_B_S",
+      "value": ""
+    },
+    {
       "key": "BUFF_MBAT_M_04",
       "value": ""
     },
@@ -47851,6 +49199,14 @@
     {
       "key": "BUFF_PT_001",
       "value": "Enemy: Raise Nullify"
+    },
+    {
+      "key": "BUFF_EV_UMWP_01",
+      "value": "Ally: All Attack Res Piercing Rate -50"
+    },
+    {
+      "key": "BUFF_TOWER_IC10_01",
+      "value": "Ally: All Attack Res Piercing Rate -30"
     }
   ]
 }

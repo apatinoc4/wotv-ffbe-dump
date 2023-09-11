@@ -113,11 +113,19 @@
       "value": ""
     },
     {
+      "key": "PR_TH_FI_SSR_D",
+      "value": ""
+    },
+    {
       "key": "PR_LCIO",
       "value": ""
     },
     {
       "key": "PR_SLIM",
+      "value": ""
+    },
+    {
+      "key": "PR_AF2023",
       "value": ""
     },
     {
@@ -293,8 +301,16 @@
       "value": "Set Formation with a Specific Unit"
     },
     {
-      "key": "PR_AF2023",
-      "value": ""
+      "key": "PR_GL_JEDN_02",
+      "value": "Set Formation with a Specific Unit"
+    },
+    {
+      "key": "PR_GL_GRSR_03",
+      "value": "Set Formation with a Specific Unit"
+    },
+    {
+      "key": "PR_GL_ALIA_01",
+      "value": "Set Formation with a Specific Unit"
     }
   ]
 }

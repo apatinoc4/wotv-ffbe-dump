@@ -2357,6 +2357,30 @@
       "value": "Vanguard Physical Tank Class<br><br>A job that reduces incoming damage by using a barrier and weakening the effect of debuffs, in addition to aiding allies with their offense by lowering enemy DEF and SPR with a wide-range attack."
     },
     {
+      "key": "JB_LW_JEDN_02",
+      "value": "Vanguard Magic Attacker Class<br><br>A job that specializes in Pierce Attacks that deal damage based on its MAG stat and has abilities that can weaken foes by destroying magic barriers, reducing Healing Power, and removing Reraise."
+    },
+    {
+      "key": "JB_LW_JEDN_02_M",
+      "value": "Vanguard Magic Attacker Class<br><br>A job that specializes in Pierce Attacks that deal damage based on its MAG stat and has abilities that can weaken foes by destroying magic barriers, reducing Healing Power, and removing Reraise."
+    },
+    {
+      "key": "JB_LW_GRSR_03",
+      "value": "Vanguard Physical Tank Class<br><br>A job that can reduce incoming damage to the allies around it, and also raises its own defense as it delivers attacks."
+    },
+    {
+      "key": "JB_LW_GRSR_03_M",
+      "value": "Vanguard Physical Tank Class<br><br>A job that can reduce incoming damage to the allies around it, and also raises its own defense as it delivers attacks."
+    },
+    {
+      "key": "JB_LW_ALIA_01",
+      "value": "Vanguard Striker Class<br><br>A job that can defend against enemies by using Protect, Shell, and Courage while unleashing devastating attacks upon single targets."
+    },
+    {
+      "key": "JB_LW_ALIA_01_M",
+      "value": "Vanguard Striker Class<br><br>A job that can defend against enemies by using Protect, Shell, and Courage while unleashing devastating attacks upon single targets."
+    },
+    {
       "key": "JB_LW_VERN_M",
       "value": "Vanguard Striker Class<br><br>A spear-wielding job that employs two-panel piercing attacks. Critical Hit rates can be boosted for even greater damage."
     },
@@ -2731,6 +2755,10 @@
     {
       "key": "JB_LW_URAL_M",
       "value": "Vanguard Striker Class<br><br>A job that is durable thanks to Courage and can fire back with powerful attacks by greatly increasing its ATK in exchange for lowering SPR."
+    },
+    {
+      "key": "JB_LW_BNI_THUN",
+      "value": "Vanguard Striker Class<br><br>A job that creates advantageous opportunities in battle by increasing the Evasion of surrounding allies and lowering its own Hate."
     },
     {
       "key": "JB_LW_CLE",

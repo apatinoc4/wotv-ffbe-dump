@@ -9321,6 +9321,10 @@
       "value": "Maelstrom Jet"
     },
     {
+      "key": "SK_LW_EC_JEDN_01_A_01B",
+      "value": "Maelstrom Jet"
+    },
+    {
       "key": "SK_LW_EC_JEDN_01_C_01",
       "value": "Ruler's Insight Enhancement"
     },
@@ -9687,6 +9691,14 @@
     {
       "key": "SK_LW_MHA_M_1_SUB",
       "value": "Swift End"
+    },
+    {
+      "key": "SK_LW_MHA_M_2_SUB",
+      "value": "Unhappy Ending"
+    },
+    {
+      "key": "SK_LW_MHA_M_3_SUB",
+      "value": "Spell of Shielding"
     },
     {
       "key": "SK_LW_MHA_S_2",
@@ -11457,6 +11469,242 @@
       "value": "I Rule the Eternal Night..."
     },
     {
+      "key": "SK_LW_JEDN_02_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_JEDN_02_M_1",
+      "value": "Dispelling Descent"
+    },
+    {
+      "key": "SK_LW_JEDN_02_M_1B",
+      "value": "Dispelling Descent"
+    },
+    {
+      "key": "SK_LW_JEDN_02_M_2",
+      "value": "Magilance Rain"
+    },
+    {
+      "key": "SK_LW_JEDN_02_M_2B",
+      "value": "Magilance Rain"
+    },
+    {
+      "key": "SK_LW_JEDN_02_M_3",
+      "value": "Shield Blessing"
+    },
+    {
+      "key": "SK_LW_JEDN_02_S_1",
+      "value": "Lifebane Lance"
+    },
+    {
+      "key": "SK_LW_JEDN_02_S_2",
+      "value": "Arcane Acuity"
+    },
+    {
+      "key": "SK_LW_JEDN_02_S_3",
+      "value": "Blessed Discord"
+    },
+    {
+      "key": "SK_LW_JEDN_02_S_4",
+      "value": "Golden Sunlance"
+    },
+    {
+      "key": "SK_LW_JEDN_02_R_1",
+      "value": "Riposte Lance"
+    },
+    {
+      "key": "SK_LW_JEDN_02_P_1",
+      "value": "New King's Acumen"
+    },
+    {
+      "key": "SK_LW_JEDN_02_P_2",
+      "value": "Lessons from the Purple Dragon"
+    },
+    {
+      "key": "SK_LW_EC_JEDN_02_A_01",
+      "value": "Impaling Wave"
+    },
+    {
+      "key": "SK_LW_EC_JEDN_02_C_01",
+      "value": "Shield Blessing Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_JEDN_02_C_01B",
+      "value": "Greater Shield Blessing"
+    },
+    {
+      "key": "SK_LW_EC_JEDN_02_C_01C",
+      "value": "Greater Shield Blessing"
+    },
+    {
+      "key": "SK_LW_EC_JEDN_02_C_02",
+      "value": "New King's Acumen Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_JEDN_02_C_02B",
+      "value": "Glimpse of Greatness"
+    },
+    {
+      "key": "SK_LW_GRSR_03_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_GRSR_03_M_1",
+      "value": "Wolven Claws"
+    },
+    {
+      "key": "SK_LW_GRSR_03_M_1B",
+      "value": "Wolven Claws"
+    },
+    {
+      "key": "SK_LW_GRSR_03_M_2",
+      "value": "Dauntless Maiden"
+    },
+    {
+      "key": "SK_LW_GRSR_03_M_2B",
+      "value": "Reduction of Phys Dmg Taken"
+    },
+    {
+      "key": "SK_LW_GRSR_03_M_3",
+      "value": "Ebb and Flow: Barrier"
+    },
+    {
+      "key": "SK_LW_GRSR_03_S_1",
+      "value": "Sunscreen"
+    },
+    {
+      "key": "SK_LW_GRSR_03_S_2",
+      "value": "Slight Delight"
+    },
+    {
+      "key": "SK_LW_GRSR_03_S_3",
+      "value": "Graviton Strike"
+    },
+    {
+      "key": "SK_LW_GRSR_03_S_4",
+      "value": "Tonic Water"
+    },
+    {
+      "key": "SK_LW_GRSR_03_R_1",
+      "value": "SPF 50"
+    },
+    {
+      "key": "SK_LW_GRSR_03_P_1",
+      "value": "Summer Shade"
+    },
+    {
+      "key": "SK_LW_GRSR_03_P_2",
+      "value": "Summer Goddess's Blessing"
+    },
+    {
+      "key": "SK_LW_GRSR_03_EN_A_01",
+      "value": "Shore Thing"
+    },
+    {
+      "key": "SK_LW_EC_GRSR_03_C_01",
+      "value": "Dauntless Maiden Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_GRSR_03_C_01B",
+      "value": "Unfalling Maiden"
+    },
+    {
+      "key": "SK_LW_EC_GRSR_03_C_01BB",
+      "value": "HP Recovery at Below 50% HP"
+    },
+    {
+      "key": "SK_LW_EC_GRSR_03_C_01BC",
+      "value": "Accuracy Up"
+    },
+    {
+      "key": "SK_LW_EC_GRSR_03_C_02",
+      "value": "Summer Shade Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_GRSR_03_C_02B",
+      "value": "Chic Summer Shade"
+    },
+    {
+      "key": "SK_LW_ALIA_01_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_ALIA_01_ATK_B",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_ALIA_01_M_1",
+      "value": "Paralyzing Strike"
+    },
+    {
+      "key": "SK_LW_ALIA_01_M_1_B",
+      "value": "Paralyzing Strike"
+    },
+    {
+      "key": "SK_LW_ALIA_01_M_2",
+      "value": "Floral Blessing"
+    },
+    {
+      "key": "SK_LW_ALIA_01_M_2_B",
+      "value": "Hate Down when Below 20% HP"
+    },
+    {
+      "key": "SK_LW_ALIA_01_M_3",
+      "value": "Jamming Impact"
+    },
+    {
+      "key": "SK_LW_ALIA_01_S_1",
+      "value": "Bolt Jab"
+    },
+    {
+      "key": "SK_LW_ALIA_01_S_2",
+      "value": "Princess's Resolve"
+    },
+    {
+      "key": "SK_LW_ALIA_01_S_3",
+      "value": "Double Dragons"
+    },
+    {
+      "key": "SK_LW_ALIA_01_S_4",
+      "value": "Ultimate Blow"
+    },
+    {
+      "key": "SK_LW_ALIA_01_R_1",
+      "value": "Sonic Counter"
+    },
+    {
+      "key": "SK_LW_ALIA_01_P_1",
+      "value": "Devoted Heart"
+    },
+    {
+      "key": "SK_LW_ALIA_01_P_2",
+      "value": "Eyes of the Dragon-Stag Princess"
+    },
+    {
+      "key": "SK_LW_ALIA_01_EN_A_01",
+      "value": "Dragon Flurry"
+    },
+    {
+      "key": "SK_LW_EC_ALIA_01_C_01",
+      "value": "Jamming Impact Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_ALIA_01_C_01B",
+      "value": "Stag Impact"
+    },
+    {
+      "key": "SK_LW_EC_ALIA_01_C_01C",
+      "value": "Stag Impact"
+    },
+    {
+      "key": "SK_LW_EC_ALIA_01_C_02",
+      "value": "Floral Blessing Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_ALIA_01_C_02B",
+      "value": "Dancing Flower Blessing"
+    },
+    {
       "key": "SK_BTL_GETSP_1-999_U",
       "value": "Acquired SP 1-999% Up"
     },
@@ -12333,6 +12581,26 @@
       "value": "Lunatic Voice"
     },
     {
+      "key": "SK_SIRE_01_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_SIRE_01_M_01",
+      "value": "Water"
+    },
+    {
+      "key": "SK_SIRE_01_M_02",
+      "value": "Waterga"
+    },
+    {
+      "key": "SK_SIRE_01_M_03",
+      "value": "Ultimate Voice"
+    },
+    {
+      "key": "SK_SIRE_01_M_04",
+      "value": "Chaotic Voice"
+    },
+    {
       "key": "SK_SHIV_ATK",
       "value": "Normal Attack"
     },
@@ -12433,6 +12701,10 @@
       "value": "Normal Attack"
     },
     {
+      "key": "SK_UMWP_ATK_B",
+      "value": "Normal Attack"
+    },
+    {
       "key": "SK_UMWP_M_01",
       "value": "Miasmatic Shock Wave"
     },
@@ -12442,6 +12714,10 @@
     },
     {
       "key": "SK_UMWP_M_03",
+      "value": "Noxious Burst"
+    },
+    {
+      "key": "SK_UMWP_M_03_B",
       "value": "Noxious Burst"
     },
     {
@@ -12575,6 +12851,26 @@
     {
       "key": "SK_GRDM_M_05",
       "value": "Abyssal Doom"
+    },
+    {
+      "key": "SK_SHIV_01_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_SHIV_01_M_01",
+      "value": "Blizzard"
+    },
+    {
+      "key": "SK_SHIV_01_M_02",
+      "value": "Blizzaga"
+    },
+    {
+      "key": "SK_SHIV_01_M_03",
+      "value": "Shooting Hail"
+    },
+    {
+      "key": "SK_SHIV_01_M_04",
+      "value": "Black Diamond"
     },
     {
       "key": "SK_ODIN_ATK",
@@ -13045,6 +13341,30 @@
       "value": "Roar"
     },
     {
+      "key": "SK_SHGN_03_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_SHGN_03_M_01",
+      "value": "Impaling Dive"
+    },
+    {
+      "key": "SK_SHGN_03_M_02",
+      "value": "Hydrosphere"
+    },
+    {
+      "key": "SK_SHGN_03_M_03",
+      "value": "Fey Fortitude"
+    },
+    {
+      "key": "SK_SHGN_03_M_04",
+      "value": "Frog's Curse"
+    },
+    {
+      "key": "SK_SHGN_03_R_01",
+      "value": "Auto-Haste"
+    },
+    {
       "key": "SK_LVAT_ATK",
       "value": "Normal Attack"
     },
@@ -13294,6 +13614,18 @@
     },
     {
       "key": "SK_CHCB2_M_03",
+      "value": "Chocobo Blitz"
+    },
+    {
+      "key": "SK_CHCB2_M_01_B",
+      "value": "Chocobo Spin"
+    },
+    {
+      "key": "SK_CHCB2_M_02_B",
+      "value": "Grooming"
+    },
+    {
+      "key": "SK_CHCB2_M_03_B",
       "value": "Chocobo Blitz"
     },
     {
@@ -14661,10 +14993,6 @@
       "value": "Destiny's Cross"
     },
     {
-      "key": "SK_LB_LW_MONT_B",
-      "value": "Destiny's Cross+"
-    },
-    {
       "key": "SK_LB_LW_ELDE",
       "value": "Leonis Barrier"
     },
@@ -14675,10 +15003,6 @@
     {
       "key": "SK_LB_LW_STRN",
       "value": "Fatal Fang"
-    },
-    {
-      "key": "SK_LB_LW_STRN_B",
-      "value": "Fatal Fang+"
     },
     {
       "key": "SK_LB_LW_ROBB",
@@ -15329,6 +15653,94 @@
       "value": "Diabolic Advent"
     },
     {
+      "key": "SK_LB_LW_JEDN_02",
+      "value": "Dance of the Stag King"
+    },
+    {
+      "key": "SK_LB_LW_GRSR_03",
+      "value": "Grand Swell Slash"
+    },
+    {
+      "key": "SK_LB_LW_ALIA_01",
+      "value": "Sphaera Historia"
+    },
+    {
+      "key": "SK_LB_LW_MONT_B",
+      "value": "Destiny's Cross"
+    },
+    {
+      "key": "SK_LB_LW_MONT_B_2_EN",
+      "value": "HP Recovery at Below 50% HP"
+    },
+    {
+      "key": "SK_LB_LW_ELDE_C",
+      "value": "Leonis Barrier"
+    },
+    {
+      "key": "SK_LB_LW_STRN_B",
+      "value": "Fatal Fang"
+    },
+    {
+      "key": "SK_LB_LW_MDNA_C",
+      "value": "Cosmo Plume"
+    },
+    {
+      "key": "SK_LB_LW_LILS_B",
+      "value": "Beach Attack!"
+    },
+    {
+      "key": "SK_LB_LW_KTON_01_C",
+      "value": "Kitone's Swim Ring Attack"
+    },
+    {
+      "key": "SK_LB_LW_QILF_01_B",
+      "value": "Summer Fatale"
+    },
+    {
+      "key": "SK_LB_LW_ELSR_01_B",
+      "value": "Dreamy Typhoon"
+    },
+    {
+      "key": "SK_LB_LW_HLNA_02_B",
+      "value": "Mermaid Dance"
+    },
+    {
+      "key": "SK_LB_LW_MONT_B_CH",
+      "value": "Destiny's Cross Enhancement"
+    },
+    {
+      "key": "SK_LB_LW_ELDE_C_CH",
+      "value": "Leonis Barrier Enhancement"
+    },
+    {
+      "key": "SK_LB_LW_STRN_B_CH",
+      "value": "Fatal Fang Enhancement"
+    },
+    {
+      "key": "SK_LB_LW_MDNA_C_CH",
+      "value": "Cosmo Plume Enhancement"
+    },
+    {
+      "key": "SK_LB_LW_LILS_B_CH",
+      "value": "Beach Attack! Enhancement"
+    },
+    {
+      "key": "SK_LB_LW_KTON_01_C_CH",
+      "value": "Kitone's Swim Ring Attack Enhancement"
+    },
+    {
+      "key": "SK_LB_LW_QILF_01_B_CH",
+      "value": "Summer Fatale Enhancement"
+    },
+    {
+      "key": "SK_LB_LW_ELSR_01_B_CH",
+      "value": "Dreamy Typhoon Enhancement"
+    },
+    {
+      "key": "SK_LB_LW_HLNA_02_B_CH",
+      "value": "Mermaid Dance Enhancement"
+    },
+    {
       "key": "SK_SMN_IFRT",
       "value": "Hellfire"
     },
@@ -15583,6 +15995,14 @@
     {
       "key": "SK_SMN_GRDM",
       "value": "Abyssal Doom"
+    },
+    {
+      "key": "SK_SMN_SHIV_01",
+      "value": "Black Diamond"
+    },
+    {
+      "key": "SK_SMN_SIRE_01",
+      "value": "Chaotic Voice"
     },
     {
       "key": "SK_UN_BD_EC_HP_200",
@@ -18529,6 +18949,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_SLEN_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_VERN",
       "value": "Master Ability"
     },
@@ -18853,6 +19277,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_HLNA_02_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_SHLS",
       "value": "Master Ability"
     },
@@ -18966,6 +19394,18 @@
     },
     {
       "key": "SK_MA_LW_RUFF",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_JEDN_02",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_GRSR_03",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_ALIA_01",
       "value": "Master Ability"
     },
     {
@@ -20073,6 +20513,150 @@
       "value": "Mind Enhancer"
     },
     {
+      "key": "SK_UES_LW_JEDN_02",
+      "value": "Spear Jayden Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_UES_LW_ALIA",
+      "value": "Alaya Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_ALIA_EN_A_01B",
+      "value": "Armor Borer"
+    },
+    {
+      "key": "SK_UES_LW_SCAL",
+      "value": "Skahal Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_EC_BLM_A_06B",
+      "value": "Thundaga [Disposer]"
+    },
+    {
+      "key": "SK_UES_LW_RARD",
+      "value": "Rhaldor Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_EC_BEA_A_03B",
+      "value": "Demolition Fist"
+    },
+    {
+      "key": "SK_UES_LW_GRSR_01",
+      "value": "Glaciela (Regalia) Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_EC_GRSR_01_A_01B",
+      "value": "Regal Tranquility"
+    },
+    {
+      "key": "SK_UES_LW_SHLS",
+      "value": "Cherise Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_EC_DAC_C_03C",
+      "value": "Suppressive Volley"
+    },
+    {
+      "key": "SK_UES_LW_RRIR",
+      "value": "Loreila Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_EC_HUN_C_10C",
+      "value": "Fiercefletch Mastery"
+    },
+    {
+      "key": "SK_UES_LW_VADM",
+      "value": "Vadim Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_EC_THI_C_04C",
+      "value": "Thief Mastery"
+    },
+    {
+      "key": "SK_UES_LW_MINU",
+      "value": "Minwu Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_EC_SCR_C_01C",
+      "value": "Greater Law of Invigoration"
+    },
+    {
+      "key": "SK_UES_LW_VERN",
+      "value": "Velne Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_EC_LAN_C_09C",
+      "value": "Nighthunter"
+    },
+    {
+      "key": "SK_UES_LW_JEDN_01",
+      "value": "Jayden (Summer) Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_UES_LW_LILS_01",
+      "value": "Lilyth (Summer) Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_EC_HUN_A_04B",
+      "value": "Armor Break Arrow"
+    },
+    {
+      "key": "SK_UES_LW_KTON_01",
+      "value": "Kitone (Summer) Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_EC_MMC_A_02B",
+      "value": "Broken Swords, Shattered Staves"
+    },
+    {
+      "key": "SK_UES_LW_QILF_01",
+      "value": "Kilphe (Summer) Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_EC_AXD_C_01C",
+      "value": "Frostwind Axe"
+    },
+    {
+      "key": "SK_UES_LW_ELSR_01",
+      "value": "Elsirelle (Summer) Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_LIB_WATER_M_2_ELSR_01",
+      "value": "Instantaneous Tidal Calling"
+    },
+    {
+      "key": "SK_UES_LW_HLNA_02",
+      "value": "Helena (Summer) Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_HLNA_M_3B",
+      "value": "Enchanting Skies"
+    },
+    {
+      "key": "SK_UES_LW_GRSR_03",
+      "value": "Glaciela (Summer) Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_UES_LW_ALIA_01",
+      "value": "Alaya the Alabaster Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_UES_LW_RYER_02",
+      "value": "Little Leela the Bold Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_EC_RYER_A_01B",
+      "value": "Little Leela's Secret Slash"
+    },
+    {
+      "key": "SK_UES_LW_LMRE",
+      "value": "Lemur Reincarnation Passive Ability"
+    },
+    {
+      "key": "SK_LW_EC_TIM_A_02B",
+      "value": "Guard Hasteja"
+    },
+    {
       "key": "SK_LW_SLASH_1",
       "value": "Slash ATK +2"
     },
@@ -20765,6 +21349,10 @@
       "value": ""
     },
     {
+      "key": "SK_LW_HAT_017_6",
+      "value": ""
+    },
+    {
       "key": "SK_LW_RNG_006_1",
       "value": ""
     },
@@ -21050,6 +21638,10 @@
     },
     {
       "key": "SK_LW_RNG_011_5",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_RNG_011_1_5",
       "value": ""
     },
     {
@@ -22121,6 +22713,14 @@
       "value": "Bloodboil"
     },
     {
+      "key": "SK_ACC_LW_BIGA_1_ARENA",
+      "value": "Jealous Wrath"
+    },
+    {
+      "key": "SK_ACC_LW_DARD_1_ARENA",
+      "value": "Invitation to Despair"
+    },
+    {
       "key": "SK_SWO_LW_ADLD_1_1",
       "value": ""
     },
@@ -22351,6 +22951,18 @@
     {
       "key": "SK_ACC_LW_RUFF_1",
       "value": "Midnight High"
+    },
+    {
+      "key": "SK_ACC_LW_JEDN_02_1",
+      "value": "Dragon's Grace"
+    },
+    {
+      "key": "SK_ACC_LW_GRSR_03_1",
+      "value": "Oceanic Protection"
+    },
+    {
+      "key": "SK_ACC_LW_ALIA_01_1",
+      "value": "Striking Fragrance"
     },
     {
       "key": "SK_VC_LW_GLEM_GS",
@@ -24790,6 +25402,206 @@
     },
     {
       "key": "SK_GL_VC_LW_GRDM_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SHIV_01_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SHIV_01_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SHIV_01_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SHIV_01_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SHIV_01_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SHIV_01_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SHIV_01_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SHIV_01_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SHIV_01_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SHIV_01_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SHIV_01_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SHIV_01_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN2_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN2_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN2_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN2_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN2_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN2_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN2_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN2_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN2_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN2_P_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN2_PAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN2_PMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR_03_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR_03_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR_03_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR_03_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR_03_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR_03_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR_03_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR_03_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR_03_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR_03_PVA",
+      "value": "Claim the Flag"
+    },
+    {
+      "key": "SK_VC_LW_GRSR_03_PVA_R",
+      "value": "Beach Guard"
+    },
+    {
+      "key": "SK_GL_VC_LW_GRSR_03_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRSR_03_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRSR_03_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SIRE_01_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SIRE_01_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SIRE_01_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SIRE_01_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SIRE_01_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SIRE_01_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SIRE_01_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SIRE_01_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SIRE_01_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SIRE_01_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SIRE_01_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SIRE_01_PMAX2",
       "value": ""
     },
     {
@@ -32501,6 +33313,10 @@
       "value": "HP Recovery at Below 50% HP"
     },
     {
+      "key": "SK_BTL_ASTR_1",
+      "value": "All Elemental Res +15 during Courage"
+    },
+    {
       "key": "SK_GMK_ATK_TEST",
       "value": "Gimmick Provisional Attack"
     },
@@ -34285,6 +35101,10 @@
       "value": "Astraea Aurora"
     },
     {
+      "key": "SK_GL_LW_SWO_031_1",
+      "value": ""
+    },
+    {
       "key": "SK_LW_BOK_007",
       "value": ""
     },
@@ -35021,12 +35841,20 @@
       "value": "Reaction Block Rate +20"
     },
     {
+      "key": "SK_LW_PLUS6_REACTSTP_40",
+      "value": "Reaction Block Rate +40"
+    },
+    {
       "key": "SK_LW_PLUS6_SHOT_25",
       "value": "Missile ATK +25"
     },
     {
       "key": "SK_LW_PLUS6_DEFPIERCE_10",
       "value": "DEF Piercing Rate +10"
+    },
+    {
+      "key": "SK_LW_PLUS6_DEFPIERCE_30",
+      "value": "DEF Piercing Rate +30"
     },
     {
       "key": "SK_LW_PLUS6_REACTSTP_30",
@@ -35121,12 +35949,20 @@
       "value": "Demon Killer +50"
     },
     {
+      "key": "SK_LW_PLUS6_RES_SINGLE_8",
+      "value": "Unit Attack Res +8"
+    },
+    {
       "key": "SK_LW_PLUS6_RES_SINGLE_15",
       "value": "Unit Attack Res +15"
     },
     {
       "key": "SK_LW_PLUS6_RES_MAGIC_15",
       "value": "Magic Attack Res +15"
+    },
+    {
+      "key": "SK_LW_PLUS6_BEASTKR_50",
+      "value": "Beast Killer +50"
     },
     {
       "key": "SK_FF4_ROD_000_1",
@@ -35249,6 +36085,26 @@
       "value": "Necklace of Compassion Specific Passive Ability"
     },
     {
+      "key": "SK_LW_SPE_028_1",
+      "value": "Divine Horn Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_SPE_028_2",
+      "value": "Divine Horn Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_SPE_028_3",
+      "value": "Divine Horn Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_SPE_028_4",
+      "value": "Divine Horn Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_SPE_028_5",
+      "value": "Divine Horn Specific Passive Ability"
+    },
+    {
       "key": "SK_LW_FIS_016_2",
       "value": "Dragon Claws Specific Passive Ability 2"
     },
@@ -35281,6 +36137,26 @@
       "value": "Physical/Magic Dmg Boost (10%) ({0} time(s)) for 3 Turns when Below 50% HP"
     },
     {
+      "key": "SK_LW_FIS_017_1",
+      "value": "Radiant Dragonhorns Passive Ability"
+    },
+    {
+      "key": "SK_LW_FIS_017_2",
+      "value": "Radiant Dragonhorns Passive Ability"
+    },
+    {
+      "key": "SK_LW_FIS_017_3",
+      "value": "Radiant Dragonhorns Passive Ability"
+    },
+    {
+      "key": "SK_LW_FIS_017_4",
+      "value": "Radiant Dragonhorns Passive Ability"
+    },
+    {
+      "key": "SK_LW_FIS_017_5",
+      "value": "Radiant Dragonhorns Passive Ability"
+    },
+    {
       "key": "SK_LW_KAT_004_2",
       "value": "Heaven's Cloud Specific Passive Ability 2"
     },
@@ -35295,6 +36171,66 @@
     {
       "key": "SK_LW_KAT_004_5",
       "value": "Heaven's Cloud Specific Passive Ability 5"
+    },
+    {
+      "key": "SK_LW_SPE_025_2",
+      "value": "Dragon Whisker Specific Passive Ability 2"
+    },
+    {
+      "key": "SK_LW_SPE_025_3",
+      "value": "Dragon Whisker Specific Passive Ability 3"
+    },
+    {
+      "key": "SK_LW_SPE_025_4",
+      "value": "Dragon Whisker Specific Passive Ability 4"
+    },
+    {
+      "key": "SK_LW_SPE_025_5",
+      "value": "Dragon Whisker Specific Passive Ability 5"
+    },
+    {
+      "key": "SK_LW_AXE_012_2",
+      "value": "Rune Axe Specific Passive Ability 2"
+    },
+    {
+      "key": "SK_LW_AXE_012_3",
+      "value": "Rune Axe Specific Passive Ability 3"
+    },
+    {
+      "key": "SK_LW_AXE_012_4",
+      "value": "Rune Axe Specific Passive Ability 4"
+    },
+    {
+      "key": "SK_LW_AXE_012_5",
+      "value": "Rune Axe Specific Passive Ability 5"
+    },
+    {
+      "key": "SK_LW_ACC_117_1",
+      "value": "Moogle Beach Ball Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_ACC_117_2",
+      "value": "Moogle Beach Ball Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_SWO_045_1",
+      "value": "Sea Deity's Sword Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_SWO_045_2",
+      "value": "Sea Deity's Sword Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_SWO_045_3",
+      "value": "Sea Deity's Sword Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_SWO_045_4",
+      "value": "Sea Deity's Sword Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_SWO_045_5",
+      "value": "Sea Deity's Sword Specific Passive Ability"
     },
     {
       "key": "SK_LW_BOW_014_1",
@@ -36265,6 +37201,30 @@
       "value": ""
     },
     {
+      "key": "SK_LW_ACC_057",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ACC_057_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ACC_057_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ACC_057_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ACC_057_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ACC_057_5",
+      "value": ""
+    },
+    {
       "key": "SK_LW_ACC_037_1_S",
       "value": ""
     },
@@ -36742,6 +37702,10 @@
     },
     {
       "key": "SK_MBAT_M_03",
+      "value": "TP Drain"
+    },
+    {
+      "key": "SK_MBAT_M_03_B",
       "value": "TP Drain"
     },
     {

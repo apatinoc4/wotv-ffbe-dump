@@ -65,6 +65,10 @@
       "value": "Light/Dark Unit "
     },
     {
+      "key": "VLC_WATER_SOIL",
+      "value": "Water/Earth Unit "
+    },
+    {
       "key": "VLC_ICE_SOIL",
       "value": "Ice/Earth Unit "
     },
@@ -170,6 +174,14 @@
     },
     {
       "key": "VLC_CMLO_ELSR",
+      "value": ""
+    },
+    {
+      "key": "VLC_SLEN_LCIO",
+      "value": ""
+    },
+    {
+      "key": "VLC_GRSR_03_ELSR_01_KTON_01_LILS_01",
       "value": ""
     },
     {
@@ -731,6 +743,14 @@
     {
       "key": "VLC_DAG_KAT_RDA_MAC",
       "value": "Dagger/Katana/Staff (Black Mage etc.)/Mace-Equippable Main Job Unit "
+    },
+    {
+      "key": "VLC_SWA_GUN_DAG_GLO",
+      "value": "Sword (Red Mage etc.)/Gun/Dagger/Gloves-Equippable Main Job Unit "
+    },
+    {
+      "key": "VLC_SWA_FIS_KAT_BOK",
+      "value": "Sword (Red Mage etc.)/Fists/Katana/Book-Equippable Main Job Unit "
     }
   ]
 }

@@ -293,6 +293,10 @@
       "value": ""
     },
     {
+      "key": "SE_EV_BSTC_01",
+      "value": ""
+    },
+    {
       "key": "SE_EV_CRL_01",
       "value": ""
     },
@@ -358,6 +362,14 @@
     },
     {
       "key": "SE_EV_DARD_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GRSR_03_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_ALIA_01_01",
       "value": ""
     },
     {
@@ -526,6 +538,18 @@
     },
     {
       "key": "SE_EV_GL_TU_RUFF",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GL_TU_JEDN_02",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GL_TU_GRSR_03",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GL_TU_ALIA_01",
       "value": ""
     },
     {
@@ -786,6 +810,18 @@
     },
     {
       "key": "SE_EV_20_EX_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_22_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_22_EX_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_22_EX_02",
       "value": ""
     },
     {
@@ -1101,6 +1137,10 @@
       "value": ""
     },
     {
+      "key": "SE_EV_ART_CRF_34",
+      "value": ""
+    },
+    {
       "key": "SE_EV_GL_ART_CRF_01",
       "value": ""
     },
@@ -1122,6 +1162,10 @@
     },
     {
       "key": "SE_EV_RC_BST_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_RC_BRD_01",
       "value": ""
     },
     {

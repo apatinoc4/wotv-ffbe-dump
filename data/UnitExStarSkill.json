@@ -881,6 +881,126 @@
       "skills": [
         "SK_UES_LW_SERL"
       ]
+    },
+    {
+      "iname": "UESSK_LW_JEDN_02",
+      "skills": [
+        "SK_UES_LW_JEDN_02"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_ALIA",
+      "skills": [
+        "SK_UES_LW_ALIA"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_SCAL",
+      "skills": [
+        "SK_UES_LW_SCAL"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_RARD",
+      "skills": [
+        "SK_UES_LW_RARD"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_GRSR_01",
+      "skills": [
+        "SK_UES_LW_GRSR_01"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_SHLS",
+      "skills": [
+        "SK_UES_LW_SHLS"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_RRIR",
+      "skills": [
+        "SK_UES_LW_RRIR"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_VADM",
+      "skills": [
+        "SK_UES_LW_VADM"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_MINU",
+      "skills": [
+        "SK_UES_LW_MINU"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_VERN",
+      "skills": [
+        "SK_UES_LW_VERN"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_JEDN_01",
+      "skills": [
+        "SK_UES_LW_JEDN_01"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_LILS_01",
+      "skills": [
+        "SK_UES_LW_LILS_01"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_KTON_01",
+      "skills": [
+        "SK_UES_LW_KTON_01"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_QILF_01",
+      "skills": [
+        "SK_UES_LW_QILF_01"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_ELSR_01",
+      "skills": [
+        "SK_UES_LW_ELSR_01"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_HLNA_02",
+      "skills": [
+        "SK_UES_LW_HLNA_02"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_GRSR_03",
+      "skills": [
+        "SK_UES_LW_GRSR_03"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_ALIA_01",
+      "skills": [
+        "SK_UES_LW_ALIA_01"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_RYER_02",
+      "skills": [
+        "SK_UES_LW_RYER_02"
+      ]
+    },
+    {
+      "iname": "UESSK_LW_LMRE",
+      "skills": [
+        "SK_UES_LW_LMRE"
+      ]
     }
   ]
 }

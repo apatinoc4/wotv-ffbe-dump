@@ -221,6 +221,10 @@
       "value": "Astraea Aurora"
     },
     {
+      "key": "AF_LW_SWO_031_1",
+      "value": "Astraea Aurora +1"
+    },
+    {
       "key": "AF_LW_SWO_035",
       "value": "Wave Blade"
     },
@@ -595,6 +599,30 @@
     {
       "key": "AF_FF5_SWO_001_5",
       "value": "Serpent Fang +5"
+    },
+    {
+      "key": "AF_LW_SWO_045",
+      "value": "Sea Deity's Sword"
+    },
+    {
+      "key": "AF_LW_SWO_045_1",
+      "value": "Sea Deity's Sword +1"
+    },
+    {
+      "key": "AF_LW_SWO_045_2",
+      "value": "Sea Deity's Sword +2"
+    },
+    {
+      "key": "AF_LW_SWO_045_3",
+      "value": "Sea Deity's Sword +3"
+    },
+    {
+      "key": "AF_LW_SWO_045_4",
+      "value": "Sea Deity's Sword +4"
+    },
+    {
+      "key": "AF_LW_SWO_045_5",
+      "value": "Sea Deity's Sword +5"
     },
     {
       "key": "AF_FF6_SWO_000",
@@ -1385,6 +1413,30 @@
       "value": "Dragon Claws"
     },
     {
+      "key": "AF_LW_FIS_017",
+      "value": "Radiant Dragonhorns"
+    },
+    {
+      "key": "AF_LW_FIS_017_1",
+      "value": "Radiant Dragonhorns +1"
+    },
+    {
+      "key": "AF_LW_FIS_017_2",
+      "value": "Radiant Dragonhorns +2"
+    },
+    {
+      "key": "AF_LW_FIS_017_3",
+      "value": "Radiant Dragonhorns +3"
+    },
+    {
+      "key": "AF_LW_FIS_017_4",
+      "value": "Radiant Dragonhorns +4"
+    },
+    {
+      "key": "AF_LW_FIS_017_5",
+      "value": "Radiant Dragonhorns +5"
+    },
+    {
       "key": "AF_LW_SPE_000",
       "value": "Javelin"
     },
@@ -1661,6 +1713,34 @@
       "value": "Glaive of Emptiness +5"
     },
     {
+      "key": "AF_LW_SPE_028",
+      "value": "Divine Horn"
+    },
+    {
+      "key": "AF_LW_SPE_028_1",
+      "value": "Divine Horn +1"
+    },
+    {
+      "key": "AF_LW_SPE_028_2",
+      "value": "Divine Horn +2"
+    },
+    {
+      "key": "AF_LW_SPE_028_3",
+      "value": "Divine Horn +3"
+    },
+    {
+      "key": "AF_LW_SPE_028_4",
+      "value": "Divine Horn +4"
+    },
+    {
+      "key": "AF_LW_SPE_028_5",
+      "value": "Divine Horn +5"
+    },
+    {
+      "key": "AF_LW_SPE_025",
+      "value": "Dragon Whisker"
+    },
+    {
       "key": "AF_GL_LW_SPE_026",
       "value": "Winged Lance"
     },
@@ -1857,6 +1937,10 @@
       "value": "Swordbreaker +5"
     },
     {
+      "key": "AF_LW_DAG_007_6",
+      "value": "Swordbreaker +6"
+    },
+    {
       "key": "AF_LW_DAG_010",
       "value": "Feather Baselard"
     },
@@ -2023,6 +2107,10 @@
     {
       "key": "AF_LW_NKN_004_5",
       "value": "Kurokasumi +5"
+    },
+    {
+      "key": "AF_LW_NKN_004_6",
+      "value": "Kurokasumi +6"
     },
     {
       "key": "AF_FF7_UNI_000",
@@ -2669,6 +2757,10 @@
       "value": "Doom Twilight +5"
     },
     {
+      "key": "AF_LW_ROD_027_6",
+      "value": "Doom Twilight +6"
+    },
+    {
       "key": "AF_LW_ROD_028",
       "value": "Arcane Tuning Rod"
     },
@@ -3101,6 +3193,10 @@
       "value": "Darkwyrm Axe +5"
     },
     {
+      "key": "AF_LW_AXE_012",
+      "value": "Rune Axe"
+    },
+    {
       "key": "AF_LW_SHI_000",
       "value": "Standard Shield"
     },
@@ -3299,6 +3395,10 @@
     {
       "key": "AF_LW_ARM_031_5",
       "value": "Azure Dragon Armor +5"
+    },
+    {
+      "key": "AF_LW_ARM_031_6",
+      "value": "Azure Dragon Armor +6"
     },
     {
       "key": "AF_FF1_ARM_002",
@@ -3807,6 +3907,10 @@
     {
       "key": "AF_LW_ACC_030_5",
       "value": "Power Sash +5"
+    },
+    {
+      "key": "AF_LW_ACC_030_6",
+      "value": "Power Sash +6"
     },
     {
       "key": "AF_FF7_CLT_004",
@@ -5085,6 +5189,10 @@
       "value": "Frost Ring"
     },
     {
+      "key": "AF_LW_RNG_011_1",
+      "value": "Frost Ring +1"
+    },
+    {
       "key": "AF_LW_RNG_012",
       "value": "Tempest Ring"
     },
@@ -5621,6 +5729,10 @@
       "value": "White Marshmallow Miniature +5"
     },
     {
+      "key": "AF_LW_HAT_017_6",
+      "value": "White Marshmallow Miniature +6"
+    },
+    {
       "key": "AF_LW_ACC_040",
       "value": "Emblem of Devouring"
     },
@@ -5755,6 +5867,10 @@
     {
       "key": "AF_LW_GLO_004_5",
       "value": "Elven Gloves +5"
+    },
+    {
+      "key": "AF_LW_GLO_004_6",
+      "value": "Elven Gloves +6"
     },
     {
       "key": "AF_LW_GLO_010",
@@ -6297,6 +6413,10 @@
       "value": "Beastbane Pendant +5"
     },
     {
+      "key": "AF_LW_ACC_049_6",
+      "value": "Beastbane Pendant +6"
+    },
+    {
       "key": "AF_LW_ACC_054",
       "value": "Evilbane Pendant"
     },
@@ -6323,6 +6443,30 @@
     {
       "key": "AF_LW_ACC_054_6",
       "value": "Evilbane Pendant +6"
+    },
+    {
+      "key": "AF_LW_ACC_057",
+      "value": "Raptorbane Pendant"
+    },
+    {
+      "key": "AF_LW_ACC_057_1",
+      "value": "Raptorbane Pendant +1"
+    },
+    {
+      "key": "AF_LW_ACC_057_2",
+      "value": "Raptorbane Pendant +2"
+    },
+    {
+      "key": "AF_LW_ACC_057_3",
+      "value": "Raptorbane Pendant +3"
+    },
+    {
+      "key": "AF_LW_ACC_057_4",
+      "value": "Raptorbane Pendant +4"
+    },
+    {
+      "key": "AF_LW_ACC_057_5",
+      "value": "Raptorbane Pendant +5"
     },
     {
       "key": "AF_LW_ACC_037",
@@ -6467,6 +6611,10 @@
     {
       "key": "AF_LW_ACC_073_5",
       "value": "Thornlet +5"
+    },
+    {
+      "key": "AF_LW_ACC_073_6",
+      "value": "Thornlet +6"
     },
     {
       "key": "AF_LW_ACC_078",
@@ -6695,6 +6843,10 @@
     {
       "key": "AF_LW_ACC_109",
       "value": "Baylow's Smartphone"
+    },
+    {
+      "key": "AF_LW_ACC_117",
+      "value": "Moogle Beach Ball"
     },
     {
       "key": "AF_ADSN_ACC_002",
@@ -6969,6 +7121,18 @@
       "value": "Darknight Mantle"
     },
     {
+      "key": "AF_ACC_LW_JEDN_02_1",
+      "value": "Dragon Princess's Circlet"
+    },
+    {
+      "key": "AF_ACC_LW_GRSR_03_1",
+      "value": "Whitewave Sandals"
+    },
+    {
+      "key": "AF_ACC_LW_ALIA_01_1",
+      "value": "Rundalium Bouquet"
+    },
+    {
       "key": "AF_SWO_LW_SLEN_2",
       "value": "Astraea Aurora"
     },
@@ -7195,6 +7359,18 @@
     {
       "key": "AF_MAC_LW_RUFF_2",
       "value": "Raph Specific Weapon"
+    },
+    {
+      "key": "AF_SPE_LW_JEDN_02_2",
+      "value": "Jayden the Celebrated Specific Weapon"
+    },
+    {
+      "key": "AF_SWO_LW_GRSR_03_2",
+      "value": "Glaciela (Summer) Specific Weapon_Sword"
+    },
+    {
+      "key": "AF_FIS_LW_ALIA_01_2",
+      "value": "Alaya the Alabaster Specific Weapon"
     }
   ]
 }
